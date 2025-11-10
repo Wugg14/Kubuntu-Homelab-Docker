@@ -3,43 +3,29 @@ services:
     image: jellyfin/jellyfin:latest
     container_name: jellyfin
     ports:
-      - "8096:8096"  # Local access via http://localhost:8096
+      - "8096:8096"  # You can remove this if you only want Caddy access
     volumes:
       - ./jellyfin/config:/config
       - ./jellyfin/cache:/cache
-      - /media/mark/New Volume/Jellyfin/Shows/:/media/shows:ro
-      - /media/mark/New Volume/Jellyfin/Movies:/media/movies:ro
-      - /media/mark/New Volume/Jellyfin/4k Movies:/media/4k-movies:ro
-      - /media/mark/New Volume/Jellyfin/4k TV:/media/4k-shows:ro
+      - /media/mark/12TBDataDrive/Jellyfin/Shows/:/media/shows:ro
+      - /media/mark/12TBDataDrive/Jellyfin/Movies:/media/movies:ro
+      - /media/mark/12TBDataDrive/Jellyfin/4k Movies:/media/4k-movies:ro
+      - /media/mark/12TBDataDrive/Jellyfin/4k TV:/media/4k-shows:ro
       - /media/mark/Media Library/JellyFin/Movies:/media/movies2:ro
       - /media/mark/Media Library/JellyFin/Shows:/media/shows2:ro
-      - /media/mark/New Volume1/JellyFin/Books:/media/books:ro
-      - /media/mark/New Volume1/JellyFin/Movies:/media/movies3:ro
-      - /media/mark/New Volume1/JellyFin/Shows:/media/shows3:ro
+      - /media/mark/New Volume/JellyFin/Books:/media/books:ro
+      - /media/mark/New Volume/JellyFin/Movies:/media/movies3:ro
+      - /media/mark/New Volume/JellyFin/Shows:/media/shows3:ro
     environment:
-      - JELLYFIN_PublishedServerUrl=https://stream.marksteininger.com
-      #   (REMOVE THE # BELOW TO ENABLE QUICKSYNC, disable when going to nvidia)
       - UDOCKER_OPTS=--device /dev/dri:/dev/dri
-      # --- TEMPORARILY COMMENTED OUT FOR LOCAL RUN ---
-      # - NVIDIA_VISIBLE_DEVICES=all
-      # - NVIDIA_DRIVER_CAPABILITIES=compute,video,utility
-      # ---------------------------------------------
+      - JELLYFIN_PublishedServerUrl=https://stream.marksteininger.com
+    extra_hosts:
+      - 'host.docker.internal:host-gateway'
     restart: unless-stopped
-    # --- TEMPORARILY COMMENTED OUT FOR LOCAL RUN ---
-    # networks:
-    #   caddy-network:
-    # deploy:
-    #   resources:
-    #     reservations:
-    #       devices:
-    #         - driver: nvidia
-    #           count: all
-    #           capabilities: [gpu]
-    # ---------------------------------------------
+    networks:
+      - caddy-network
 
-# --- TEMPORARILY COMMENTED OUT FOR LOCAL RUN ---
-# networks:
-#   caddy-network:
-#     external: true
-#     name: caddy-network
-# ---------------------------------------------
+networks:
+  caddy-network:
+    external: true
+    name: caddy-network

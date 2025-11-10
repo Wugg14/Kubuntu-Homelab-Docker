@@ -14,10 +14,12 @@ services:
         - /home/mark/Docker Services/Caddy/configs/site:/srv
         - /home/mark/Docker Services/Caddy/data:/data
         - /home/mark/Docker Services/Caddy/caddy_config:/config
+    env_file:
+      - ../.env 
     dns:
         - 1.0.0.1
     networks:
-        - caddy-network
+        - ${CADDY_NETWORK:-caddy-network}
 
 networks:
     caddy-network:

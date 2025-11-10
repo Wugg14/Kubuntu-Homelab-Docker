@@ -8,3 +8,6 @@ Jellfyin/jellyfin/logs/
 Caddy/config/
 Caddy/data
 Caddy/caddy_config
+
+.env
+*.env

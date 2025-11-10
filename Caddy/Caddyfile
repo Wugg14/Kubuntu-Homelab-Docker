@@ -1,6 +1,6 @@
 stream.marksteininger.com {
     reverse_proxy 192.168.1.10:8096
     tls {
-        dns cloudflare api-key
+        dns cloudflare {env.CLOUDFLARE_API_TOKEN}
     }
 }
