@@ -1,6 +1,7 @@
 # Jellyfin - ignore everything in jellyfin data folder except maybe config files
 Jellfyin/jellyfin/*/
 Jellfyin/jellyfin/*.db
+Jellfyin/jellyfin
 Jellfyin/jellyfin/cache/
 Jellfyin/jellyfin/logs/
 
