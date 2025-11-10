@@ -1,0 +1,29 @@
+services:
+  caddy:
+    build: .
+    image: caddy-custom:2.10.2  # Optional: custom name for your built image
+    restart: unless-stopped
+    cap_add:
+        - NET_ADMIN
+    ports:
+        - "80:80"
+        - "443:443"
+        - "443:443/udp"
+    volumes:
+        - /home/mark/Docker Services/Caddy/Caddyfile:/etc/caddy/Caddyfile
+        - /home/mark/Docker Services/Caddy/configs/site:/srv
+        - /home/mark/Docker Services/Caddy/data:/data
+        - /home/mark/Docker Services/Caddy/caddy_config:/config
+    dns:
+        - 1.0.0.1
+    networks:
+        - caddy-network
+
+networks:
+    caddy-network:
+        external: true
+
+volumes:
+  caddy_data:
+    external: true
+  caddy_config:
