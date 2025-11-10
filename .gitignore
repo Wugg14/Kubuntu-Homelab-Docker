@@ -1,15 +1,13 @@
-# Jellyfin - ignore everything in jellyfin data folder except maybe config files
-Jellfyin/jellyfin/*/
-Jellfyin/jellyfin/*.db
-Jellfyin/jellyfin
-Jellfyin/jellyfin/
-Jellfyin/jellyfin/cache/
-Jellfyin/jellyfin/logs/
+Jellyfin/jellyfin/**/*
+!Jellyfin/jellyfin/
+!Jellyfin/jellyfin/*/
 
-# Caddy data
-Caddy/config/
-Caddy/data
-Caddy/caddy_config
+# !Jellyfin/jellyfin/config.xml
+# !Jellyfin/jellyfin/options.xml
+
+Caddy/**/*
+!Caddy/
+!Caddy/*/
 
 .env
 *.env
