@@ -9,5 +9,8 @@ Caddy/**/*
 !Caddy/
 !Caddy/*/
 
+Gluetun/downloads/*
+Gluetun/qbittorrent/*
+
 .env
 *.env

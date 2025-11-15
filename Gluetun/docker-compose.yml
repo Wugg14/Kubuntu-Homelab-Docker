@@ -1,4 +1,3 @@
-version: "3.8"
 services:
   gluetun:
     image: qmcgaw/gluetun
@@ -8,9 +7,32 @@ services:
     devices:
       - /dev/net/tun:/dev/net/tun
     env_file:
-      - ../.env  # Path to your .env file
+      - ../.env
     ports:
-      - "8888:8888/tcp" # HTTP proxy
-      - "8388:8388/tcp" # Shadowsocks
-      - "8388:8388/udp" # Shadowsocks
+      # 1. qBittorrent Web UI: Host Port 8080 -> Container Port 8080
+      - "8080:8080/tcp" 
+      # 2. qBittorrent Torrent Port (e.g., 6881): Host Port 6881 -> Container Port 6881
+      # IMPORTANT: You MUST check the Gluetun logs for the "VPN_PORT_FORWARDING_STATUS"
+      # and use the forwarded port it tells you, or set a specific port in qBittorrent.
+      # Example for torrent traffic (adjust as needed for your setup/port-forwarding):
+      # - "6881:6881/tcp" 
+      # - "6881:6881/udp" 
+    restart: unless-stopped
+
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Europe/Amsterdam
+      # This needs to match the internal port exposed on gluetun
+      - WEBUI_PORT=8080 
+    volumes:
+      - ./qbittorrent/config:/config
+      - ./downloads:/downloads
+    # Uses the network stack of the gluetun container
+    network_mode: "service:gluetun" 
+    depends_on:
+      - gluetun
     restart: unless-stopped
