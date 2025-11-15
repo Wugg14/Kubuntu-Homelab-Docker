@@ -1,14 +1,21 @@
-#https://github.com/itzg/docker-minecraft-server?tab=readme-ov-file
 services:
-  mc:
-    image: itzg/minecraft-server:latest
-    pull_policy: daily
-    tty: true
-    stdin_open: true
+  minecraft_server:
+    restart: unless-stopped
+    container_name: minecraft-tekkit
+    image: itzg/minecraft-server:java17-jdk
+    volumes:
+      - ./data:/data
     ports:
-      - "25565:25565"
+      - 25565:25565
     environment:
       EULA: "TRUE"
-    volumes:
-      # attach the relative directory 'data' to the container's /data path
-      - ./data:/data
+      TYPE: FORGE
+      DEBUG: "false"
+      VERSION: "1.19.2"
+      FORGEVERSION: "43.5.0"
+      MEMORY: "8G"
+      OPS: "Wuggles1"
+      ALLOW_FLIGHT: "true"
+      MOTD: "Greetings Friends and Welcome to Wuggles Castle"
+    tty: true
+    stdin_open: true

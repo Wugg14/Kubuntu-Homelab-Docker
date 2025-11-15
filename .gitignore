@@ -12,5 +12,7 @@ Caddy/**/*
 Gluetun/downloads/*
 Gluetun/qbittorrent/*
 
+Minecraft/data/*
+
 .env
 *.env
