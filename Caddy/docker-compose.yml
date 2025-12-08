@@ -10,10 +10,10 @@ services:
         - "443:443"
         - "443:443/udp"
     volumes:
-        - /home/mark/Docker Services/Caddy/Caddyfile:/etc/caddy/Caddyfile
-        - /home/mark/Docker Services/Caddy/configs/site:/srv
-        - /home/mark/Docker Services/Caddy/data:/data
-        - /home/mark/Docker Services/Caddy/caddy_config:/config
+        - /srv/docker/Kubuntu-Homelab-Docker/Caddy/Caddyfile:/etc/caddy/Caddyfile
+        - /srv/docker/Kubuntu-Homelab-Docker/Caddy/configs/site:/srv
+        - /srv/docker/Kubuntu-Homelab-Docker/Caddy/data:/data
+        - /srv/docker/Kubuntu-Homelab-Docker/Caddy/caddy_config:/config
     env_file:
       - ../.env 
     dns:
