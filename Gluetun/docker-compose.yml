@@ -14,7 +14,7 @@ services:
       - VPN_SERVICE_PROVIDER=protonvpn
       - VPN_TYPE=wireguard
       # Use variable substitution to reference your env variable
-      - WIREGUARD_PRIVATE_KEY=${CLOUDFLARE_API_TOKEN}
+      - WIREGUARD_PRIVATE_KEY=${WIREGUARD_PRIVATE_KEY}
       - SERVER_COUNTRIES=Sweden
       # Add other optional ProtonVPN settings
       - SERVER_CITIES=Stockholm,Gothenburg
