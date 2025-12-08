@@ -8,80 +8,101 @@ services:
     devices:
       - /dev/net/tun:/dev/net/tun
     env_file:
-      - ../.env  # Load environment variables from parent directory
+      - ../.env
     environment:
+      # VPN Provider Settings
       - VPN_SERVICE_PROVIDER=protonvpn
-      - VPN_TYPE=wireguard
-      - PROTONVPN_PORT_FORWARDING=on
-      - PROTONVPN_TIER=plus
-      # Use the WIREGUARD_PRIVATE_KEY variable from your .env file
-      - WIREGUARD_PRIVATE_KEY=${WIREGUARD_PRIVATE_KEY}
-      - SERVER_COUNTRIES=Sweden
-      # Optional: Specify cities or specific servers
-      - SERVER_CITIES=Stockholm,Malmo
-      # Optional: Enable port forwarding if your ProtonVPN plan supports it
-      # - PROTONVPN_PORT_FORWARDING=on
-      # Optional: If you have ProtonVPN account credentials
-      # - PROTONVPN_USER=${PROTONVPN_USER}
-      # - PROTONVPN_PASSWORD=${PROTONVPN_PASSWORD}
+      - VPN_TYPE=${VPN_TYPE:-openvpn}  # Switch to OpenVPN for port forwarding
+      
+      # ProtonVPN OpenVPN Credentials (from .env file)
+      - OPENVPN_USER=${OPENVPN_USER}
+      - OPENVPN_PASSWORD=${OPENVPN_PASSWORD}
+      
+      # Port Forwarding Settings (requires ProtonVPN Plus)
+      - PROTONVPN_PORT_FORWARDING=${PROTONVPN_PORT_FORWARDING:-on}
+      - PROTONVPN_TIER=${PROTONVPN_TIER:-plus}
+      
+      # Server Selection
+      - SERVER_COUNTRIES=${SERVER_COUNTRIES:-Sweden}
+      - SERVER_CITIES=${SERVER_CITIES:-Stockholm}
+      
+      # OpenVPN Protocol (TCP is more reliable for port forwarding)
+      - OPENVPN_PROTOCOL=${OPENVPN_PROTOCOL:-tcp}
+      - OPENVPN_PORT=${OPENVPN_PORT:-443}  # Use port 443 for TCP (bypasses some firewalls)
+      
+      # Network Settings
+      - FIREWALL_VPN_INPUT_PORTS=${FIREWALL_VPN_INPUT_PORTS:-6881,6882,6883}
+      - FIREWALL_OUTBOUND_SUBNETS=0.0.0.0/0
+      
+      # DNS Settings
+      - DNS_ADDRESS_CONTROL=0.0.0.0
+      - DNS_KEEP_NAMESERVER=no
+      
+      # Logging
+      - LOG_LEVEL=${LOG_LEVEL:-info}
+      
+      # Additional ProtonVPN Settings
+      - PROTONVPN_LOAD_BALANCER=${PROTONVPN_LOAD_BALANCER:-off}
+      
     ports:
-      # QBittorrent Web UI port
+      # QBittorrent Web UI
       - "8080:8080/tcp"
-      # Torrent client ports
-      - "6881:6881/tcp"
-      - "6881:6881/udp"
-      # Optional: Additional ports for multiple connections
-      # - "6882:6882/tcp"
-      # - "6882:6882/udp"
-    # Optional: Add custom DNS servers
-    # dns:
-    #   - 1.1.1.1
-    #   - 8.8.8.8
+      # Reserve a range of ports for torrents (will be adjusted after port forwarding assignment)
+      - "6881-6890:6881-6890/tcp"
+      - "6881-6890:6881-6890/udp"
+      # Optional: Gluetun control server
+      # - "8000:8000/tcp"  # For gluetun control API
     restart: unless-stopped
-    # Optional: Health check
-    # healthcheck:
-    #   test: ["CMD", "gluetun", "healthcheck"]
-    #   interval: 60s
-    #   timeout: 10s
-    #   retries: 3
+    # Health check
+    healthcheck:
+      test: ["CMD", "gluetun", "healthcheck"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
 
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
     container_name: qbittorrent
-    # Use gluetun's network to route all traffic through VPN
     network_mode: "service:gluetun"
-    # Also load the same .env file for QBittorrent variables
     env_file:
       - ../.env
     environment:
-      # User and Group IDs (default to 1000 if not set)
+      # User/Group IDs
       - PUID=${PUID:-1000}
       - PGID=${PGID:-1000}
-      # Timezone (default to Stockholm if not set)
+      
+      # Timezone
       - TZ=${TZ:-Europe/Stockholm}
-      # Web UI port (must match the port mapped in gluetun)
+      
+      # Web UI Port (must match gluetun port mapping)
       - WEBUI_PORT=8080
-      # Optional: Web UI credentials (change these!)
+      
+      # QBittorrent Credentials
       - QBITTORRENT_WEBUI_USER=${QBITTORRENT_WEBUI_USER:-admin}
       - QBITTORRENT_WEBUI_PASSWORD=${QBITTORRENT_WEBUI_PASSWORD:-adminadmin}
-      # Optional: Additional QBittorrent settings
-      # - QBITTORRENT_SESSION_MANAGER_ENABLED=${QBITTORRENT_SESSION_MANAGER_ENABLED:-true}
-      # - QBITTORRENT_WATCH_FOLDER_ENABLED=${QBITTORRENT_WATCH_FOLDER_ENABLED:-false}
+      
+      # QBittorrent Network Settings
+      - QBITTORRENT_DHT_ENABLED=${QBITTORRENT_DHT_ENABLED:-true}
+      - QBITTORRENT_PEX_ENABLED=${QBITTORRENT_PEX_ENABLED:-true}
+      - QBITTORRENT_LSD_ENABLED=${QBITTORRENT_LSD_ENABLED:-true}
+      - QBITTORRENT_ANNOUNCE_ALL_TRACKERS=${QBITTORRENT_ANNOUNCE_ALL_TRACKERS:-true}
+      
+      # Optional: Set max connections
+      - QBITTORRENT_MAX_CONNECTIONS_PER_TORRENT=${QBITTORRENT_MAX_CONNECTIONS_PER_TORRENT:-100}
+      - QBITTORRENT_MAX_UPLOADS=${QBITTORRENT_MAX_UPLOADS:-10}
+      - QBITTORRENT_MAX_UPLOADS_PER_TORRENT=${QBITTORRENT_MAX_UPLOADS_PER_TORRENT:-10}
+      
     volumes:
-      # Configuration directory
+      # Config directory
       - ${QBITTORRENT_CONFIG_DIR:-./qbittorrent-config}:/config
       # Downloads directory
       - ${DOWNLOAD_DIR:-./downloads}:/downloads
-      # Optional: Watch folder for auto-adding torrents
+      # Optional: Watch folder
       # - ${WATCH_DIR:-./watch}:/watch
-      # Optional: Additional volume for incomplete downloads
+      # Optional: Incomplete downloads folder
       # - ${INCOMPLETE_DIR:-./incomplete}:/incomplete
     depends_on:
-      - gluetun
+      gluetun:
+        condition: service_healthy
     restart: unless-stopped
-    # Optional: Health check
-    # healthcheck:
-    #   test: ["CMD", "curl", "-f", "http://localhost:8080"]
-    #   interval: 60s
-    #   timeout: 10s
-    #   retries: 3
