@@ -1,35 +1,13 @@
+version: "3"
 services:
   gluetun:
     image: qmcgaw/gluetun
-    container_name: gluetun
-    # ... other settings ...
-    # ADDED: Disable auth so qBittorrent can query the control server
+    cap_add:
+      - NET_ADMIN
+    devices:
+      - /dev/net/tun:/dev/net/tun
     environment:
-      - VPN_CONTROL_SERVER_AUTH=off
-    ports:
-      - "8080:8080/tcp"
-    restart: unless-stopped
-    # Removed healthcheck block entirely to rely on the qbittorrent startup script
-
-  qbittorrent:
-    image: lscr.io/linuxserver/qbittorrent:latest
-    container_name: qbittorrent
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=Europe/Amsterdam
-      - WEBUI_PORT=8080
-    volumes:
-      - ./qbittorrent/config:/config
-      - ./downloads:/downloads
-    network_mode: "container:gluetun"
-    restart: unless-stopped
-    # ADDED: This waits for the Gluetun IP to be available via the control server (port 8000)
-    command: >
-      /bin/sh -c "
-      echo 'Waiting for Gluetun VPN IP...' &&
-      until wget -qO /dev/null 127.0.0.1:8000/v1/ip; do
-        sleep 5;
-      done &&
-      echo 'VPN IP found. Starting qBittorrent.' &&
-      /init"
+      - VPN_SERVICE_PROVIDER=protonvpn
+      - VPN_TYPE=wireguard
+      - WIREGUARD_PRIVATE_KEY=wOEI9rqqbDwnN8/Bpp22sVz48T71vJ4fYmFWujulwUU=
+      - SERVER_COUNTRIES=Netherlands
