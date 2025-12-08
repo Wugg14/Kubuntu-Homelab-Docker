@@ -1,4 +1,4 @@
-version: "3"
+version: "3.8"
 services:
   gluetun:
     image: qmcgaw/gluetun
@@ -7,55 +7,79 @@ services:
       - NET_ADMIN
     devices:
       - /dev/net/tun:/dev/net/tun
-    # Load environment variables from your env file
     env_file:
-      - ../.env
+      - ../.env  # Load environment variables from parent directory
     environment:
       - VPN_SERVICE_PROVIDER=protonvpn
       - VPN_TYPE=wireguard
-      # Use variable substitution to reference your env variable
+      # Use the WIREGUARD_PRIVATE_KEY variable from your .env file
       - WIREGUARD_PRIVATE_KEY=${WIREGUARD_PRIVATE_KEY}
       - SERVER_COUNTRIES=Sweden
-      # Add other optional ProtonVPN settings
-      - SERVER_CITIES=Stockholm,Gothenburg
-      # Optional: Port forwarding if supported by your ProtonVPN plan
+      # Optional: Specify cities or specific servers
+      - SERVER_CITIES=Stockholm,Malmo
+      # Optional: Enable port forwarding if your ProtonVPN plan supports it
       # - PROTONVPN_PORT_FORWARDING=on
+      # Optional: If you have ProtonVPN account credentials
+      # - PROTONVPN_USER=${PROTONVPN_USER}
+      # - PROTONVPN_PASSWORD=${PROTONVPN_PASSWORD}
     ports:
-      # QBittorrent Web UI
+      # QBittorrent Web UI port
       - "8080:8080/tcp"
-      # Torrent ports (change if needed)
+      # Torrent client ports
       - "6881:6881/tcp"
       - "6881:6881/udp"
-      # Optional: Add more ports if needed
+      # Optional: Additional ports for multiple connections
       # - "6882:6882/tcp"
       # - "6882:6882/udp"
+    # Optional: Add custom DNS servers
+    # dns:
+    #   - 1.1.1.1
+    #   - 8.8.8.8
     restart: unless-stopped
+    # Optional: Health check
+    # healthcheck:
+    #   test: ["CMD", "gluetun", "healthcheck"]
+    #   interval: 60s
+    #   timeout: 10s
+    #   retries: 3
 
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
     container_name: qbittorrent
-    # Use gluetun's network for VPN routing
+    # Use gluetun's network to route all traffic through VPN
     network_mode: "service:gluetun"
-    # Optionally, you can also use env_file for qbittorrent variables
-    # env_file:
-    #   - ../.env
+    # Also load the same .env file for QBittorrent variables
+    env_file:
+      - ../.env
     environment:
-      # Set your user/group IDs (update these or use env vars)
+      # User and Group IDs (default to 1000 if not set)
       - PUID=${PUID:-1000}
       - PGID=${PGID:-1000}
-      # Timezone
+      # Timezone (default to Stockholm if not set)
       - TZ=${TZ:-Europe/Stockholm}
-      # Web UI port (must match gluetun port mapping)
+      # Web UI port (must match the port mapped in gluetun)
       - WEBUI_PORT=8080
-      # Optional: Set QBittorrent credentials via env vars
-      # - QBITTORRENT_WEBUI_USER=${QBITTORRENT_USER:-admin}
-      # - QBITTORRENT_WEBUI_PASSWORD=${QBITTORRENT_PASSWORD:-adminadmin}
+      # Optional: Web UI credentials (change these!)
+      - QBITTORRENT_WEBUI_USER=${QBITTORRENT_WEBUI_USER:-admin}
+      - QBITTORRENT_WEBUI_PASSWORD=${QBITTORRENT_WEBUI_PASSWORD:-adminadmin}
+      # Optional: Additional QBittorrent settings
+      # - QBITTORRENT_SESSION_MANAGER_ENABLED=${QBITTORRENT_SESSION_MANAGER_ENABLED:-true}
+      # - QBITTORRENT_WATCH_FOLDER_ENABLED=${QBITTORRENT_WATCH_FOLDER_ENABLED:-false}
     volumes:
-      # Update these paths to match your setup
-      - ${QBITTORRENT_CONFIG_DIR:-./config}:/config
+      # Configuration directory
+      - ${QBITTORRENT_CONFIG_DIR:-./qbittorrent-config}:/config
+      # Downloads directory
       - ${DOWNLOAD_DIR:-./downloads}:/downloads
-      # Optional: Watch folder
+      # Optional: Watch folder for auto-adding torrents
       # - ${WATCH_DIR:-./watch}:/watch
+      # Optional: Additional volume for incomplete downloads
+      # - ${INCOMPLETE_DIR:-./incomplete}:/incomplete
     depends_on:
       - gluetun
     restart: unless-stopped
+    # Optional: Health check
+    # healthcheck:
+    #   test: ["CMD", "curl", "-f", "http://localhost:8080"]
+    #   interval: 60s
+    #   timeout: 10s
+    #   retries: 3
