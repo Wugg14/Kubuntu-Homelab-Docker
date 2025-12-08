@@ -12,6 +12,8 @@ services:
     environment:
       - VPN_SERVICE_PROVIDER=protonvpn
       - VPN_TYPE=wireguard
+      - PROTONVPN_PORT_FORWARDING=on
+      - PROTONVPN_TIER=plus
       # Use the WIREGUARD_PRIVATE_KEY variable from your .env file
       - WIREGUARD_PRIVATE_KEY=${WIREGUARD_PRIVATE_KEY}
       - SERVER_COUNTRIES=Sweden
