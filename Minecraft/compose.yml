@@ -14,8 +14,11 @@ services:
       VERSION: "1.19.2"
       FORGEVERSION: "43.5.0"
       MEMORY: "8G"
-      OPS: "Wuggles1"
+      FORGE_INSTALLER_IGNORE_OFFLINE: "true"
+      OPS: "Wuggles01"
       ALLOW_FLIGHT: "true"
       MOTD: "Greetings Friends and Welcome to Wuggles Castle"
+      VIEW_DISTANCE: "14"
+      GAME_RULES: "playersSleepingPercentage=1,doFireTick=false,doDaylightCycle=true"
     tty: true
     stdin_open: true

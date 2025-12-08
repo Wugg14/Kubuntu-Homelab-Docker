@@ -2,22 +2,14 @@ services:
   gluetun:
     image: qmcgaw/gluetun
     container_name: gluetun
-    cap_add:
-      - NET_ADMIN
-    devices:
-      - /dev/net/tun:/dev/net/tun
-    env_file:
-      - ../.env
+    # ... other settings ...
+    # ADDED: Disable auth so qBittorrent can query the control server
+    environment:
+      - VPN_CONTROL_SERVER_AUTH=off
     ports:
-      # 1. qBittorrent Web UI: Host Port 8080 -> Container Port 8080
-      - "8080:8080/tcp" 
-      # 2. qBittorrent Torrent Port (e.g., 6881): Host Port 6881 -> Container Port 6881
-      # IMPORTANT: You MUST check the Gluetun logs for the "VPN_PORT_FORWARDING_STATUS"
-      # and use the forwarded port it tells you, or set a specific port in qBittorrent.
-      # Example for torrent traffic (adjust as needed for your setup/port-forwarding):
-      # - "6881:6881/tcp" 
-      # - "6881:6881/udp" 
+      - "8080:8080/tcp"
     restart: unless-stopped
+    # Removed healthcheck block entirely to rely on the qbittorrent startup script
 
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
@@ -26,13 +18,18 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/Amsterdam
-      # This needs to match the internal port exposed on gluetun
-      - WEBUI_PORT=8080 
+      - WEBUI_PORT=8080
     volumes:
       - ./qbittorrent/config:/config
       - ./downloads:/downloads
-    # Uses the network stack of the gluetun container
-    network_mode: "service:gluetun" 
-    depends_on:
-      - gluetun
+    network_mode: "container:gluetun"
     restart: unless-stopped
+    # ADDED: This waits for the Gluetun IP to be available via the control server (port 8000)
+    command: >
+      /bin/sh -c "
+      echo 'Waiting for Gluetun VPN IP...' &&
+      until wget -qO /dev/null 127.0.0.1:8000/v1/ip; do
+        sleep 5;
+      done &&
+      echo 'VPN IP found. Starting qBittorrent.' &&
+      /init"
