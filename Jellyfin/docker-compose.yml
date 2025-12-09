@@ -17,6 +17,7 @@ services:
       - /media/mark/MainStorage/JellyFin/Books/Audiobooks/:/media/books:ro
       - /media/mark/MainStorage/JellyFin/Movies:/media/movies3:ro
       - /media/mark/MainStorage/JellyFin/Shows:/media/shows3:ro
+      - /usr/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:ro
     environment:
       - JELLYFIN_PublishedServerUrl=https://stream.marksteininger.com
       - NVIDIA_VISIBLE_DEVICES=all
