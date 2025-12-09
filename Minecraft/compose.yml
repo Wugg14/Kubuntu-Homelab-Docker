@@ -13,7 +13,7 @@ services:
       DEBUG: "false"
       VERSION: "1.19.2"
       FORGEVERSION: "43.5.0"
-      MEMORY: "8G"
+      MEMORY: 12G"
       FORGE_INSTALLER_IGNORE_OFFLINE: "true"
       OPS: "Wuggles01"
       ALLOW_FLIGHT: "true"
