@@ -2,7 +2,7 @@ services:
   jellyfin:
     image: jellyfin/jellyfin:latest
     container_name: jellyfin
-    runtime: nvidia
+    runtime: nvidia  # This is only for Docker with nvidia-container-toolkit
     ports:
       - "8096:8096"
     volumes:
@@ -19,19 +19,11 @@ services:
       - /media/mark/MainStorage/JellyFin/Shows:/media/shows3:ro
     environment:
       - JELLYFIN_PublishedServerUrl=https://stream.marksteininger.com
-      - NVIDIA_VISIBLE_DEVICES=0
-    extra_hosts:
-      - 'host.docker.internal:host-gateway'
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=compute,video,utility
     restart: unless-stopped
     networks:
       - caddy-network
-    deploy:
-      resources:
-        reservations:
-          devices:
-            - driver: nvidia
-              count: all
-              capabilities: [gpu]
 
 networks:
   caddy-network:
