@@ -9,14 +9,13 @@ services:
     env_file:
       - ../.env
     environment:
-      # Minimum required settings
+      # Remove ${} - Gluetun will read these directly from the .env file
       - VPN_SERVICE_PROVIDER=protonvpn
       - VPN_TYPE=openvpn
-      - OPENVPN_USER=${OPENVPN_USER}
-      - OPENVPN_PASSWORD=${OPENVPN_PASSWORD}
       - PROTONVPN_PORT_FORWARDING=on
       - PROTONVPN_TIER=plus
       - SERVER_COUNTRIES=Sweden
+      # Only specify variables that don't need to be secret
     ports:
       - "8080:8080/tcp"
       - "6881:6881/tcp"
