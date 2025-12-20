@@ -1,41 +1,45 @@
 services:
   gluetun:
-    image: qmcgaw/gluetun
+    image: qmcgaw/gluetun:latest
     container_name: gluetun
+    # line above must be uncommented to allow external containers to connect.
+    # See https://github.com/qdm12/gluetun-wiki/blob/main/setup/connect-a-container-to-gluetun.md#external-container-to-gluetun
     cap_add:
       - NET_ADMIN
     devices:
       - /dev/net/tun:/dev/net/tun
-    env_file:
-      - ../.env
-    environment:
-      # Remove ${} - Gluetun will read these directly from the .env file
-      - VPN_SERVICE_PROVIDER=protonvpn
-      - VPN_TYPE=openvpn
-      - PROTONVPN_PORT_FORWARDING=on
-      - PROTONVPN_TIER=plus
-      - SERVER_COUNTRIES=Sweden
-      # Only specify variables that don't need to be secret
     ports:
-      - "8080:8080/tcp"
-      - "6881:6881/tcp"
-      - "6881:6881/udp"
-    restart: unless-stopped
-
-  qbittorrent:
-    image: lscr.io/linuxserver/qbittorrent:latest
-    container_name: qbittorrent
-    network_mode: "service:gluetun"
-    env_file:
-      - ../.env
-    environment:
-      - PUID=1000
-      - PGID=1000
-      - TZ=Europe/Stockholm
-      - WEBUI_PORT=8080
+      - 8888:8888/tcp # HTTP proxy
+      - 8388:8388/tcp # Shadowsocks
+      - 8388:8388/udp # Shadowsocks
+      # Other services
+      # qBittorrent
+      - 8080:8080
+      # Other containers that are being routed via the container where you still want access the resources like web ui on local network
+      - 8989:8989
     volumes:
-      - ./qbittorrent-config:/config
-      - ./downloads:/downloads
-    depends_on:
-      - gluetun
-    restart: unless-stopped
+      - /srv/docker/store/Kubuntu-Homelab-Docker/Gluetun/config:/gluetun
+    environment:
+      # I specify the PUID and PGID but this is optional (default is 1000,1000), description from Wiki "User ID/Group ID to run as non root and for ownership of files written"
+      #- PUID=UID
+      #- PGID=GID
+      # See https://github.com/qdm12/gluetun-wiki/tree/main/setup#setup
+      - VPN_SERVICE_PROVIDER=custom
+      - VPN_TYPE=wireguard
+      # OpenVPN:
+      #- OPENVPN_USER=
+      #- OPENVPN_PASSWORD=
+      # Wireguard:
+      - WIREGUARD_PUBLIC_KEY=${WIREGUARD_PUBLIC_KEY}
+      - WIREGUARD_PRIVATE_KEY=${WIREGUARD_PRIVATE_KEY}
+      - WIREGUARD_ADDRESSES=${WIREGUARD_ADDRESSES}
+      - VPN_ENDPOINT_IP=${VPN_ENDPOINT_IP}
+      - VPN_ENDPOINT_PORT=${VPN_ENDPOINT_PORT} # should be the default 51820 but can confirm by seeing the port after IP in "Endpoint"
+      - VPN_DNS_ADDRESS=10.2.0.1
+      - VPN_PORT_FORWARDING=on
+      - VPN_PORT_FORWARDING_PROVIDER=protonvpn
+      # Timezone for accurate log times
+      - TZ=America/Denver # Change to your TZ
+      # Server list updater
+      # See https://github.com/qdm12/gluetun-wiki/blob/main/setup/servers.md#update-the-vpn-servers-list
+      - UPDATER_PERIOD=24h

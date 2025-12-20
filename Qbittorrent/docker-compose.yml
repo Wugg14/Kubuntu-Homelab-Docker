@@ -1,0 +1,16 @@
+version: "2.4"
+services:
+  qbittorrent:
+    image: lscr.io/linuxserver/qbittorrent:latest
+    container_name: qbittorrent
+    network_mode: container:gluetun
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=America/Denver
+      - UMASK=022
+      - WEBUI_PORT=8080
+    volumes:
+      - ./qbittorrent-config:/config
+      - ./downloads:/downloads
+    restart: unless-stopped
