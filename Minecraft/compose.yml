@@ -19,6 +19,6 @@ services:
       ALLOW_FLIGHT: "true"
       MOTD: "Greetings Friends and Welcome to Wuggles Castle"
       VIEW_DISTANCE: "14"
-      GAME_RULES: "playersSleepingPercentage=1,doFireTick=false,doDaylightCycle=true,mobGriefing=true,difficultu=hard"
+      GAME_RULES: "playersSleepingPercentage=1,doFireTick=false,doDaylightCycle=true,mobGriefing=true,difficulty=hard"
     tty: true
     stdin_open: true
