@@ -15,7 +15,7 @@ services:
       FORGEVERSION: "43.5.0"
       MEMORY: "12G"
       FORGE_INSTALLER_IGNORE_OFFLINE: "true"
-      OPS: "Wuggles01"
+      OPS: "Wuggles01,Casualbat"
       ALLOW_FLIGHT: "true"
       MOTD: "Greetings Friends and Welcome to Wuggles Castle"
       VIEW_DISTANCE: "14"
