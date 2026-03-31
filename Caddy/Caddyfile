@@ -1,6 +1,16 @@
-stream.marksteininger.com {
-    reverse_proxy 192.168.1.10:8096
+# Reusable snippet for your Cloudflare config
+(cloudflare) {
     tls {
         dns cloudflare {env.CLOUDFLARE_API_TOKEN}
     }
+}
+
+stream.marksteininger.com {
+    reverse_proxy 192.168.1.10:8096
+    import cloudflare
+}
+
+music.marksteininger.com {
+    reverse_proxy 192.168.1.10:4533
+    import cloudflare
 }
