@@ -1,0 +1,20 @@
+version: "3"
+services:
+  navidrome:
+    image: deluan/navidrome:latest
+    container_name: navidrome
+    user: 1000:1000 # Use your Ubuntu user ID to avoid permission issues
+    ports:
+      - "4533:4533" # Change the first 4533 if it's already in use
+    restart: unless-stopped
+    environment:
+      # Optional settings
+      ND_SCANINTERVAL: 1h
+      ND_LOGLEVEL: info
+      ND_SESSIONTIMEOUT: 24h
+      ND_BASEURL: ""
+    volumes:
+      # Path for Navidrome's database and cache
+      - "/media/mark/12TBDataDrive/navidrome/data:/data"
+      # Path for your actual music files
+      - "/media/mark/12TBDataDrive/navidrome/music:/music:ro"
