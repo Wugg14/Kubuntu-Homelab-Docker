@@ -1,0 +1,330 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 2039.965,
+      "title": "Chapter 1",
+      "id": 0
+    },
+    {
+      "start": 2039.965,
+      "end": 4989.828,
+      "title": "Chapter 2",
+      "id": 1
+    },
+    {
+      "start": 4989.828,
+      "end": 7474.828,
+      "title": "Chapter 3",
+      "id": 2
+    },
+    {
+      "start": 7474.828,
+      "end": 11628.924,
+      "title": "Chapter 4",
+      "id": 3
+    },
+    {
+      "start": 11628.924,
+      "end": 15737.463,
+      "title": "Chapter 5",
+      "id": 4
+    },
+    {
+      "start": 15737.463,
+      "end": 19087.406,
+      "title": "Chapter 6",
+      "id": 5
+    },
+    {
+      "start": 19087.406,
+      "end": 21959.668,
+      "title": "Chapter 7",
+      "id": 6
+    },
+    {
+      "start": 21959.668,
+      "end": 24643.012,
+      "title": "Chapter 8",
+      "id": 7
+    },
+    {
+      "start": 24643.012,
+      "end": 28153.126,
+      "title": "Chapter 9",
+      "id": 8
+    },
+    {
+      "start": 28153.126,
+      "end": 31397.047,
+      "title": "Chapter 10",
+      "id": 9
+    },
+    {
+      "start": 31397.047,
+      "end": 34686.804,
+      "title": "Chapter 11",
+      "id": 10
+    },
+    {
+      "start": 34686.804,
+      "end": 37600.769,
+      "title": "Chapter 12",
+      "id": 11
+    },
+    {
+      "start": 37600.769,
+      "end": 40637.892,
+      "title": "Chapter 13",
+      "id": 12
+    },
+    {
+      "start": 40637.892,
+      "end": 43272.939,
+      "title": "Chapter 14",
+      "id": 13
+    },
+    {
+      "start": 43272.939,
+      "end": 45476.652,
+      "title": "Chapter 15",
+      "id": 14
+    },
+    {
+      "start": 45476.652,
+      "end": 49165.514,
+      "title": "Chapter 16",
+      "id": 15
+    },
+    {
+      "start": 49165.514,
+      "end": 52528.738,
+      "title": "Chapter 17",
+      "id": 16
+    },
+    {
+      "start": 52528.738,
+      "end": 56133.125,
+      "title": "Chapter 18",
+      "id": 17
+    },
+    {
+      "start": 56133.125,
+      "end": 59272.742,
+      "title": "Chapter 19",
+      "id": 18
+    },
+    {
+      "start": 59272.742,
+      "end": 61830.931,
+      "title": "Chapter 20",
+      "id": 19
+    },
+    {
+      "start": 61830.931,
+      "end": 65341.045,
+      "title": "Chapter 21",
+      "id": 20
+    },
+    {
+      "start": 65341.045,
+      "end": 68751.081,
+      "title": "Chapter 22",
+      "id": 21
+    },
+    {
+      "start": 68751.081,
+      "end": 71854.799,
+      "title": "Chapter 23",
+      "id": 22
+    },
+    {
+      "start": 71854.799,
+      "end": 74678.021,
+      "title": "Chapter 24",
+      "id": 23
+    },
+    {
+      "start": 74678.021,
+      "end": 77616.785,
+      "title": "Chapter 25",
+      "id": 24
+    },
+    {
+      "start": 77616.785,
+      "end": 80772.423,
+      "title": "Chapter 26",
+      "id": 25
+    },
+    {
+      "start": 80772.423,
+      "end": 83426.371,
+      "title": "Chapter 27",
+      "id": 26
+    },
+    {
+      "start": 83426.371,
+      "end": 86015.442,
+      "title": "Chapter 28",
+      "id": 27
+    },
+    {
+      "start": 86015.442,
+      "end": 89747.26,
+      "title": "Chapter 29",
+      "id": 28
+    },
+    {
+      "start": 89747.26,
+      "end": 92079.798,
+      "title": "Chapter 30",
+      "id": 29
+    },
+    {
+      "start": 92079.798,
+      "end": 95865.997,
+      "title": "Chapter 31",
+      "id": 30
+    },
+    {
+      "start": 95865.997,
+      "end": 98741.231,
+      "title": "Chapter 32",
+      "id": 31
+    },
+    {
+      "start": 98741.231,
+      "end": 101722.441,
+      "title": "Chapter 33",
+      "id": 32
+    },
+    {
+      "start": 101722.441,
+      "end": 104013.415,
+      "title": "Chapter 34",
+      "id": 33
+    },
+    {
+      "start": 104013.415,
+      "end": 106250.936,
+      "title": "Chapter 35",
+      "id": 34
+    },
+    {
+      "start": 106250.936,
+      "end": 107769.66,
+      "title": "Chapter 36",
+      "id": 35
+    },
+    {
+      "start": 107769.66,
+      "end": 111033.875,
+      "title": "Chapter 37",
+      "id": 36
+    },
+    {
+      "start": 111033.875,
+      "end": 114295.118,
+      "title": "Chapter 38",
+      "id": 37
+    },
+    {
+      "start": 114295.118,
+      "end": 117368.186,
+      "title": "Chapter 39",
+      "id": 38
+    },
+    {
+      "start": 117368.186,
+      "end": 120242.538,
+      "title": "Chapter 40",
+      "id": 39
+    },
+    {
+      "start": 120242.538,
+      "end": 122788.931,
+      "title": "Chapter 41",
+      "id": 40
+    },
+    {
+      "start": 122788.931,
+      "end": 125414.04,
+      "title": "Chapter 42",
+      "id": 41
+    },
+    {
+      "start": 125414.04,
+      "end": 128921.878,
+      "title": "Chapter 43",
+      "id": 42
+    },
+    {
+      "start": 128921.878,
+      "end": 131957.701,
+      "title": "Chapter 44",
+      "id": 43
+    },
+    {
+      "start": 131957.701,
+      "end": 136009.351,
+      "title": "Chapter 45",
+      "id": 44
+    },
+    {
+      "start": 136009.351,
+      "end": 140209.934,
+      "title": "Chapter 46",
+      "id": 45
+    },
+    {
+      "start": 140209.934,
+      "end": 142849.021,
+      "title": "Chapter 47",
+      "id": 46
+    },
+    {
+      "start": 142849.021,
+      "end": 145314.98,
+      "title": "Chapter 48",
+      "id": 47
+    },
+    {
+      "start": 145314.98,
+      "end": 149623.861,
+      "title": "Chapter 49",
+      "id": 48
+    },
+    {
+      "start": 149623.861,
+      "end": 152284.31,
+      "title": "Chapter 50",
+      "id": 49
+    },
+    {
+      "start": 152284.31,
+      "end": 154887.825,
+      "title": "Chapter 51",
+      "id": 50
+    }
+  ],
+  "title": "Postwar: A History of Europe Since 1945 (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Tony Judt"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Almost a decade in the making, this much-anticipated grand history of postwar Europe from one of the world's most esteemed historians and intellectuals is a singular achievement.....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

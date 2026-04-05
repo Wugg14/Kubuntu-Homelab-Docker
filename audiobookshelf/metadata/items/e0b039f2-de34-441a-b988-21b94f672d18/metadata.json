@@ -1,0 +1,252 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 26.48,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 26.48,
+      "end": 89.06,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 89.06,
+      "end": 1267.552993,
+      "title": "Prologue: There and Here",
+      "id": 2
+    },
+    {
+      "start": 1267.552993,
+      "end": 3990.06898,
+      "title": "Part I: Dispatches from the First America: Chapter 1: Heaven and Hell",
+      "id": 3
+    },
+    {
+      "start": 3990.06898,
+      "end": 5607.197959,
+      "title": "Part I: Dispatches from the First America: Chapter 2: Key to the Indies",
+      "id": 4
+    },
+    {
+      "start": 5607.197959,
+      "end": 6953.049955,
+      "title": "Part I: Dispatches from the First America: Chapter 3: Copper Virgin",
+      "id": 5
+    },
+    {
+      "start": 6953.049955,
+      "end": 9466.074943,
+      "title": "Part II: A Colony Worth a Kingdom: Chapter 4: Havana for Florida",
+      "id": 6
+    },
+    {
+      "start": 9466.074943,
+      "end": 11291.813923,
+      "title": "Part II: A Colony Worth a Kingdom: Chapter 5: Most Favored Nation",
+      "id": 7
+    },
+    {
+      "start": 11291.813923,
+      "end": 13560.727914,
+      "title": "Part II: A Colony Worth a Kingdom: Chapter 6: Sugar’s Revolution",
+      "id": 8
+    },
+    {
+      "start": 13560.727914,
+      "end": 16360.774898,
+      "title": "Part III: An Empire for Slavery: Chapter 7: Adams’ Apple",
+      "id": 9
+    },
+    {
+      "start": 16360.774898,
+      "end": 18107.26288,
+      "title": "Part III: An Empire for Slavery: Chapter 8: Torture Plots",
+      "id": 10
+    },
+    {
+      "start": 18107.26288,
+      "end": 20246.910862,
+      "title": "Part III: An Empire for Slavery: Chapter 9: Dreams of Dominion",
+      "id": 11
+    },
+    {
+      "start": 20246.910862,
+      "end": 21622.832857,
+      "title": "Part III: An Empire for Slavery: Chapter 10: Civil War Journeys",
+      "id": 12
+    },
+    {
+      "start": 21622.832857,
+      "end": 23582.386848,
+      "title": "Part IV: ¡Cuba Libre!: Chapter 11: Slave, Soldier, Citizen",
+      "id": 13
+    },
+    {
+      "start": 23582.386848,
+      "end": 26500.902834,
+      "title": "Part IV: ¡Cuba Libre!: Chapter 12: A Revolution for the World",
+      "id": 14
+    },
+    {
+      "start": 26500.902834,
+      "end": 28416.223832,
+      "title": "Part V: American Interregnum: Chapter 13: A War Renamed",
+      "id": 15
+    },
+    {
+      "start": 28416.223832,
+      "end": 31297.123832,
+      "title": "Part V: American Interregnum: Chapter 14: Island Occupied",
+      "id": 16
+    },
+    {
+      "start": 31297.123832,
+      "end": 32815.521814,
+      "title": "Part VI: Strange Republic: Chapter 15: Empire of Sugar",
+      "id": 17
+    },
+    {
+      "start": 32815.521814,
+      "end": 34786.849796,
+      "title": "Part VI: Strange Republic: Chapter 16: City of Dreams",
+      "id": 18
+    },
+    {
+      "start": 34786.849796,
+      "end": 36623.75678,
+      "title": "Part VI: Strange Republic: Chapter 17: Fratricide",
+      "id": 19
+    },
+    {
+      "start": 36623.75678,
+      "end": 39712.009773,
+      "title": "Part VI: Strange Republic: Chapter 18: Boom, Crash, Awake",
+      "id": 20
+    },
+    {
+      "start": 39712.009773,
+      "end": 42244.887755,
+      "title": "Part VII: Republic, Take Two: Chapter 19: Authentic Masses",
+      "id": 21
+    },
+    {
+      "start": 42244.887755,
+      "end": 44374.319751,
+      "title": "Part VII: Republic, Take Two: Chapter 20: New Charter",
+      "id": 22
+    },
+    {
+      "start": 44374.319751,
+      "end": 46957.724739,
+      "title": "Part VII: Republic, Take Two: Chapter 21: Suitcases",
+      "id": 23
+    },
+    {
+      "start": 46957.724739,
+      "end": 49502.25873,
+      "title": "Part VIII: Origin Stories: Chapter 22: Centennial Spirit",
+      "id": 24
+    },
+    {
+      "start": 49502.25873,
+      "end": 51452.24771,
+      "title": "Part VIII: Origin Stories: Chapter 23: Insurrectionary Line",
+      "id": 25
+    },
+    {
+      "start": 51452.24771,
+      "end": 54022.27771,
+      "title": "Part VIII: Origin Stories: Chapter 24: The Mountains Rise",
+      "id": 26
+    },
+    {
+      "start": 54022.27771,
+      "end": 57717.175692,
+      "title": "Part IX: The Revolution Begins Now!: Chapter 25: First Time",
+      "id": 27
+    },
+    {
+      "start": 57717.175692,
+      "end": 60877.968685,
+      "title": "Part IX: The Revolution Begins Now!: Chapter 26: Radical Nonstop",
+      "id": 28
+    },
+    {
+      "start": 60877.968685,
+      "end": 64012.987664,
+      "title": "Part X: Confrontation: Chapter 27: Battle",
+      "id": 29
+    },
+    {
+      "start": 64012.987664,
+      "end": 66811.91966,
+      "title": "Part X: Confrontation: Chapter 28: Brink",
+      "id": 30
+    },
+    {
+      "start": 66811.91966,
+      "end": 69945.800658,
+      "title": "Part XI: Hearts and Minds: Chapter 29: New People?",
+      "id": 31
+    },
+    {
+      "start": 69945.800658,
+      "end": 73947.690658,
+      "title": "Part XI: Hearts and Minds: Chapter 30: New Americans?",
+      "id": 32
+    },
+    {
+      "start": 73947.690658,
+      "end": 76206.039637,
+      "title": "Part XI: Hearts and Minds: Chapter 31: Other Cubas?",
+      "id": 33
+    },
+    {
+      "start": 76206.039637,
+      "end": 80003.360635,
+      "title": "Part XII: Departures: Chapter 32: Special Years",
+      "id": 34
+    },
+    {
+      "start": 80003.360635,
+      "end": 82841.325624,
+      "title": "Part XII: Departures: Chapter 33: Open and Shut",
+      "id": 35
+    },
+    {
+      "start": 82841.325624,
+      "end": 83535.834603,
+      "title": "Epilogue: If Monuments Could Speak",
+      "id": 36
+    },
+    {
+      "start": 83535.834603,
+      "end": 83617.79,
+      "title": "End Credits",
+      "id": 37
+    }
+  ],
+  "title": "Cuba (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Ada Ferrer"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "History, Americas"
+  ],
+  "publishedYear": "2021",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "An epic, sweeping history of Cuba and its complex ties to the United States—from before the arrival of Columbus to the present day—written by one of the world’s leading historians of Cuba....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

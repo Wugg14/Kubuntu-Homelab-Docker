@@ -1,0 +1,110 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 14.99898,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 14.99898,
+      "end": 29.115964,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 29.115964,
+      "end": 68.542948,
+      "title": "Excerpt",
+      "id": 2
+    },
+    {
+      "start": 68.542948,
+      "end": 215.477937,
+      "title": "Introduction",
+      "id": 3
+    },
+    {
+      "start": 215.477937,
+      "end": 2046.718934,
+      "title": "1: Holy Island",
+      "id": 4
+    },
+    {
+      "start": 2046.718934,
+      "end": 2990.818934,
+      "title": "2: The Blood Eagle",
+      "id": 5
+    },
+    {
+      "start": 2990.818934,
+      "end": 5949.597914,
+      "title": "3: The Battle of Ashdown",
+      "id": 6
+    },
+    {
+      "start": 5949.597914,
+      "end": 8877.215896,
+      "title": "4: Danegeld",
+      "id": 7
+    },
+    {
+      "start": 8877.215896,
+      "end": 12010.538889,
+      "title": "5: Whitsunday and the Battle of Edington",
+      "id": 8
+    },
+    {
+      "start": 12010.538889,
+      "end": 15330.991882,
+      "title": "6: Rebuilding Wessex",
+      "id": 9
+    },
+    {
+      "start": 15330.991882,
+      "end": 18172.207868,
+      "title": "7: Alfred the Wise",
+      "id": 10
+    },
+    {
+      "start": 18172.207868,
+      "end": 20416.183855,
+      "title": "8: A Final Test",
+      "id": 11
+    },
+    {
+      "start": 20416.183855,
+      "end": 20454.821837,
+      "title": "Acknowledgements",
+      "id": 12
+    },
+    {
+      "start": 20454.821837,
+      "end": 20474.181678,
+      "title": "End Credits",
+      "id": 13
+    }
+  ],
+  "title": "The White Horse King (Unabridged)",
+  "subtitle": "The Life of Alfred the Great",
+  "authors": [
+    "Ben Merkle"
+  ],
+  "narrators": [
+    "Joffre Swait"
+  ],
+  "series": [],
+  "genres": [
+    "Great Britain, Historical, Church & Church Leadership, Theology"
+  ],
+  "publishedYear": "2024",
+  "publishedDate": null,
+  "publisher": "Canon Press",
+  "description": "Down swept the Vikings from the frigid North. Across the English coastlands and countryside they raided, torched, murdered, and destroyed all in their path. Farmers, monks, and soldiers all fell bloody under the Viking sword, hammer, and axe. Then, when the hour was most desperate, came an unlikely hero. King Alfred rallied the battered and bedraggled kingdoms of Britain and after decades of plotting, praying, and persisting, finally triumphed over the invaders.",
+  "isbn": null,
+  "asin": "B0CZ1DCHWX",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

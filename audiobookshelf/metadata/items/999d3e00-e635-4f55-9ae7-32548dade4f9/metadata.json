@@ -1,0 +1,204 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2053.188,
+      "title": "Chapter 01: The Other Minister"
+    },
+    {
+      "id": 1,
+      "start": 2053.188,
+      "end": 4060.3320000000003,
+      "title": "Chapter 02: Spinner's End"
+    },
+    {
+      "id": 2,
+      "start": 4060.3320000000003,
+      "end": 5879.664000000001,
+      "title": "Chapter 03: Will And Won't"
+    },
+    {
+      "id": 3,
+      "start": 5879.664000000001,
+      "end": 8258.256000000001,
+      "title": "Chapter 04: Horace Slughorn"
+    },
+    {
+      "id": 4,
+      "start": 8258.256000000001,
+      "end": 10560.744,
+      "title": "Chapter 05: An Excess Of Phlegm"
+    },
+    {
+      "id": 5,
+      "start": 10560.744,
+      "end": 12859.524000000001,
+      "title": "Chapter 06: Draco's Detour"
+    },
+    {
+      "id": 6,
+      "start": 12859.524000000001,
+      "end": 15528.708000000002,
+      "title": "Chapter 07: The Slug Club"
+    },
+    {
+      "id": 7,
+      "start": 15528.708000000002,
+      "end": 17200.908000000003,
+      "title": "Chapter 08: Snape Victorious"
+    },
+    {
+      "id": 8,
+      "start": 17200.908000000003,
+      "end": 19686.384000000002,
+      "title": "Chapter 09: The Half-Blood Prince"
+    },
+    {
+      "id": 9,
+      "start": 19686.384000000002,
+      "end": 22020.444000000003,
+      "title": "Chapter 10: The House Of Gaunt"
+    },
+    {
+      "id": 10,
+      "start": 22020.444000000003,
+      "end": 24020.676000000003,
+      "title": "Chapter 11: Hermione's Helping Hand"
+    },
+    {
+      "id": 11,
+      "start": 24020.676000000003,
+      "end": 26123.076000000005,
+      "title": "Chapter 12: Silver And Opals"
+    },
+    {
+      "id": 12,
+      "start": 26123.076000000005,
+      "end": 28339.200000000004,
+      "title": "Chapter 13: The Secret Riddle"
+    },
+    {
+      "id": 13,
+      "start": 28339.200000000004,
+      "end": 30755.556000000004,
+      "title": "Chapter 14: Felix Felicis"
+    },
+    {
+      "id": 14,
+      "start": 30755.556000000004,
+      "end": 33051.924000000006,
+      "title": "Chapter 15: The Unbreakable Vow"
+    },
+    {
+      "id": 15,
+      "start": 33051.924000000006,
+      "end": 35465.22000000001,
+      "title": "Chapter 16: A Very Frosty Christmas"
+    },
+    {
+      "id": 16,
+      "start": 35465.22000000001,
+      "end": 37921.10400000001,
+      "title": "Chapter 17: A Sluggish Memory"
+    },
+    {
+      "id": 17,
+      "start": 37921.10400000001,
+      "end": 40474.90800000001,
+      "title": "Chapter 18: Birthday Surprises"
+    },
+    {
+      "id": 18,
+      "start": 40474.90800000001,
+      "end": 42894.36000000001,
+      "title": "Chapter 19: Elf Tails"
+    },
+    {
+      "id": 19,
+      "start": 42894.36000000001,
+      "end": 45530.028000000006,
+      "title": "Chapter 20: Lord Voldemort's Request"
+    },
+    {
+      "id": 20,
+      "start": 45530.028000000006,
+      "end": 47707.092000000004,
+      "title": "Chapter 21: The Unknowable Room"
+    },
+    {
+      "id": 21,
+      "start": 47707.092000000004,
+      "end": 50111.92800000001,
+      "title": "Chapter 22: After The Burial"
+    },
+    {
+      "id": 22,
+      "start": 50111.92800000001,
+      "end": 52383.96000000001,
+      "title": "Chapter 23: Horcruxes"
+    },
+    {
+      "id": 23,
+      "start": 52383.96000000001,
+      "end": 54580.39200000001,
+      "title": "Chapter 24: Sectumsempra"
+    },
+    {
+      "id": 24,
+      "start": 54580.39200000001,
+      "end": 56532.528000000006,
+      "title": "Chapter 25: The Seer Overheard"
+    },
+    {
+      "id": 25,
+      "start": 56532.528000000006,
+      "end": 59152.46400000001,
+      "title": "Chapter 26: The Cave"
+    },
+    {
+      "id": 26,
+      "start": 59152.46400000001,
+      "end": 61028.92800000001,
+      "title": "Chapter 27: The Lightning-Struck Tower"
+    },
+    {
+      "id": 27,
+      "start": 61028.92800000001,
+      "end": 62405.56800000001,
+      "title": "Chapter 28: The Flight Of The Prince"
+    },
+    {
+      "id": 28,
+      "start": 62405.56800000001,
+      "end": 64587.276000000005,
+      "title": "Chapter 29: The Phoenix Lament"
+    },
+    {
+      "id": 29,
+      "start": 64587.276000000005,
+      "end": 66805.20000000001,
+      "title": "Chapter 30: The White Tomb"
+    }
+  ],
+  "title": "Harry Potter And The Half-Blood Prince",
+  "subtitle": null,
+  "authors": [
+    "J. K. Rowling"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2005",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,162 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 22.893968,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 22.893968,
+      "end": 50.874966,
+      "title": "Epigraph",
+      "id": 1
+    },
+    {
+      "start": 50.874966,
+      "end": 829.600952,
+      "title": "0.1 Introduction",
+      "id": 2
+    },
+    {
+      "start": 829.600952,
+      "end": 5581.795918,
+      "title": "Section I 1850–1900: 1.1 To Whom Time Is Money",
+      "id": 3
+    },
+    {
+      "start": 5581.795918,
+      "end": 10049.174875,
+      "title": "Section I 1850–1900: 1.2 The Combine",
+      "id": 4
+    },
+    {
+      "start": 10049.174875,
+      "end": 14206.335873,
+      "title": "Section I 1850–1900: 1.3 Blood That Trots Young",
+      "id": 5
+    },
+    {
+      "start": 14206.335873,
+      "end": 16139.396871,
+      "title": "Section II 1900–1945: 2.1 Local Ghosts",
+      "id": 6
+    },
+    {
+      "start": 16139.396871,
+      "end": 21939.415828,
+      "title": "Section II 1900–1945: 2.2 Bionomics",
+      "id": 7
+    },
+    {
+      "start": 21939.415828,
+      "end": 29480.279819,
+      "title": "Section II 1900–1945: 2.3 Hooverville",
+      "id": 8
+    },
+    {
+      "start": 29480.279819,
+      "end": 35466.24381,
+      "title": "Section II 1900–1945: 2.4 Men with Potential",
+      "id": 9
+    },
+    {
+      "start": 35466.24381,
+      "end": 39913.282766,
+      "title": "Section III 1945–1975: 3.1 Space Settlers",
+      "id": 10
+    },
+    {
+      "start": 39913.282766,
+      "end": 45617.031746,
+      "title": "Section III 1945–1975: 3.2 The Solid State",
+      "id": 11
+    },
+    {
+      "start": 45617.031746,
+      "end": 49123.801723,
+      "title": "Section III 1945–1975: 3.3 Personal Revolution",
+      "id": 12
+    },
+    {
+      "start": 49123.801723,
+      "end": 58976.537687,
+      "title": "Section III 1945–1975: 3.4 How to Destroy an Empire",
+      "id": 13
+    },
+    {
+      "start": 58976.537687,
+      "end": 64187.234649,
+      "title": "Section IV 1975–2000: 4.1 California über Alles",
+      "id": 14
+    },
+    {
+      "start": 64187.234649,
+      "end": 71498.221633,
+      "title": "Section IV 1975–2000: 4.2 War Capitalism",
+      "id": 15
+    },
+    {
+      "start": 71498.221633,
+      "end": 75223.769615,
+      "title": "Section IV 1975–2000: 4.3 Jobs and Gates",
+      "id": 16
+    },
+    {
+      "start": 75223.769615,
+      "end": 80846.99161,
+      "title": "Section IV 1975–2000: 4.4 Americas Online",
+      "id": 17
+    },
+    {
+      "start": 80846.99161,
+      "end": 86869.456599,
+      "title": "Section V 2000–2020: 5.1 B2K",
+      "id": 18
+    },
+    {
+      "start": 86869.456599,
+      "end": 92035.616599,
+      "title": "Section V 2000–2020: 5.2 You Better Try to Make Me Rich",
+      "id": 19
+    },
+    {
+      "start": 92035.616599,
+      "end": 99655.150567,
+      "title": "Section V 2000–2020: 5.3 Blister in the Sun",
+      "id": 20
+    },
+    {
+      "start": 99655.150567,
+      "end": 101902.748526,
+      "title": "6.1 Resolution",
+      "id": 21
+    },
+    {
+      "start": 101902.748526,
+      "end": 102016.836689,
+      "title": "End Credits",
+      "id": 22
+    }
+  ],
+  "title": "Palo Alto (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Malcolm Harris"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Business & Careers"
+  ],
+  "publishedYear": "2023",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "In PALO ALTO, the first comprehensive, global history of Silicon Valley, Malcolm Harris examines how and why Northern California evolved in the particular, consequential way it did, tracing the ideologies, technologies, and policies that have been engineered there over the course of 150 years of Anglo settler colonialism, from IQ tests to the \\\"tragedy of the commons,\\\" racial genetics, and \\\"broken windows\\\" theory.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

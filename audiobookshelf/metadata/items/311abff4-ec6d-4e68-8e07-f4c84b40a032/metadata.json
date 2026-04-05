@@ -1,0 +1,402 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 20.246984,
+      "title": "Chapter 1",
+      "id": 0
+    },
+    {
+      "start": 20.246984,
+      "end": 763.586984,
+      "title": "Chapter 2",
+      "id": 1
+    },
+    {
+      "start": 763.586984,
+      "end": 3738.364966,
+      "title": "Chapter 3",
+      "id": 2
+    },
+    {
+      "start": 3738.364966,
+      "end": 5288.295964,
+      "title": "Chapter 4",
+      "id": 3
+    },
+    {
+      "start": 5288.295964,
+      "end": 6663.102948,
+      "title": "Chapter 5",
+      "id": 4
+    },
+    {
+      "start": 6663.102948,
+      "end": 8643.694943,
+      "title": "Chapter 6",
+      "id": 5
+    },
+    {
+      "start": 8643.694943,
+      "end": 9702.616939,
+      "title": "Chapter 7",
+      "id": 6
+    },
+    {
+      "start": 9702.616939,
+      "end": 10999.636939,
+      "title": "Chapter 8",
+      "id": 7
+    },
+    {
+      "start": 10999.636939,
+      "end": 12789.546939,
+      "title": "Chapter 9",
+      "id": 8
+    },
+    {
+      "start": 12789.546939,
+      "end": 14208.262925,
+      "title": "Chapter 10",
+      "id": 9
+    },
+    {
+      "start": 14208.262925,
+      "end": 15303.524921,
+      "title": "Chapter 11",
+      "id": 10
+    },
+    {
+      "start": 15303.524921,
+      "end": 16424.838912,
+      "title": "Chapter 12",
+      "id": 11
+    },
+    {
+      "start": 16424.838912,
+      "end": 18734.434898,
+      "title": "Chapter 13",
+      "id": 12
+    },
+    {
+      "start": 18734.434898,
+      "end": 20053.745896,
+      "title": "Chapter 14",
+      "id": 13
+    },
+    {
+      "start": 20053.745896,
+      "end": 21617.887891,
+      "title": "Chapter 15",
+      "id": 14
+    },
+    {
+      "start": 21617.887891,
+      "end": 22087.789887,
+      "title": "Chapter 16",
+      "id": 15
+    },
+    {
+      "start": 22087.789887,
+      "end": 23697.164875,
+      "title": "Chapter 17",
+      "id": 16
+    },
+    {
+      "start": 23697.164875,
+      "end": 26201.807868,
+      "title": "Chapter 18",
+      "id": 17
+    },
+    {
+      "start": 26201.807868,
+      "end": 26721.237846,
+      "title": "Chapter 19",
+      "id": 18
+    },
+    {
+      "start": 26721.237846,
+      "end": 27566.559841,
+      "title": "Chapter 20",
+      "id": 19
+    },
+    {
+      "start": 27566.559841,
+      "end": 28615.891837,
+      "title": "Chapter 21",
+      "id": 20
+    },
+    {
+      "start": 28615.891837,
+      "end": 29221.44483,
+      "title": "Chapter 22",
+      "id": 21
+    },
+    {
+      "start": 29221.44483,
+      "end": 30316.288821,
+      "title": "Chapter 23",
+      "id": 22
+    },
+    {
+      "start": 30316.288821,
+      "end": 31742.875805,
+      "title": "Chapter 24",
+      "id": 23
+    },
+    {
+      "start": 31742.875805,
+      "end": 32946.295805,
+      "title": "Chapter 25",
+      "id": 24
+    },
+    {
+      "start": 32946.295805,
+      "end": 34356.466803,
+      "title": "Chapter 26",
+      "id": 25
+    },
+    {
+      "start": 34356.466803,
+      "end": 35059.3578,
+      "title": "Chapter 27",
+      "id": 26
+    },
+    {
+      "start": 35059.3578,
+      "end": 37075.011791,
+      "title": "Chapter 28",
+      "id": 27
+    },
+    {
+      "start": 37075.011791,
+      "end": 38107.579773,
+      "title": "Chapter 29",
+      "id": 28
+    },
+    {
+      "start": 38107.579773,
+      "end": 39253.019773,
+      "title": "Chapter 30",
+      "id": 29
+    },
+    {
+      "start": 39253.019773,
+      "end": 41729.84576,
+      "title": "Chapter 31",
+      "id": 30
+    },
+    {
+      "start": 41729.84576,
+      "end": 42989.573741,
+      "title": "Chapter 32",
+      "id": 31
+    },
+    {
+      "start": 42989.573741,
+      "end": 44900.505737,
+      "title": "Chapter 33",
+      "id": 32
+    },
+    {
+      "start": 44900.505737,
+      "end": 46817.521723,
+      "title": "Chapter 34",
+      "id": 33
+    },
+    {
+      "start": 46817.521723,
+      "end": 48678.762721,
+      "title": "Chapter 35",
+      "id": 34
+    },
+    {
+      "start": 48678.762721,
+      "end": 50825.679705,
+      "title": "Chapter 36",
+      "id": 35
+    },
+    {
+      "start": 50825.679705,
+      "end": 51481.224694,
+      "title": "Chapter 37",
+      "id": 36
+    },
+    {
+      "start": 51481.224694,
+      "end": 52598.428685,
+      "title": "Chapter 38",
+      "id": 37
+    },
+    {
+      "start": 52598.428685,
+      "end": 54789.161678,
+      "title": "Chapter 39",
+      "id": 38
+    },
+    {
+      "start": 54789.161678,
+      "end": 56266.855669,
+      "title": "Chapter 40",
+      "id": 39
+    },
+    {
+      "start": 56266.855669,
+      "end": 57231.528662,
+      "title": "Chapter 41",
+      "id": 40
+    },
+    {
+      "start": 57231.528662,
+      "end": 58034.334649,
+      "title": "Chapter 42",
+      "id": 41
+    },
+    {
+      "start": 58034.334649,
+      "end": 58647.201633,
+      "title": "Chapter 43",
+      "id": 42
+    },
+    {
+      "start": 58647.201633,
+      "end": 59489.806621,
+      "title": "Chapter 44",
+      "id": 43
+    },
+    {
+      "start": 59489.806621,
+      "end": 60854.396621,
+      "title": "Chapter 45",
+      "id": 44
+    },
+    {
+      "start": 60854.396621,
+      "end": 61796.684603,
+      "title": "Chapter 46",
+      "id": 45
+    },
+    {
+      "start": 61796.684603,
+      "end": 62841.698594,
+      "title": "Chapter 47",
+      "id": 46
+    },
+    {
+      "start": 62841.698594,
+      "end": 63902.222585,
+      "title": "Chapter 48",
+      "id": 47
+    },
+    {
+      "start": 63902.222585,
+      "end": 64682.133583,
+      "title": "Chapter 49",
+      "id": 48
+    },
+    {
+      "start": 64682.133583,
+      "end": 65967.729569,
+      "title": "Chapter 50",
+      "id": 49
+    },
+    {
+      "start": 65967.729569,
+      "end": 66527.771565,
+      "title": "Chapter 51",
+      "id": 50
+    },
+    {
+      "start": 66527.771565,
+      "end": 67188.285556,
+      "title": "Chapter 52",
+      "id": 51
+    },
+    {
+      "start": 67188.285556,
+      "end": 67927.886553,
+      "title": "Chapter 53",
+      "id": 52
+    },
+    {
+      "start": 67927.886553,
+      "end": 70425.331542,
+      "title": "Chapter 54",
+      "id": 53
+    },
+    {
+      "start": 70425.331542,
+      "end": 72005.007528,
+      "title": "Chapter 55",
+      "id": 54
+    },
+    {
+      "start": 72005.007528,
+      "end": 72479.06551,
+      "title": "Chapter 56",
+      "id": 55
+    },
+    {
+      "start": 72479.06551,
+      "end": 73561.76551,
+      "title": "Chapter 57",
+      "id": 56
+    },
+    {
+      "start": 73561.76551,
+      "end": 74777.817506,
+      "title": "Chapter 58",
+      "id": 57
+    },
+    {
+      "start": 74777.817506,
+      "end": 76334.622494,
+      "title": "Chapter 59",
+      "id": 58
+    },
+    {
+      "start": 76334.622494,
+      "end": 78548.528481,
+      "title": "Chapter 60",
+      "id": 59
+    },
+    {
+      "start": 78548.528481,
+      "end": 79086.139478,
+      "title": "Chapter 61",
+      "id": 60
+    },
+    {
+      "start": 79086.139478,
+      "end": 80347.864467,
+      "title": "Chapter 62",
+      "id": 61
+    },
+    {
+      "start": 80347.864467,
+      "end": 80390.52,
+      "title": "Chapter 63",
+      "id": 62
+    }
+  ],
+  "title": "Bloodmarked (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Tracy Deonn"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Teen & Young Adult, Literature & Fiction"
+  ],
+  "publishedYear": "2022",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "All Bree wanted was to uncover the truth behind her mother’s death. So she infiltrated the Legendborn Order, a secret society descended from King Arthur’s knights—only to discover her own ancestral power. Now, Bree has become someone new: A Medium. A Bloodcrafter. A Scion. But the ancient war between demons and the Order is rising to a deadly peak. And Nick, the Legendborn boy Bree fell in love with, has been kidnapped.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

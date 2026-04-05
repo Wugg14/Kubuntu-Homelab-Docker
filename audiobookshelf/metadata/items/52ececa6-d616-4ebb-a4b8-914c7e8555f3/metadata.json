@@ -1,0 +1,534 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0.048,
+      "end": 37.524,
+      "title": "Intro",
+      "id": 0
+    },
+    {
+      "start": 37.524,
+      "end": 237.853,
+      "title": "Part 1 - Chapter 1",
+      "id": 1
+    },
+    {
+      "start": 237.853,
+      "end": 556.798,
+      "title": "Chapter 2",
+      "id": 2
+    },
+    {
+      "start": 556.798,
+      "end": 742.57,
+      "title": "Chapter 3",
+      "id": 3
+    },
+    {
+      "start": 742.57,
+      "end": 1248.368,
+      "title": "Chapter 4",
+      "id": 4
+    },
+    {
+      "start": 1248.368,
+      "end": 1633.559,
+      "title": "Chapter 5",
+      "id": 5
+    },
+    {
+      "start": 1633.559,
+      "end": 2067.141,
+      "title": "Chapter 6",
+      "id": 6
+    },
+    {
+      "start": 2067.141,
+      "end": 2363.853,
+      "title": "Chapter 7",
+      "id": 7
+    },
+    {
+      "start": 2363.853,
+      "end": 2747.111,
+      "title": "Chapter 8",
+      "id": 8
+    },
+    {
+      "start": 2747.111,
+      "end": 3205.542,
+      "title": "Chapter 9",
+      "id": 9
+    },
+    {
+      "start": 3205.542,
+      "end": 3631.447,
+      "title": "Chapter 10",
+      "id": 10
+    },
+    {
+      "start": 3631.447,
+      "end": 4133.151,
+      "title": "Chapter 11",
+      "id": 11
+    },
+    {
+      "start": 4133.151,
+      "end": 4493.56,
+      "title": "Chapter 12",
+      "id": 12
+    },
+    {
+      "start": 4493.56,
+      "end": 4850.721,
+      "title": "Chapter 13",
+      "id": 13
+    },
+    {
+      "start": 4850.721,
+      "end": 5229.908,
+      "title": "Chapter 14",
+      "id": 14
+    },
+    {
+      "start": 5229.908,
+      "end": 5363.714,
+      "title": "Chapter 15",
+      "id": 15
+    },
+    {
+      "start": 5363.714,
+      "end": 5755.664,
+      "title": "Chapter 16",
+      "id": 16
+    },
+    {
+      "start": 5755.664,
+      "end": 6202.887,
+      "title": "Chapter 17",
+      "id": 17
+    },
+    {
+      "start": 6202.887,
+      "end": 6683.047,
+      "title": "Chapter 18",
+      "id": 18
+    },
+    {
+      "start": 6683.047,
+      "end": 7042.369,
+      "title": "Chapter 19",
+      "id": 19
+    },
+    {
+      "start": 7042.369,
+      "end": 7421.042,
+      "title": "Chapter 20",
+      "id": 20
+    },
+    {
+      "start": 7421.042,
+      "end": 7783.967,
+      "title": "Chapter 21",
+      "id": 21
+    },
+    {
+      "start": 7783.967,
+      "end": 8060.844,
+      "title": "Chapter 22",
+      "id": 22
+    },
+    {
+      "start": 8060.844,
+      "end": 8203.296,
+      "title": "Chapter 23",
+      "id": 23
+    },
+    {
+      "start": 8203.296,
+      "end": 8893.234,
+      "title": "Chapter 24",
+      "id": 24
+    },
+    {
+      "start": 8893.234,
+      "end": 9075.481,
+      "title": "Chapter 25",
+      "id": 25
+    },
+    {
+      "start": 9075.481,
+      "end": 9786.754,
+      "title": "Chapter 26",
+      "id": 26
+    },
+    {
+      "start": 9786.754,
+      "end": 10361.281,
+      "title": "Chapter 27",
+      "id": 27
+    },
+    {
+      "start": 10361.281,
+      "end": 10534.791,
+      "title": "Chapter 28",
+      "id": 28
+    },
+    {
+      "start": 10534.791,
+      "end": 10751.618,
+      "title": "Chapter 29",
+      "id": 29
+    },
+    {
+      "start": 10751.618,
+      "end": 11366.792,
+      "title": "Chapter 30",
+      "id": 30
+    },
+    {
+      "start": 11366.792,
+      "end": 11773.147,
+      "title": "Chapter 31",
+      "id": 31
+    },
+    {
+      "start": 11773.147,
+      "end": 12065.688,
+      "title": "Chapter 32",
+      "id": 32
+    },
+    {
+      "start": 12065.688,
+      "end": 12287.976,
+      "title": "Chapter 33",
+      "id": 33
+    },
+    {
+      "start": 12287.976,
+      "end": 12771.379,
+      "title": "Chapter 34",
+      "id": 34
+    },
+    {
+      "start": 12771.379,
+      "end": 12978.135,
+      "title": "Chapter 35",
+      "id": 35
+    },
+    {
+      "start": 12978.135,
+      "end": 13195.142,
+      "title": "Chapter 36",
+      "id": 36
+    },
+    {
+      "start": 13195.142,
+      "end": 13648.006,
+      "title": "Chapter 37",
+      "id": 37
+    },
+    {
+      "start": 13648.006,
+      "end": 13910.059,
+      "title": "Chapter 38",
+      "id": 38
+    },
+    {
+      "start": 13910.059,
+      "end": 14094.946,
+      "title": "Chapter 39",
+      "id": 39
+    },
+    {
+      "start": 14094.946,
+      "end": 14232.754,
+      "title": "Chapter 40",
+      "id": 40
+    },
+    {
+      "start": 14232.754,
+      "end": 14413.899,
+      "title": "Chapter 41",
+      "id": 41
+    },
+    {
+      "start": 14413.899,
+      "end": 14771.67,
+      "title": "Chapter 42",
+      "id": 42
+    },
+    {
+      "start": 14771.67,
+      "end": 15051.339,
+      "title": "Chapter 43",
+      "id": 43
+    },
+    {
+      "start": 15051.339,
+      "end": 15849.347,
+      "title": "Chapter 44",
+      "id": 44
+    },
+    {
+      "start": 15849.347,
+      "end": 16138.214,
+      "title": "Chapter 45",
+      "id": 45
+    },
+    {
+      "start": 16138.214,
+      "end": 16384.21,
+      "title": "Chapter 46",
+      "id": 46
+    },
+    {
+      "start": 16384.21,
+      "end": 16442.201,
+      "title": "Chapter 47",
+      "id": 47
+    },
+    {
+      "start": 16442.201,
+      "end": 17270.452,
+      "title": "Chapter 48",
+      "id": 48
+    },
+    {
+      "start": 17270.452,
+      "end": 17406.545,
+      "title": "Chapter 49",
+      "id": 49
+    },
+    {
+      "start": 17406.545,
+      "end": 17874.773,
+      "title": "Chapter 50",
+      "id": 50
+    },
+    {
+      "start": 17874.773,
+      "end": 18071.576,
+      "title": "Chapter 51",
+      "id": 51
+    },
+    {
+      "start": 18071.576,
+      "end": 18290.566,
+      "title": "Chapter 52",
+      "id": 52
+    },
+    {
+      "start": 18290.566,
+      "end": 18497.645,
+      "title": "Chapter 53",
+      "id": 53
+    },
+    {
+      "start": 18497.645,
+      "end": 19013.876,
+      "title": "Chapter 54",
+      "id": 54
+    },
+    {
+      "start": 19013.876,
+      "end": 19267.318,
+      "title": "Chapter 55",
+      "id": 55
+    },
+    {
+      "start": 19267.318,
+      "end": 19508.116,
+      "title": "Chapter 56",
+      "id": 56
+    },
+    {
+      "start": 19508.116,
+      "end": 20196.425,
+      "title": "Part 2 - Chapter 1",
+      "id": 57
+    },
+    {
+      "start": 20196.425,
+      "end": 21041.784,
+      "title": "Chapter 2",
+      "id": 58
+    },
+    {
+      "start": 21041.784,
+      "end": 21332.977,
+      "title": "Chapter 3",
+      "id": 59
+    },
+    {
+      "start": 21332.977,
+      "end": 22149.931,
+      "title": "Chapter 4",
+      "id": 60
+    },
+    {
+      "start": 22149.931,
+      "end": 22380.418,
+      "title": "Chapter 5",
+      "id": 61
+    },
+    {
+      "start": 22380.418,
+      "end": 22906.228,
+      "title": "Chapter 6",
+      "id": 62
+    },
+    {
+      "start": 22906.228,
+      "end": 23136.189,
+      "title": "Chapter 7",
+      "id": 63
+    },
+    {
+      "start": 23136.189,
+      "end": 23243.741,
+      "title": "Chapter 8",
+      "id": 64
+    },
+    {
+      "start": 23243.741,
+      "end": 23757.439,
+      "title": "Chapter 9",
+      "id": 65
+    },
+    {
+      "start": 23757.439,
+      "end": 24085.327,
+      "title": "Chapter 10",
+      "id": 66
+    },
+    {
+      "start": 24085.327,
+      "end": 24427.444,
+      "title": "Chapter 11",
+      "id": 67
+    },
+    {
+      "start": 24427.444,
+      "end": 24897.829,
+      "title": "Chapter 12",
+      "id": 68
+    },
+    {
+      "start": 24897.829,
+      "end": 25118.583,
+      "title": "Chapter 13",
+      "id": 69
+    },
+    {
+      "start": 25118.583,
+      "end": 25588.131,
+      "title": "Chapter 14",
+      "id": 70
+    },
+    {
+      "start": 25588.131,
+      "end": 25865.172,
+      "title": "Chapter 15",
+      "id": 71
+    },
+    {
+      "start": 25865.172,
+      "end": 26315.26,
+      "title": "Chapter 16",
+      "id": 72
+    },
+    {
+      "start": 26315.26,
+      "end": 26586.442,
+      "title": "Chapter 17",
+      "id": 73
+    },
+    {
+      "start": 26586.442,
+      "end": 26908.392,
+      "title": "Chapter 18",
+      "id": 74
+    },
+    {
+      "start": 26908.392,
+      "end": 27272.863,
+      "title": "Chapter 19",
+      "id": 75
+    },
+    {
+      "start": 27272.863,
+      "end": 27549.654,
+      "title": "Chapter 20",
+      "id": 76
+    },
+    {
+      "start": 27549.654,
+      "end": 27990.343,
+      "title": "Chapter 21",
+      "id": 77
+    },
+    {
+      "start": 27990.343,
+      "end": 28130.049,
+      "title": "Chapter 22",
+      "id": 78
+    },
+    {
+      "start": 28130.049,
+      "end": 28516.105,
+      "title": "Chapter 23",
+      "id": 79
+    },
+    {
+      "start": 28516.105,
+      "end": 29459.777,
+      "title": "Chapter 24",
+      "id": 80
+    },
+    {
+      "start": 29459.777,
+      "end": 29766.001,
+      "title": "Chapter 25",
+      "id": 81
+    },
+    {
+      "start": 29766.001,
+      "end": 30515.334,
+      "title": "Chapter 26",
+      "id": 82
+    },
+    {
+      "start": 30515.334,
+      "end": 31176.368,
+      "title": "Chapter 27",
+      "id": 83
+    },
+    {
+      "start": 31176.368,
+      "end": 31234.395,
+      "title": "End",
+      "id": 84
+    }
+  ],
+  "title": "The Prisoner: A Novel",
+  "subtitle": null,
+  "authors": [
+    "B.A. Paris"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2022",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The Prisoner - B.A. Paris - 2022\r\n\r\nBy: B.A. Paris\r\nNarrated by: Georgia Maguire\r\nLength: 8 hrs and 41 mins\r\nUnabridged Audiobook\r\nRelease date: 11-01-22\r\nCategories: Mystery, Thriller & Suspense\r\nLanguage: English\r\nPublisher: Macmillan Audio\r\nFormat: mp3 64/48 stereo\r\n\r\nPublisher's Summary\r\n\r\nWith Behind Closed Doors, New York Times bestselling author B. A. Paris took the psychological thriller to shocking new heights. Now she’ll hold you captive with THE PRISONER—a stunning new thriller about one woman wed into a family with deadly intentions.\r\n\r\nAmelie has always been a survivor, from losing her parents as a child in Paris to making it on her own in London. As she builds a life for herself, she is swept up into a glamorous lifestyle where she married the handsome billionaire Ned Hawthorne.\r\n\r\nBut then, Amelie wakes up in a pitch-black room, not knowing where she is. Why has she been taken? Who are her mysterious captors? And why does she soon feel safer here, imprisoned, than she had begun to feel with her husband Ned?\r\n\r\nIn the vein of Behind Closed Doors and The Therapist, multimillion-copy bestseller B. A. Paris is back with a gripping new suspense novel.\r\n\r\nA Macmillan Audio production from St. Martin’s Press.\r\n\r\n©2022 B.A. Paris (P)2022 Macmillan Audio",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

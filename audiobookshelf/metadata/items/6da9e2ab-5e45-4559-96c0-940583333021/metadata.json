@@ -1,0 +1,308 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 802.806,
+      "title": "001",
+      "id": 0
+    },
+    {
+      "start": 802.806,
+      "end": 4387.642,
+      "title": "002",
+      "id": 1
+    },
+    {
+      "start": 4387.642,
+      "end": 7583.869,
+      "title": "003",
+      "id": 2
+    },
+    {
+      "start": 7583.869,
+      "end": 10540.094,
+      "title": "004",
+      "id": 3
+    },
+    {
+      "start": 10540.094,
+      "end": 12392.025,
+      "title": "005",
+      "id": 4
+    },
+    {
+      "start": 12392.025,
+      "end": 15779.863,
+      "title": "006",
+      "id": 5
+    },
+    {
+      "start": 15779.863,
+      "end": 19287.562,
+      "title": "007",
+      "id": 6
+    },
+    {
+      "start": 19287.562,
+      "end": 21383.163,
+      "title": "008",
+      "id": 7
+    },
+    {
+      "start": 21383.163,
+      "end": 23522.185,
+      "title": "009",
+      "id": 8
+    },
+    {
+      "start": 23522.185,
+      "end": 25863.964,
+      "title": "010",
+      "id": 9
+    },
+    {
+      "start": 25863.964,
+      "end": 28540.76,
+      "title": "011",
+      "id": 10
+    },
+    {
+      "start": 28540.76,
+      "end": 31571.615,
+      "title": "012",
+      "id": 11
+    },
+    {
+      "start": 31571.615,
+      "end": 34803.646,
+      "title": "013",
+      "id": 12
+    },
+    {
+      "start": 34803.646,
+      "end": 38232.909,
+      "title": "014",
+      "id": 13
+    },
+    {
+      "start": 38232.909,
+      "end": 40657.536,
+      "title": "015",
+      "id": 14
+    },
+    {
+      "start": 40657.536,
+      "end": 43253.852,
+      "title": "016",
+      "id": 15
+    },
+    {
+      "start": 43253.852,
+      "end": 46193.638,
+      "title": "017",
+      "id": 16
+    },
+    {
+      "start": 46193.638,
+      "end": 48864.258,
+      "title": "018",
+      "id": 17
+    },
+    {
+      "start": 48864.258,
+      "end": 51574.444,
+      "title": "019",
+      "id": 18
+    },
+    {
+      "start": 51574.444,
+      "end": 54699.2,
+      "title": "020",
+      "id": 19
+    },
+    {
+      "start": 54699.2,
+      "end": 57772.919,
+      "title": "021",
+      "id": 20
+    },
+    {
+      "start": 57772.919,
+      "end": 60026.229,
+      "title": "022",
+      "id": 21
+    },
+    {
+      "start": 60026.229,
+      "end": 62781.277,
+      "title": "023",
+      "id": 22
+    },
+    {
+      "start": 62781.277,
+      "end": 66069.083,
+      "title": "024",
+      "id": 23
+    },
+    {
+      "start": 66069.083,
+      "end": 69184.969,
+      "title": "025",
+      "id": 24
+    },
+    {
+      "start": 69184.969,
+      "end": 72702.699,
+      "title": "026",
+      "id": 25
+    },
+    {
+      "start": 72702.699,
+      "end": 75478.366,
+      "title": "027",
+      "id": 26
+    },
+    {
+      "start": 75478.366,
+      "end": 78786.049,
+      "title": "028",
+      "id": 27
+    },
+    {
+      "start": 78786.049,
+      "end": 81327.38,
+      "title": "029",
+      "id": 28
+    },
+    {
+      "start": 81327.38,
+      "end": 84015.554,
+      "title": "030",
+      "id": 29
+    },
+    {
+      "start": 84015.554,
+      "end": 86093.508,
+      "title": "031",
+      "id": 30
+    },
+    {
+      "start": 86093.508,
+      "end": 89248.264,
+      "title": "032",
+      "id": 31
+    },
+    {
+      "start": 89248.264,
+      "end": 92161.439,
+      "title": "033",
+      "id": 32
+    },
+    {
+      "start": 92161.439,
+      "end": 94457.893,
+      "title": "034",
+      "id": 33
+    },
+    {
+      "start": 94457.893,
+      "end": 96816.436,
+      "title": "035",
+      "id": 34
+    },
+    {
+      "start": 96816.436,
+      "end": 98442.855,
+      "title": "036",
+      "id": 35
+    },
+    {
+      "start": 98442.855,
+      "end": 101252.887,
+      "title": "037",
+      "id": 36
+    },
+    {
+      "start": 101252.887,
+      "end": 104401.188,
+      "title": "038",
+      "id": 37
+    },
+    {
+      "start": 104401.188,
+      "end": 105642.991,
+      "title": "039",
+      "id": 38
+    },
+    {
+      "start": 105642.991,
+      "end": 108580.501,
+      "title": "040",
+      "id": 39
+    },
+    {
+      "start": 108580.501,
+      "end": 111786.573,
+      "title": "041",
+      "id": 40
+    },
+    {
+      "start": 111786.573,
+      "end": 114048.708,
+      "title": "042",
+      "id": 41
+    },
+    {
+      "start": 114048.708,
+      "end": 116329.697,
+      "title": "043",
+      "id": 42
+    },
+    {
+      "start": 116329.697,
+      "end": 119487.936,
+      "title": "044",
+      "id": 43
+    },
+    {
+      "start": 119487.936,
+      "end": 122573.31,
+      "title": "045",
+      "id": 44
+    },
+    {
+      "start": 122573.31,
+      "end": 125144.827,
+      "title": "046",
+      "id": 45
+    },
+    {
+      "start": 125144.827,
+      "end": 126265.144308,
+      "title": "047",
+      "id": 46
+    }
+  ],
+  "title": "Christendom Destroyed: Europe 1517-1648",
+  "subtitle": null,
+  "authors": [
+    "Mark Greengrass"
+  ],
+  "narrators": [
+    "James Cameron Stewart"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2019",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "From peasants to princes, no one was untouched by the spiritual and intellectual upheaval of the 16th century. Martin Luther's challenge to church authority forced Christians to examine their beliefs in ways that shook the foundations of their religion. The subsequent divisions, fed by dynastic rivalries and military changes, fundamentally altered the relations between ruler and ruled. Geographical and scientific discoveries challenged the unity of Christendom as a belief community.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

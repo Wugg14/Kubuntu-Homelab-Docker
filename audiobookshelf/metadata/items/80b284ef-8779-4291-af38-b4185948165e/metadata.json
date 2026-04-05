@@ -1,0 +1,261 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 20.944,
+      "title": "001",
+      "id": 0
+    },
+    {
+      "start": 20.944,
+      "end": 31.068,
+      "title": "002",
+      "id": 1
+    },
+    {
+      "start": 31.068,
+      "end": 1376.2,
+      "title": "003",
+      "id": 2
+    },
+    {
+      "start": 1376.2,
+      "end": 3228.27,
+      "title": "004",
+      "id": 3
+    },
+    {
+      "start": 3228.27,
+      "end": 6693.244,
+      "title": "005",
+      "id": 4
+    },
+    {
+      "start": 6693.244,
+      "end": 8730.61,
+      "title": "006",
+      "id": 5
+    },
+    {
+      "start": 8730.61,
+      "end": 11457.004,
+      "title": "007",
+      "id": 6
+    },
+    {
+      "start": 11457.004,
+      "end": 14321.975,
+      "title": "008",
+      "id": 7
+    },
+    {
+      "start": 14321.975,
+      "end": 16234.417,
+      "title": "009",
+      "id": 8
+    },
+    {
+      "start": 16234.417,
+      "end": 18815.082,
+      "title": "010",
+      "id": 9
+    },
+    {
+      "start": 18815.082,
+      "end": 22279.871,
+      "title": "011",
+      "id": 10
+    },
+    {
+      "start": 22279.871,
+      "end": 25648.715,
+      "title": "012",
+      "id": 11
+    },
+    {
+      "start": 25648.715,
+      "end": 27071.912,
+      "title": "013",
+      "id": 12
+    },
+    {
+      "start": 27071.912,
+      "end": 29523.104,
+      "title": "014",
+      "id": 13
+    },
+    {
+      "start": 29523.104,
+      "end": 32734.238,
+      "title": "015",
+      "id": 14
+    },
+    {
+      "start": 32734.238,
+      "end": 37067.267,
+      "title": "016",
+      "id": 15
+    },
+    {
+      "start": 37067.267,
+      "end": 39513.629,
+      "title": "017",
+      "id": 16
+    },
+    {
+      "start": 39513.629,
+      "end": 43228.961,
+      "title": "018",
+      "id": 17
+    },
+    {
+      "start": 43228.961,
+      "end": 46048.374,
+      "title": "019",
+      "id": 18
+    },
+    {
+      "start": 46048.374,
+      "end": 49492.404,
+      "title": "020",
+      "id": 19
+    },
+    {
+      "start": 49492.404,
+      "end": 52772.176,
+      "title": "021",
+      "id": 20
+    },
+    {
+      "start": 52772.176,
+      "end": 54741.414,
+      "title": "022",
+      "id": 21
+    },
+    {
+      "start": 54741.414,
+      "end": 59400.823,
+      "title": "023",
+      "id": 22
+    },
+    {
+      "start": 59400.823,
+      "end": 63684.905,
+      "title": "024",
+      "id": 23
+    },
+    {
+      "start": 63684.905,
+      "end": 68251.202,
+      "title": "025",
+      "id": 24
+    },
+    {
+      "start": 68251.202,
+      "end": 70053.953,
+      "title": "026",
+      "id": 25
+    },
+    {
+      "start": 70053.953,
+      "end": 73296.062,
+      "title": "027",
+      "id": 26
+    },
+    {
+      "start": 73296.062,
+      "end": 77137.896,
+      "title": "028",
+      "id": 27
+    },
+    {
+      "start": 77137.896,
+      "end": 81747.568,
+      "title": "029",
+      "id": 28
+    },
+    {
+      "start": 81747.568,
+      "end": 85853.599,
+      "title": "030",
+      "id": 29
+    },
+    {
+      "start": 85853.599,
+      "end": 88148.892,
+      "title": "031",
+      "id": 30
+    },
+    {
+      "start": 88148.892,
+      "end": 90693.474,
+      "title": "032",
+      "id": 31
+    },
+    {
+      "start": 90693.474,
+      "end": 94525.277,
+      "title": "033",
+      "id": 32
+    },
+    {
+      "start": 94525.277,
+      "end": 98095.391,
+      "title": "034",
+      "id": 33
+    },
+    {
+      "start": 98095.391,
+      "end": 100308.578,
+      "title": "035",
+      "id": 34
+    },
+    {
+      "start": 100308.578,
+      "end": 103065.716,
+      "title": "036",
+      "id": 35
+    },
+    {
+      "start": 103065.716,
+      "end": 105412.185,
+      "title": "037",
+      "id": 36
+    },
+    {
+      "start": 105412.185,
+      "end": 109120.179,
+      "title": "038",
+      "id": 37
+    },
+    {
+      "start": 109120.179,
+      "end": 109162.765351,
+      "title": "039",
+      "id": 38
+    }
+  ],
+  "title": "The Wages of Destruction: The Making and Breaking of the Nazi Economy",
+  "subtitle": null,
+  "authors": [
+    "Adam Tooze"
+  ],
+  "narrators": [
+    "Adam Tooze",
+    "Simon Vance"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2021",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "An extraordinary mythology has grown up around the Third Reich that hovers over political and moral debate even today. Adam Tooze's controversial book challenges the conventional economic interpretations of that period.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

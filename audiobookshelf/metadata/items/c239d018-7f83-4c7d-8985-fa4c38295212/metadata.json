@@ -1,0 +1,126 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1762.308,
+      "title": "Chapter 01: The Boy Who Lived"
+    },
+    {
+      "id": 1,
+      "start": 1762.308,
+      "end": 3071.34,
+      "title": "Chapter 02: The Vanishing Glass"
+    },
+    {
+      "id": 2,
+      "start": 3071.34,
+      "end": 4529.376,
+      "title": "Chapter 03: The Letters From No One"
+    },
+    {
+      "id": 3,
+      "start": 4529.376,
+      "end": 5995.584000000001,
+      "title": "Chapter 04: The Keeper Of The Keys"
+    },
+    {
+      "id": 4,
+      "start": 5995.584000000001,
+      "end": 8633.52,
+      "title": "Chapter 05: Diagon Alley"
+    },
+    {
+      "id": 5,
+      "start": 8633.52,
+      "end": 10930.788,
+      "title": "Chapter 06: The Journey From Platform Nine And Three Quarters"
+    },
+    {
+      "id": 6,
+      "start": 10930.788,
+      "end": 12661.128,
+      "title": "Chapter 07: The Sorting Hat"
+    },
+    {
+      "id": 7,
+      "start": 12661.128,
+      "end": 13775.652,
+      "title": "Chapter 08: The Potions Teacher"
+    },
+    {
+      "id": 8,
+      "start": 13775.652,
+      "end": 15636.78,
+      "title": "Chapter 09: The Midnight Duel"
+    },
+    {
+      "id": 9,
+      "start": 15636.78,
+      "end": 17169.66,
+      "title": "Chapter 10: Hallowe'en"
+    },
+    {
+      "id": 10,
+      "start": 17169.66,
+      "end": 18446.508,
+      "title": "Chapter 11: Quidditch"
+    },
+    {
+      "id": 11,
+      "start": 18446.508,
+      "end": 20587.392,
+      "title": "Chapter 12: The Mirror Of Erised"
+    },
+    {
+      "id": 12,
+      "start": 20587.392,
+      "end": 21777.156,
+      "title": "Chapter 13: Nicolas Flamel"
+    },
+    {
+      "id": 13,
+      "start": 21777.156,
+      "end": 23055.696,
+      "title": "Chapter 14: Norbert, The Norwegian Ridgeback"
+    },
+    {
+      "id": 14,
+      "start": 23055.696,
+      "end": 24999.66,
+      "title": "Chapter 15: The Forbidden Forest"
+    },
+    {
+      "id": 15,
+      "start": 24999.66,
+      "end": 27476.748,
+      "title": "Chapter 16: Through The Trapdoor"
+    },
+    {
+      "id": 16,
+      "start": 27476.748,
+      "end": 29861.424,
+      "title": "Chapter 17: The Man With Two Faces"
+    }
+  ],
+  "title": "Harry Potter And The Sorcerer's Stone",
+  "subtitle": null,
+  "authors": [
+    "J. K. Rowling"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1997",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

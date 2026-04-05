@@ -1,0 +1,92 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 841.63,
+      "title": "Chapter 001  - 00:14:01",
+      "id": 0
+    },
+    {
+      "start": 841.63,
+      "end": 5311.332,
+      "title": "Chapter 002  - 01:14:29",
+      "id": 1
+    },
+    {
+      "start": 5311.332,
+      "end": 10640.59,
+      "title": "Chapter 003  - 01:28:49",
+      "id": 2
+    },
+    {
+      "start": 10640.59,
+      "end": 16446.577,
+      "title": "Chapter 004  - 01:36:45",
+      "id": 3
+    },
+    {
+      "start": 16446.577,
+      "end": 22731.638,
+      "title": "Chapter 005  - 01:44:45",
+      "id": 4
+    },
+    {
+      "start": 22731.638,
+      "end": 29368.551,
+      "title": "Chapter 006  - 01:50:36",
+      "id": 5
+    },
+    {
+      "start": 29368.551,
+      "end": 34799.257,
+      "title": "Chapter 007  - 01:30:30",
+      "id": 6
+    },
+    {
+      "start": 34799.257,
+      "end": 40996.5,
+      "title": "Chapter 008  - 01:43:17",
+      "id": 7
+    },
+    {
+      "start": 40996.5,
+      "end": 47135.693,
+      "title": "Chapter 009  - 01:42:19",
+      "id": 8
+    },
+    {
+      "start": 47135.693,
+      "end": 53751.848,
+      "title": "Chapter 010  - 01:50:16",
+      "id": 9
+    },
+    {
+      "start": 53751.848,
+      "end": 58650.562,
+      "title": "Chapter 011  - 01:21:38",
+      "id": 10
+    }
+  ],
+  "title": "1491: New Revelations of the Americas Before Columbus",
+  "subtitle": null,
+  "authors": [
+    "Charles C. Mann"
+  ],
+  "narrators": [
+    "Darrell Dennis"
+  ],
+  "series": [],
+  "genres": [
+    "Politics"
+  ],
+  "publishedYear": "2006",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

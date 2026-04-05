@@ -1,0 +1,21 @@
+services:
+  audiobookshelf:
+    image: ghcr.io/advplyr/audiobookshelf:latest
+    container_name: audiobookshelf
+    # Running as your user (1000) prevents permission issues on your 12TB drive
+    user: 1000:1000 
+    ports:
+      - "13378:80"
+    volumes:
+      # Your newly moved library at the root of MainStorage
+      - "/media/mark/MainStorage/Audiobooks:/audiobooks"
+      
+      # Configuration and Metadata (stored in the same folder as this compose file)
+      - "./config:/config"
+      - "./metadata:/metadata"
+      
+      # Optional: folder for podcasts if you want to manage those too
+      - "/media/mark/MainStorage/Podcasts:/podcasts"
+    environment:
+      - TZ=America/New_York # Change to your actual timezone
+    restart: unless-stopped

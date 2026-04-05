@@ -1,0 +1,190 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1724.767234,
+      "title": "1_ Ainulindalë - The Music of the Ainur"
+    },
+    {
+      "id": 1,
+      "start": 1724.767234,
+      "end": 3204.774536,
+      "title": "2_ Valaquenta - Account of the Valar and Maiar"
+    },
+    {
+      "id": 2,
+      "start": 3204.774536,
+      "end": 4794.671565,
+      "title": "3_ QS - Chapter 01 - Of the Beginning of Days"
+    },
+    {
+      "id": 3,
+      "start": 4794.671565,
+      "end": 5600.173559999999,
+      "title": "3_ QS - Chapter 02 - Of Aulë and Yavanna"
+    },
+    {
+      "id": 4,
+      "start": 5600.173559999999,
+      "end": 7187.444217999999,
+      "title": "3_ QS - Chapter 03 - Of the Coming of the Elves and the Captivity of Melkor"
+    },
+    {
+      "id": 5,
+      "start": 7187.444217999999,
+      "end": 7450.354671999999,
+      "title": "3_ QS - Chapter 04 - Of Thingol and Melian"
+    },
+    {
+      "id": 6,
+      "start": 7450.354671999999,
+      "end": 8515.919750999998,
+      "title": "3_ QS - Chapter 05 - Of Eldamar and the Princes of the Eldalië"
+    },
+    {
+      "id": 7,
+      "start": 8515.919750999998,
+      "end": 9206.143355999997,
+      "title": "3_ QS - Chapter 06 - Of Fëanor and the Unchaining of Melkor"
+    },
+    {
+      "id": 8,
+      "start": 9206.143355999997,
+      "end": 10265.282335999997,
+      "title": "3_ QS - Chapter 07 - Of the Silmarils and the Unrest of Noldor"
+    },
+    {
+      "id": 9,
+      "start": 10265.282335999997,
+      "end": 11079.352494999997,
+      "title": "3_ QS - Chapter 08 - Of the Darkening of Valinor"
+    },
+    {
+      "id": 10,
+      "start": 11079.352494999997,
+      "end": 13685.298458999998,
+      "title": "3_ QS - Chapter 09 - Of the Flight of the Noldor"
+    },
+    {
+      "id": 11,
+      "start": 13685.298458999998,
+      "end": 14932.414603999998,
+      "title": "3_ QS - Chapter 10 - Of the Sindar"
+    },
+    {
+      "id": 12,
+      "start": 14932.414603999998,
+      "end": 15903.506825999997,
+      "title": "3_ QS - Chapter 11 - Of the Sun and the Moon and the Hiding of Valinor"
+    },
+    {
+      "id": 13,
+      "start": 15903.506825999997,
+      "end": 16362.755034999996,
+      "title": "3_ QS - Chapter 12 - Of Men"
+    },
+    {
+      "id": 14,
+      "start": 16362.755034999996,
+      "end": 18527.411451999997,
+      "title": "3_ QS - Chapter 13 - Of the Return of the Noldor"
+    },
+    {
+      "id": 15,
+      "start": 18527.411451999997,
+      "end": 19869.522925999998,
+      "title": "3_ QS - Chapter 14 - Of Beleriand and its Realms"
+    },
+    {
+      "id": 16,
+      "start": 19869.522925999998,
+      "end": 20894.232494999997,
+      "title": "3_ QS - Chapter 15 - Of the Noldor in Beleriand"
+    },
+    {
+      "id": 17,
+      "start": 20894.232494999997,
+      "end": 22526.682993999995,
+      "title": "3_ QS - Chapter 16 - Of Maeglin"
+    },
+    {
+      "id": 18,
+      "start": 22526.682993999995,
+      "end": 24298.313900999994,
+      "title": "3_ QS - Chapter 17 - Of the Coming of Men into the West"
+    },
+    {
+      "id": 19,
+      "start": 24298.313900999994,
+      "end": 26404.639773999996,
+      "title": "3_ QS - Chapter 18 - Of the Ruin of Beleriand and the Fall of Fingolfin"
+    },
+    {
+      "id": 20,
+      "start": 26404.639773999996,
+      "end": 31400.776871999995,
+      "title": "3_ QS - Chapter 19 - Of Beren and Lúthien"
+    },
+    {
+      "id": 21,
+      "start": 31400.776871999995,
+      "end": 33288.385238999996,
+      "title": "3_ QS - Chapter 20 - Of the Fifth Battle- Nirnaeth Arnoediad"
+    },
+    {
+      "id": 22,
+      "start": 33288.385238999996,
+      "end": 38994.767007999995,
+      "title": "3_ QS - Chapter 21 - Of Túrin Turambar"
+    },
+    {
+      "id": 23,
+      "start": 38994.767007999995,
+      "end": 41046.549184999996,
+      "title": "3_ QS - Chapter 22 - Of the Ruin of Doriath"
+    },
+    {
+      "id": 24,
+      "start": 41046.549184999996,
+      "end": 42460.836962999994,
+      "title": "3_ QS - Chapter 23 - Of Tuor and the Fall of Gondolin"
+    },
+    {
+      "id": 25,
+      "start": 42460.836962999994,
+      "end": 44316.947846999996,
+      "title": "3_ QS - Chapter 24 - Of the Voyage of Eärendil and the War of Wrath"
+    },
+    {
+      "id": 26,
+      "start": 44316.947846999996,
+      "end": 48957.482994,
+      "title": "4_ Akallabêth - The Downfall of Númenor"
+    },
+    {
+      "id": 27,
+      "start": 48957.482994,
+      "end": 52997.454309,
+      "title": "5_ Of the Rings of Power and the Third Age"
+    }
+  ],
+  "title": "The Silmarillion",
+  "subtitle": null,
+  "authors": [
+    "J. R. R. Tolkien"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "1977",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

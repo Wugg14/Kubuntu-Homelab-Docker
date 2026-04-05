@@ -1,0 +1,486 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 16.252971,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 16.252971,
+      "end": 471.363946,
+      "title": "Prologue: From the Halls of Montezuma",
+      "id": 1
+    },
+    {
+      "start": 471.363946,
+      "end": 1002.029932,
+      "title": "Chapter 1: The United States at Mid Century: 1",
+      "id": 2
+    },
+    {
+      "start": 1002.029932,
+      "end": 3148.159909,
+      "title": "Chapter 1: The United States at Mid Century: 2",
+      "id": 3
+    },
+    {
+      "start": 3148.159909,
+      "end": 5789.661905,
+      "title": "Chapter 1: The United States at Mid Century: 3",
+      "id": 4
+    },
+    {
+      "start": 5789.661905,
+      "end": 7408.881905,
+      "title": "Chapter 1: The United States at Mid Century: 4",
+      "id": 5
+    },
+    {
+      "start": 7408.881905,
+      "end": 10302.7839,
+      "title": "Chapter 2: Mexico Will Poison Us: 1",
+      "id": 6
+    },
+    {
+      "start": 10302.7839,
+      "end": 12640.1039,
+      "title": "Chapter 2: Mexico Will Poison Us: 2",
+      "id": 7
+    },
+    {
+      "start": 12640.1039,
+      "end": 14852.453878,
+      "title": "Chapter 3: An Empire for Slavery: 1",
+      "id": 8
+    },
+    {
+      "start": 14852.453878,
+      "end": 16615.590839,
+      "title": "Chapter 3: An Empire for Slavery: 2",
+      "id": 9
+    },
+    {
+      "start": 16615.590839,
+      "end": 18825.572834,
+      "title": "Chapter 3: An Empire for Slavery: 3",
+      "id": 10
+    },
+    {
+      "start": 18825.572834,
+      "end": 21181.097823,
+      "title": "Chapter 4: Slavery, Rome, and Romanism: 1",
+      "id": 11
+    },
+    {
+      "start": 21181.097823,
+      "end": 23553.294785,
+      "title": "Chapter 4: Slavery, Rome, and Romanism: 2",
+      "id": 12
+    },
+    {
+      "start": 23553.294785,
+      "end": 25013.039773,
+      "title": "Chapter 5: The Crime Against Kansas: 1",
+      "id": 13
+    },
+    {
+      "start": 25013.039773,
+      "end": 27792.142766,
+      "title": "Chapter 5: The Crime Against Kansas: 2",
+      "id": 14
+    },
+    {
+      "start": 27792.142766,
+      "end": 29778.713741,
+      "title": "Chapter 6: Mudsills and Greasy Mechanics for A. Lincoln: 1",
+      "id": 15
+    },
+    {
+      "start": 29778.713741,
+      "end": 31034.019728,
+      "title": "Chapter 6: Mudsills and Greasy Mechanics for A. Lincoln: 2",
+      "id": 16
+    },
+    {
+      "start": 31034.019728,
+      "end": 33391.169705,
+      "title": "Chapter 6: Mudsills and Greasy Mechanics for A. Lincoln: 3",
+      "id": 17
+    },
+    {
+      "start": 33391.169705,
+      "end": 35439.169705,
+      "title": "Chapter 7: The Revolution of 1860: 1",
+      "id": 18
+    },
+    {
+      "start": 35439.169705,
+      "end": 38791.387664,
+      "title": "Chapter 7: The Revolution of 1860: 2",
+      "id": 19
+    },
+    {
+      "start": 38791.387664,
+      "end": 40597.992653,
+      "title": "Chapter 8: The Counterrevolution of 1861: 1",
+      "id": 20
+    },
+    {
+      "start": 40597.992653,
+      "end": 43781.354649,
+      "title": "Chapter 8: The Counterrevolution of 1861: 2",
+      "id": 21
+    },
+    {
+      "start": 43781.354649,
+      "end": 45594.04263,
+      "title": "Chapter 8: The Counterrevolution of 1861: 3",
+      "id": 22
+    },
+    {
+      "start": 45594.04263,
+      "end": 46942.192608,
+      "title": "Chapter 9: Facing Both Ways: The Upper South's Dilemma: 1",
+      "id": 23
+    },
+    {
+      "start": 46942.192608,
+      "end": 49252.113605,
+      "title": "Chapter 9: Facing Both Ways: The Upper South's Dilemma: 2",
+      "id": 24
+    },
+    {
+      "start": 49252.113605,
+      "end": 50999.971565,
+      "title": "Chapter 9: Facing Both Ways: The Upper South's Dilemma: 3",
+      "id": 25
+    },
+    {
+      "start": 50999.971565,
+      "end": 51759.27356,
+      "title": "Chapter 10: Amateurs Go to War: 1",
+      "id": 26
+    },
+    {
+      "start": 51759.27356,
+      "end": 53491.98254,
+      "title": "Chapter 10: Amateurs Go to War: 2",
+      "id": 27
+    },
+    {
+      "start": 53491.98254,
+      "end": 56545.498503,
+      "title": "Chapter 10: Amateurs Go to War: 3",
+      "id": 28
+    },
+    {
+      "start": 56545.498503,
+      "end": 58204.222494,
+      "title": "Chapter 11: Farewell to the Ninety Days' War: 1",
+      "id": 29
+    },
+    {
+      "start": 58204.222494,
+      "end": 58925.543492,
+      "title": "Chapter 11: Farewell to the Ninety Days' War: 2",
+      "id": 30
+    },
+    {
+      "start": 58925.543492,
+      "end": 61278.142449,
+      "title": "Chapter 11: Farewell to the Ninety Days' War: 3",
+      "id": 31
+    },
+    {
+      "start": 61278.142449,
+      "end": 61291.764444,
+      "title": "Chapter 12: Blockade and Beachhead: The Salt-Water War, 1861-1862",
+      "id": 32
+    },
+    {
+      "start": 61291.764444,
+      "end": 63052.703401,
+      "title": "Chapter 12: Blockade and Beachhead: The Salt-Water War, 1861-1862: 1",
+      "id": 33
+    },
+    {
+      "start": 63052.703401,
+      "end": 65400.333379,
+      "title": "Chapter 12: Blockade and Beachhead: The Salt-Water War, 1861-1862: 2",
+      "id": 34
+    },
+    {
+      "start": 65400.333379,
+      "end": 67733.195374,
+      "title": "Chapter 13: The River War in 1862: 1",
+      "id": 35
+    },
+    {
+      "start": 67733.195374,
+      "end": 69105.494331,
+      "title": "Chapter 13: The River War in 1862: 2",
+      "id": 36
+    },
+    {
+      "start": 69105.494331,
+      "end": 71717.181315,
+      "title": "Chapter 13: The River War in 1862: 3",
+      "id": 37
+    },
+    {
+      "start": 71717.181315,
+      "end": 73278.490295,
+      "title": "Chapter 14: The Sinews of War: 1",
+      "id": 38
+    },
+    {
+      "start": 73278.490295,
+      "end": 76334.607256,
+      "title": "Chapter 14: The Sinews of War: 2",
+      "id": 39
+    },
+    {
+      "start": 76334.607256,
+      "end": 77415.416236,
+      "title": "Chapter 15: Billy Yank's Chickahominy Blues: 1",
+      "id": 40
+    },
+    {
+      "start": 77415.416236,
+      "end": 79163.586213,
+      "title": "Chapter 15: Billy Yank's Chickahominy Blues: 2",
+      "id": 41
+    },
+    {
+      "start": 79163.586213,
+      "end": 82182.690204,
+      "title": "Chapter 15: Billy Yank's Chickahominy Blues: 3",
+      "id": 42
+    },
+    {
+      "start": 82182.690204,
+      "end": 82876.35619,
+      "title": "Chapter 16: We Must Free the Slaves or Be Ourselves Subdued: 1",
+      "id": 43
+    },
+    {
+      "start": 82876.35619,
+      "end": 85718.438186,
+      "title": "Chapter 16: We Must Free the Slaves or Be Ourselves Subdued: 2",
+      "id": 44
+    },
+    {
+      "start": 85718.438186,
+      "end": 87826.066168,
+      "title": "Chapter 17: Carry Me Back to Old Virginny: 1",
+      "id": 45
+    },
+    {
+      "start": 87826.066168,
+      "end": 91229.507166,
+      "title": "Chapter 17: Carry Me Back to Old Virginny: 2",
+      "id": 46
+    },
+    {
+      "start": 91229.507166,
+      "end": 93243.707166,
+      "title": "Chapter 18: John Bull's Virginia Reel: 1",
+      "id": 47
+    },
+    {
+      "start": 93243.707166,
+      "end": 94829.389161,
+      "title": "Chapter 18: John Bull's Virginia Reel: 2",
+      "id": 48
+    },
+    {
+      "start": 94829.389161,
+      "end": 94840.399138,
+      "title": "Chapter 19: Three Rivers in Winter, 1862-1863",
+      "id": 49
+    },
+    {
+      "start": 94840.399138,
+      "end": 95948.704127,
+      "title": "Chapter 19: Three Rivers in Winter, 1862-1863: 1",
+      "id": 50
+    },
+    {
+      "start": 95948.704127,
+      "end": 98380.788118,
+      "title": "Chapter 19: Three Rivers in Winter, 1862-1863: 2",
+      "id": 51
+    },
+    {
+      "start": 98380.788118,
+      "end": 101523.655102,
+      "title": "Chapter 20: Fire in the Rear: 1",
+      "id": 52
+    },
+    {
+      "start": 101523.655102,
+      "end": 103924.226077,
+      "title": "Chapter 20: Fire in the Rear: 2",
+      "id": 53
+    },
+    {
+      "start": 103924.226077,
+      "end": 105998.830068,
+      "title": "Chapter 21: Long Remember: The Summer of '63: 1",
+      "id": 54
+    },
+    {
+      "start": 105998.830068,
+      "end": 107314.664036,
+      "title": "Chapter 21: Long Remember: The Summer of '63: 2",
+      "id": 55
+    },
+    {
+      "start": 107314.664036,
+      "end": 110614.405034,
+      "title": "Chapter 21: Long Remember: The Summer of '63: 3",
+      "id": 56
+    },
+    {
+      "start": 110614.405034,
+      "end": 113105.580998,
+      "title": "Chapter 22: Johnny Reb's Chattanooga Blues: 1",
+      "id": 57
+    },
+    {
+      "start": 113105.580998,
+      "end": 114280.741995,
+      "title": "Chapter 22: Johnny Reb's Chattanooga Blues: 2",
+      "id": 58
+    },
+    {
+      "start": 114280.741995,
+      "end": 115799.558957,
+      "title": "Chapter 23: When this Cruel War Is Over: 1",
+      "id": 59
+    },
+    {
+      "start": 115799.558957,
+      "end": 119215.538957,
+      "title": "Chapter 23: When this Cruel War Is Over: 2",
+      "id": 60
+    },
+    {
+      "start": 119215.538957,
+      "end": 123476.909932,
+      "title": "Chapter 24: If It Takes All Summer: 1",
+      "id": 61
+    },
+    {
+      "start": 123476.909932,
+      "end": 124596.251927,
+      "title": "Chapter 24: If It Takes All Summer: 2",
+      "id": 62
+    },
+    {
+      "start": 124596.251927,
+      "end": 125410.527891,
+      "title": "Chapter 25: After Four Years of Failure: 1",
+      "id": 63
+    },
+    {
+      "start": 125410.527891,
+      "end": 126220.486848,
+      "title": "Chapter 25: After Four Years of Failure: 2",
+      "id": 64
+    },
+    {
+      "start": 126220.486848,
+      "end": 128357.882812,
+      "title": "Chapter 25: After Four Years of Failure: 3",
+      "id": 65
+    },
+    {
+      "start": 128357.882812,
+      "end": 129513.230794,
+      "title": "Chapter 26: We Are Going to Be Wiped Off the Earth: 1",
+      "id": 66
+    },
+    {
+      "start": 129513.230794,
+      "end": 130797.509751,
+      "title": "Chapter 26: We Are Going to Be Wiped Off the Earth: 2",
+      "id": 67
+    },
+    {
+      "start": 130797.509751,
+      "end": 133702.650748,
+      "title": "Chapter 26: We Are Going to Be Wiped Off the Earth: 3",
+      "id": 68
+    },
+    {
+      "start": 133702.650748,
+      "end": 135649.271746,
+      "title": "Chapter 27: South Carolina Must Be Destroyed: 1",
+      "id": 69
+    },
+    {
+      "start": 135649.271746,
+      "end": 136558.088707,
+      "title": "Chapter 27: South Carolina Must Be Destroyed: 2",
+      "id": 70
+    },
+    {
+      "start": 136558.088707,
+      "end": 137548.198685,
+      "title": "Chapter 27: South Carolina Must Be Destroyed: 3",
+      "id": 71
+    },
+    {
+      "start": 137548.198685,
+      "end": 138743.698685,
+      "title": "Chapter 28: We Are All Americans: 1",
+      "id": 72
+    },
+    {
+      "start": 138743.698685,
+      "end": 139748.010658,
+      "title": "Chapter 28: We Are All Americans: 2",
+      "id": 73
+    },
+    {
+      "start": 139748.010658,
+      "end": 141175.851655,
+      "title": "Chapter 28: We Are All Americans: 3",
+      "id": 74
+    },
+    {
+      "start": 141175.851655,
+      "end": 142846.433651,
+      "title": "Epilogue: To the Shoals of Victory",
+      "id": 75
+    },
+    {
+      "start": 142846.433651,
+      "end": 142869.548345,
+      "title": "End Credits",
+      "id": 76
+    }
+  ],
+  "title": "Battle Cry of Freedom (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "James Macpherson"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "History, Military"
+  ],
+  "publishedYear": "2020",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Battle Cry of Freedom vividly traces how a new nation was forged when a war both sides were sure would amount to little dragged for four years and cost more American lives than all other wars combined. Narrator Jonathan Davis powerful reading brings to life the many voices of the Civil War.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

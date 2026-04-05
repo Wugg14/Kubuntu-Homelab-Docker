@@ -1,0 +1,132 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 952.776,
+      "title": "Chapter 01: The Worst Birthday"
+    },
+    {
+      "id": 1,
+      "start": 952.776,
+      "end": 2027.016,
+      "title": "Chapter 02: Dobby's Warning"
+    },
+    {
+      "id": 2,
+      "start": 2027.016,
+      "end": 3630.312,
+      "title": "Chapter 03: The Burrow"
+    },
+    {
+      "id": 3,
+      "start": 3630.312,
+      "end": 5783.832,
+      "title": "Chapter 04: At Flourish And Blotts"
+    },
+    {
+      "id": 4,
+      "start": 5783.832,
+      "end": 7773.084000000001,
+      "title": "Chapter 05: The Whomping Willow"
+    },
+    {
+      "id": 5,
+      "start": 7773.084000000001,
+      "end": 9515.232,
+      "title": "Chapter 06: Gilderoy Lockhart"
+    },
+    {
+      "id": 6,
+      "start": 9515.232,
+      "end": 11210.652,
+      "title": "Chapter 07: Mudbloods And Murmurs"
+    },
+    {
+      "id": 7,
+      "start": 11210.652,
+      "end": 12977.784,
+      "title": "Chapter 08: The Deathday Party"
+    },
+    {
+      "id": 8,
+      "start": 12977.784,
+      "end": 15005.52,
+      "title": "Chapter 09: The Writing On The Wall"
+    },
+    {
+      "id": 9,
+      "start": 15005.52,
+      "end": 16964.352,
+      "title": "Chapter 10: The Rogue Bludger"
+    },
+    {
+      "id": 10,
+      "start": 16964.352,
+      "end": 19227.275999999998,
+      "title": "Chapter 11: The Duelling Club"
+    },
+    {
+      "id": 11,
+      "start": 19227.275999999998,
+      "end": 21200.976,
+      "title": "Chapter 12: The Polyjuice Potion"
+    },
+    {
+      "id": 12,
+      "start": 21200.976,
+      "end": 23258.268,
+      "title": "Chapter 13: The Very Secret Diary"
+    },
+    {
+      "id": 13,
+      "start": 23258.268,
+      "end": 24766.812,
+      "title": "Chapter 14: Cornelius Fudge"
+    },
+    {
+      "id": 14,
+      "start": 24766.812,
+      "end": 26554.716,
+      "title": "Chapter 15: Aragog"
+    },
+    {
+      "id": 15,
+      "start": 26554.716,
+      "end": 28734.156,
+      "title": "Chapter 16: The Chamber Of Secrets"
+    },
+    {
+      "id": 16,
+      "start": 28734.156,
+      "end": 30918.888,
+      "title": "Chapter 17: The Heir Of Slytherin"
+    },
+    {
+      "id": 17,
+      "start": 30918.888,
+      "end": 32529.6,
+      "title": "Chapter 18: Dobby's Reward"
+    }
+  ],
+  "title": "Harry Potter And The Chamber Of Secrets",
+  "subtitle": null,
+  "authors": [
+    "J. K. Rowling"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1998",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

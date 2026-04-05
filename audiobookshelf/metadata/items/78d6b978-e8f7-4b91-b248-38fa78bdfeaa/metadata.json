@@ -1,0 +1,92 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 721.864,
+      "title": "Prologue: Oliver Cromwell’s Head"
+    },
+    {
+      "id": 1,
+      "start": 721.864,
+      "end": 2538.928,
+      "title": "Introduction: Irresistible Heads"
+    },
+    {
+      "id": 2,
+      "start": 2538.928,
+      "end": 6031.144,
+      "title": "1     Shrunken Heads"
+    },
+    {
+      "id": 3,
+      "start": 6031.144,
+      "end": 9328.6,
+      "title": "2     Trophy Heads"
+    },
+    {
+      "id": 4,
+      "start": 9328.6,
+      "end": 13162.168000000001,
+      "title": "3     Deposed Heads"
+    },
+    {
+      "id": 5,
+      "start": 13162.168000000001,
+      "end": 16381.624000000002,
+      "title": "4     Framed Heads"
+    },
+    {
+      "id": 6,
+      "start": 16381.624000000002,
+      "end": 19579.408000000003,
+      "title": "5     Potent Heads"
+    },
+    {
+      "id": 7,
+      "start": 19579.408000000003,
+      "end": 24411.712000000003,
+      "title": "6     Bone Heads"
+    },
+    {
+      "id": 8,
+      "start": 24411.712000000003,
+      "end": 27996.016000000003,
+      "title": "7     Dissected Heads"
+    },
+    {
+      "id": 9,
+      "start": 27996.016000000003,
+      "end": 31418.608000000004,
+      "title": "8     Living Heads"
+    },
+    {
+      "id": 10,
+      "start": 31418.608000000004,
+      "end": 32165.584000000003,
+      "title": "Conclusion: Other People’s Heads"
+    }
+  ],
+  "title": "Severed: A History of Heads Lost and Heads Found",
+  "subtitle": null,
+  "authors": [
+    "Frances Larson"
+  ],
+  "narrators": [
+    "Frances Larson"
+  ],
+  "series": [],
+  "genres": [
+    "audiobook"
+  ],
+  "publishedYear": "2014",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

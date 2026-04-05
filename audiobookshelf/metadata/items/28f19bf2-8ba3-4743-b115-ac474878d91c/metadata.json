@@ -1,0 +1,290 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 18.111,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 18.111,
+      "end": 109.11,
+      "title": "Prologue",
+      "id": 1
+    },
+    {
+      "start": 109.11,
+      "end": 782.953,
+      "title": "Chapter 1",
+      "id": 2
+    },
+    {
+      "start": 782.953,
+      "end": 1029.966,
+      "title": "Chapter 2",
+      "id": 3
+    },
+    {
+      "start": 1029.966,
+      "end": 1467.917,
+      "title": "Chapter 3",
+      "id": 4
+    },
+    {
+      "start": 1467.917,
+      "end": 2414.803,
+      "title": "Chapter 4",
+      "id": 5
+    },
+    {
+      "start": 2414.803,
+      "end": 2761.732,
+      "title": "Chapter 5",
+      "id": 6
+    },
+    {
+      "start": 2761.732,
+      "end": 3132.624,
+      "title": "Chapter 6",
+      "id": 7
+    },
+    {
+      "start": 3132.624,
+      "end": 3550.954,
+      "title": "Chapter 7",
+      "id": 8
+    },
+    {
+      "start": 3550.954,
+      "end": 5019.917,
+      "title": "Chapter 8",
+      "id": 9
+    },
+    {
+      "start": 5019.917,
+      "end": 6699.277,
+      "title": "Chapter 9",
+      "id": 10
+    },
+    {
+      "start": 6699.277,
+      "end": 7041.376,
+      "title": "Chapter 10",
+      "id": 11
+    },
+    {
+      "start": 7041.376,
+      "end": 7674.723,
+      "title": "Chapter 11",
+      "id": 12
+    },
+    {
+      "start": 7674.723,
+      "end": 8204.091,
+      "title": "Chapter 12",
+      "id": 13
+    },
+    {
+      "start": 8204.091,
+      "end": 8579.371,
+      "title": "Chapter 13",
+      "id": 14
+    },
+    {
+      "start": 8579.371,
+      "end": 9663.65,
+      "title": "Chapter 14",
+      "id": 15
+    },
+    {
+      "start": 9663.65,
+      "end": 10085.161,
+      "title": "Chapter 15",
+      "id": 16
+    },
+    {
+      "start": 10085.161,
+      "end": 11429.828,
+      "title": "Chapter 16",
+      "id": 17
+    },
+    {
+      "start": 11429.828,
+      "end": 11684.69,
+      "title": "Chapter 17",
+      "id": 18
+    },
+    {
+      "start": 11684.69,
+      "end": 12296.582,
+      "title": "Chapter 18",
+      "id": 19
+    },
+    {
+      "start": 12296.582,
+      "end": 12703.651,
+      "title": "Chapter 19",
+      "id": 20
+    },
+    {
+      "start": 12703.651,
+      "end": 13761.807,
+      "title": "Chapter 20",
+      "id": 21
+    },
+    {
+      "start": 13761.807,
+      "end": 14018.875,
+      "title": "Chapter 21",
+      "id": 22
+    },
+    {
+      "start": 14018.875,
+      "end": 14331.02,
+      "title": "Chapter 22",
+      "id": 23
+    },
+    {
+      "start": 14331.02,
+      "end": 14641.981,
+      "title": "Chapter 23",
+      "id": 24
+    },
+    {
+      "start": 14641.981,
+      "end": 15168.423,
+      "title": "Chapter 24",
+      "id": 25
+    },
+    {
+      "start": 15168.423,
+      "end": 15765.64,
+      "title": "Chapter 25",
+      "id": 26
+    },
+    {
+      "start": 15765.64,
+      "end": 16179.535,
+      "title": "Chapter 26",
+      "id": 27
+    },
+    {
+      "start": 16179.535,
+      "end": 16653.872,
+      "title": "Chapter 27",
+      "id": 28
+    },
+    {
+      "start": 16653.872,
+      "end": 16957.844,
+      "title": "Chapter 28",
+      "id": 29
+    },
+    {
+      "start": 16957.844,
+      "end": 17258.658,
+      "title": "Chapter 29",
+      "id": 30
+    },
+    {
+      "start": 17258.658,
+      "end": 17776.648,
+      "title": "Chapter 30",
+      "id": 31
+    },
+    {
+      "start": 17776.648,
+      "end": 18217.362,
+      "title": "Chapter 31",
+      "id": 32
+    },
+    {
+      "start": 18217.362,
+      "end": 18678.487,
+      "title": "Chapter 32",
+      "id": 33
+    },
+    {
+      "start": 18678.487,
+      "end": 19215.169,
+      "title": "Chapter 33",
+      "id": 34
+    },
+    {
+      "start": 19215.169,
+      "end": 19546.192,
+      "title": "Chapter 34",
+      "id": 35
+    },
+    {
+      "start": 19546.192,
+      "end": 20195.12,
+      "title": "Chapter 35",
+      "id": 36
+    },
+    {
+      "start": 20195.12,
+      "end": 20499.301,
+      "title": "Chapter 36",
+      "id": 37
+    },
+    {
+      "start": 20499.301,
+      "end": 20732.127,
+      "title": "Chapter 37",
+      "id": 38
+    },
+    {
+      "start": 20732.127,
+      "end": 21411.032,
+      "title": "Chapter 38",
+      "id": 39
+    },
+    {
+      "start": 21411.032,
+      "end": 22274.233,
+      "title": "Chapter 39",
+      "id": 40
+    },
+    {
+      "start": 22274.233,
+      "end": 23143.634,
+      "title": "Chapter 40",
+      "id": 41
+    },
+    {
+      "start": 23143.634,
+      "end": 24123.539,
+      "title": "Epilogue",
+      "id": 42
+    },
+    {
+      "start": 24123.539,
+      "end": 24143.832,
+      "title": "End Credits",
+      "id": 43
+    }
+  ],
+  "title": "One by One",
+  "subtitle": null,
+  "authors": [
+    "Freida McFadden"
+  ],
+  "narrators": [
+    "Alyson Krawchuk"
+  ],
+  "series": [],
+  "genres": [
+    "Mystery, Thriller & Suspense:Thriller & Suspense:Psychological"
+  ],
+  "publishedYear": "2022-10-11",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "<p>A night spent sleeping on dirt and leaves is <i>not </i>how Claire Matchett expected to spend her vacation.</p> <p>She thought this would be a break from the stresses of work and raising her young children. A chance to repair her damaged marriage. A week of hiking and hot tubs with two other couple friends. It sounded like heaven.</p> <p>Then Claire’s minivan breaks down on a lonely dirt road. With no cell reception, the group has no choice but to hike the rest of the way to their hotel. But it turns out the woods aren’t as easy to navigate as they thought.</p> <p>Hours later, they are lost. Hopelessly lost.</p> <p>And as they navigate deeper into the woods, the members of their party are struck down mysteriously one by one. Has a wild animal been hunting them? Or is the hunter one of them?</p> <p>But as more time passes, one thing becomes clear: Only one of them will return home alive.</p>",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

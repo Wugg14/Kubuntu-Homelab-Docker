@@ -1,0 +1,696 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1385.990089,
+      "title": "Ch00 - Preface"
+    },
+    {
+      "id": 1,
+      "start": 1385.990089,
+      "end": 2743.027678,
+      "title": "Ch01a - Small and Suspicious Circles"
+    },
+    {
+      "id": 2,
+      "start": 2743.027678,
+      "end": 4000.218267,
+      "title": "Ch01b - Small and Suspicious Circles"
+    },
+    {
+      "id": 3,
+      "start": 4000.218267,
+      "end": 5366.228523,
+      "title": "Ch01c - Small and Suspicious Circles"
+    },
+    {
+      "id": 4,
+      "start": 5366.228523,
+      "end": 6485.620856,
+      "title": "Ch02a - Stories"
+    },
+    {
+      "id": 5,
+      "start": 6485.620856,
+      "end": 7554.072445,
+      "title": "Ch02b - Stories"
+    },
+    {
+      "id": 6,
+      "start": 7554.072445,
+      "end": 8700.408867,
+      "title": "Ch02c - Stories"
+    },
+    {
+      "id": 7,
+      "start": 8700.408867,
+      "end": 9882.688123,
+      "title": "Ch02d - Stories"
+    },
+    {
+      "id": 8,
+      "start": 9882.688123,
+      "end": 11086.955623,
+      "title": "Ch03a - Let Them Eat Brains"
+    },
+    {
+      "id": 9,
+      "start": 11086.955623,
+      "end": 12314.176456,
+      "title": "Ch03b - Let Them Eat Brains"
+    },
+    {
+      "id": 10,
+      "start": 12314.176456,
+      "end": 13535.398122999999,
+      "title": "Ch04a - Executive Privilege"
+    },
+    {
+      "id": 11,
+      "start": 13535.398122999999,
+      "end": 14757.637045,
+      "title": "Ch04b - Executive Privilege"
+    },
+    {
+      "id": 12,
+      "start": 14757.637045,
+      "end": 16149.626301,
+      "title": "Ch05a - A Whale of a Good Cheerleader"
+    },
+    {
+      "id": 13,
+      "start": 16149.626301,
+      "end": 17612.510057,
+      "title": "Ch05b - A Whale of a Good Cheerleader"
+    },
+    {
+      "id": 14,
+      "start": 17612.510057,
+      "end": 18908.643057,
+      "title": "Ch06a - Sam Ervin"
+    },
+    {
+      "id": 15,
+      "start": 18908.643057,
+      "end": 20218.730646,
+      "title": "Ch06b - Sam Ervin"
+    },
+    {
+      "id": 16,
+      "start": 20218.730646,
+      "end": 21514.863646,
+      "title": "Ch06c - Sam Ervin"
+    },
+    {
+      "id": 17,
+      "start": 21514.863646,
+      "end": 22668.190402,
+      "title": "Ch07a - John Dean"
+    },
+    {
+      "id": 18,
+      "start": 22668.190402,
+      "end": 23850.469658,
+      "title": "Ch07b - John Dean"
+    },
+    {
+      "id": 19,
+      "start": 23850.469658,
+      "end": 25022.78508,
+      "title": "Ch07c - John Dean"
+    },
+    {
+      "id": 20,
+      "start": 25022.78508,
+      "end": 26230.052169000002,
+      "title": "Ch07d - John Dean"
+    },
+    {
+      "id": 21,
+      "start": 26230.052169000002,
+      "end": 27429.311669000002,
+      "title": "Ch08a - Nostalgia"
+    },
+    {
+      "id": 22,
+      "start": 27429.311669000002,
+      "end": 28674.503925,
+      "title": "Ch08b - Nostalgia"
+    },
+    {
+      "id": 23,
+      "start": 28674.503925,
+      "end": 29859.782758,
+      "title": "Ch08c - Nostalgia"
+    },
+    {
+      "id": 24,
+      "start": 29859.782758,
+      "end": 31149.916591,
+      "title": "Ch08d - Nostalgia"
+    },
+    {
+      "id": 25,
+      "start": 31149.916591,
+      "end": 32538.906258000003,
+      "title": "Ch09a - The Year Without Christmas Lights"
+    },
+    {
+      "id": 26,
+      "start": 32538.906258000003,
+      "end": 33844.011925000006,
+      "title": "Ch09b - The Year Without Christmas Lights"
+    },
+    {
+      "id": 27,
+      "start": 33844.011925000006,
+      "end": 35202.040681000006,
+      "title": "Ch09c - The Year Without Christmas Lights"
+    },
+    {
+      "id": 28,
+      "start": 35202.040681000006,
+      "end": 36521.127014000005,
+      "title": "Ch09d - The Year Without Christmas Lights"
+    },
+    {
+      "id": 29,
+      "start": 36521.127014000005,
+      "end": 37619.548347,
+      "title": "Ch10a - That Thing Upstairs Isn't My Daughter"
+    },
+    {
+      "id": 30,
+      "start": 37619.548347,
+      "end": 38835.788103000006,
+      "title": "Ch10b - That Thing Upstairs Isn't My Daughter"
+    },
+    {
+      "id": 31,
+      "start": 38835.788103000006,
+      "end": 40093.969859000004,
+      "title": "Ch10c - That Thing Upstairs Isn't My Daughter"
+    },
+    {
+      "id": 32,
+      "start": 40093.969859000004,
+      "end": 41411.047781,
+      "title": "Ch11a - Hank Aaron"
+    },
+    {
+      "id": 33,
+      "start": 41411.047781,
+      "end": 42727.134537,
+      "title": "Ch11b - Hank Aaron"
+    },
+    {
+      "id": 34,
+      "start": 42727.134537,
+      "end": 43777.614704,
+      "title": "Ch12a - Here Comes the Pitch!"
+    },
+    {
+      "id": 35,
+      "start": 43777.614704,
+      "end": 44786.17896,
+      "title": "Ch12b - Here Comes the Pitch!"
+    },
+    {
+      "id": 36,
+      "start": 44786.17896,
+      "end": 45810.706216,
+      "title": "Ch12c - Here Comes the Pitch!"
+    },
+    {
+      "id": 37,
+      "start": 45810.706216,
+      "end": 46912.127137999996,
+      "title": "Ch13a - Judging"
+    },
+    {
+      "id": 38,
+      "start": 46912.127137999996,
+      "end": 47976.58797099999,
+      "title": "Ch13b - Judging"
+    },
+    {
+      "id": 39,
+      "start": 47976.58797099999,
+      "end": 49112.96055999999,
+      "title": "Ch14a - There Used to Be a President Who Didn't Lie"
+    },
+    {
+      "id": 40,
+      "start": 49112.96055999999,
+      "end": 50310.23772699999,
+      "title": "Ch14b - There Used to Be a President Who Didn't Lie"
+    },
+    {
+      "id": 41,
+      "start": 50310.23772699999,
+      "end": 51729.17105999999,
+      "title": "Ch15a - New Right?"
+    },
+    {
+      "id": 42,
+      "start": 51729.17105999999,
+      "end": 53084.200226999994,
+      "title": "Ch15b - New Right?"
+    },
+    {
+      "id": 43,
+      "start": 53084.200226999994,
+      "end": 54565.055393999995,
+      "title": "Ch15c - New Right?"
+    },
+    {
+      "id": 44,
+      "start": 54565.055393999995,
+      "end": 55923.084149999995,
+      "title": "Ch15d - New Right?"
+    },
+    {
+      "id": 45,
+      "start": 55923.084149999995,
+      "end": 57217.208738999994,
+      "title": "Ch15e - New Right?"
+    },
+    {
+      "id": 46,
+      "start": 57217.208738999994,
+      "end": 58418.47666099999,
+      "title": "Ch16a - Watergate Babies"
+    },
+    {
+      "id": 47,
+      "start": 58418.47666099999,
+      "end": 59614.73658299999,
+      "title": "Ch16b - Watergate Babies"
+    },
+    {
+      "id": 48,
+      "start": 59614.73658299999,
+      "end": 60815.01333899999,
+      "title": "Ch17a - Star"
+    },
+    {
+      "id": 49,
+      "start": 60815.01333899999,
+      "end": 61917.42542799999,
+      "title": "Ch17b - Star"
+    },
+    {
+      "id": 50,
+      "start": 61917.42542799999,
+      "end": 63121.69292799999,
+      "title": "Ch17c - Star"
+    },
+    {
+      "id": 51,
+      "start": 63121.69292799999,
+      "end": 64317.95284999999,
+      "title": "Ch17d - Star"
+    },
+    {
+      "id": 52,
+      "start": 64317.95284999999,
+      "end": 65506.23127199999,
+      "title": "Ch17e - Star"
+    },
+    {
+      "id": 53,
+      "start": 65506.23127199999,
+      "end": 66709.48152799999,
+      "title": "Ch17f - Star"
+    },
+    {
+      "id": 54,
+      "start": 66709.48152799999,
+      "end": 67909.758284,
+      "title": "Ch17g - Star"
+    },
+    {
+      "id": 55,
+      "start": 67909.758284,
+      "end": 69114.025784,
+      "title": "Ch17h - Star"
+    },
+    {
+      "id": 56,
+      "start": 69114.025784,
+      "end": 70308.303373,
+      "title": "Ch17i - Star"
+    },
+    {
+      "id": 57,
+      "start": 70308.303373,
+      "end": 71692.28504,
+      "title": "Ch17j - Star"
+    },
+    {
+      "id": 58,
+      "start": 71692.28504,
+      "end": 72748.764373,
+      "title": "Ch18a - Governing"
+    },
+    {
+      "id": 59,
+      "start": 72748.764373,
+      "end": 73694.415629,
+      "title": "Ch18b - Governing"
+    },
+    {
+      "id": 60,
+      "start": 73694.415629,
+      "end": 74990.548629,
+      "title": "Ch19a - \"Disease, Disease, Disease\""
+    },
+    {
+      "id": 61,
+      "start": 74990.548629,
+      "end": 76338.587462,
+      "title": "Ch19b - \"Disease, Disease, Disease\""
+    },
+    {
+      "id": 62,
+      "start": 76338.587462,
+      "end": 77593.769629,
+      "title": "Ch19c - \"Disease, Disease, Disease\""
+    },
+    {
+      "id": 63,
+      "start": 77593.769629,
+      "end": 79020.684462,
+      "title": "Ch20a - New Right"
+    },
+    {
+      "id": 64,
+      "start": 79020.684462,
+      "end": 80469.587551,
+      "title": "Ch20b - New Right"
+    },
+    {
+      "id": 65,
+      "start": 80469.587551,
+      "end": 81978.37797300001,
+      "title": "Ch20c - New Right"
+    },
+    {
+      "id": 66,
+      "start": 81978.37797300001,
+      "end": 83171.66439500001,
+      "title": "Ch21a - Weimar Summer"
+    },
+    {
+      "id": 67,
+      "start": 83171.66439500001,
+      "end": 84365.94198400002,
+      "title": "Ch21b - Weimar Summer"
+    },
+    {
+      "id": 68,
+      "start": 84365.94198400002,
+      "end": 85527.27631700003,
+      "title": "Ch21c - Weimar Summer"
+    },
+    {
+      "id": 69,
+      "start": 85527.27631700003,
+      "end": 86722.54507300003,
+      "title": "Ch21d - Weimar Summer"
+    },
+    {
+      "id": 70,
+      "start": 86722.54507300003,
+      "end": 87921.80457300003,
+      "title": "Ch21e - Weimar Summer"
+    },
+    {
+      "id": 71,
+      "start": 87921.80457300003,
+      "end": 89119.08174000002,
+      "title": "Ch21f - Weimar Summer"
+    },
+    {
+      "id": 72,
+      "start": 89119.08174000002,
+      "end": 90385.24499600002,
+      "title": "Ch21g - Weimar Summer"
+    },
+    {
+      "id": 73,
+      "start": 90385.24499600002,
+      "end": 91787.19808500003,
+      "title": "Ch22a - The Nation's Soul"
+    },
+    {
+      "id": 74,
+      "start": 91787.19808500003,
+      "end": 93177.17891800002,
+      "title": "Ch22b - The Nation's Soul"
+    },
+    {
+      "id": 75,
+      "start": 93177.17891800002,
+      "end": 94551.17067400002,
+      "title": "Ch22c - The Nation's Soul"
+    },
+    {
+      "id": 76,
+      "start": 94551.17067400002,
+      "end": 95873.25659600002,
+      "title": "Ch23a - \"Has the Gallup Pool Gone Bananas?\""
+    },
+    {
+      "id": 77,
+      "start": 95873.25659600002,
+      "end": 97139.41985200002,
+      "title": "Ch23b - \"Has the Gallup Pool Gone Bananas?\""
+    },
+    {
+      "id": 78,
+      "start": 97139.41985200002,
+      "end": 98369.64027400002,
+      "title": "Ch23c - \"Has the Gallup Pool Gone Bananas?\""
+    },
+    {
+      "id": 79,
+      "start": 98369.64027400002,
+      "end": 99663.76486300002,
+      "title": "Ch23d - \"Has the Gallup Pool Gone Bananas?\""
+    },
+    {
+      "id": 80,
+      "start": 99663.76486300002,
+      "end": 101168.56453000002,
+      "title": "Ch24a - Negatives Are Positives"
+    },
+    {
+      "id": 81,
+      "start": 101168.56453000002,
+      "end": 102698.32595200001,
+      "title": "Ch24b - Negatives Are Positives"
+    },
+    {
+      "id": 82,
+      "start": 102698.32595200001,
+      "end": 104214.106708,
+      "title": "Ch24c - Negatives Are Positives"
+    },
+    {
+      "id": 83,
+      "start": 104214.106708,
+      "end": 105449.309041,
+      "title": "Ch25a - \"Not the Candidate of Kooks\""
+    },
+    {
+      "id": 84,
+      "start": 105449.309041,
+      "end": 106680.52063,
+      "title": "Ch25b - \"Not the Candidate of Kooks\""
+    },
+    {
+      "id": 85,
+      "start": 106680.52063,
+      "end": 107895.769219,
+      "title": "Ch25c - \"Not the Candidate of Kooks\""
+    },
+    {
+      "id": 86,
+      "start": 107895.769219,
+      "end": 109074.05771899999,
+      "title": "Ch25d - \"Not the Candidate of Kooks\""
+    },
+    {
+      "id": 87,
+      "start": 109074.05771899999,
+      "end": 110213.40380799999,
+      "title": "Ch26a - Born Again"
+    },
+    {
+      "id": 88,
+      "start": 110213.40380799999,
+      "end": 111354.75830799999,
+      "title": "Ch26b - Born Again"
+    },
+    {
+      "id": 89,
+      "start": 111354.75830799999,
+      "end": 112505.08547499999,
+      "title": "Ch26c - Born Again"
+    },
+    {
+      "id": 90,
+      "start": 112505.08547499999,
+      "end": 113595.52530799998,
+      "title": "Ch26d - Born Again"
+    },
+    {
+      "id": 91,
+      "start": 113595.52530799998,
+      "end": 114884.66797499999,
+      "title": "Ch27a - \"Always Shuck the Tamale\""
+    },
+    {
+      "id": 92,
+      "start": 114884.66797499999,
+      "end": 116143.84089699999,
+      "title": "Ch27b - \"Always Shuck the Tamale\""
+    },
+    {
+      "id": 93,
+      "start": 116143.84089699999,
+      "end": 117421.97639699999,
+      "title": "Ch27c - \"Always Shuck the Tamale\""
+    },
+    {
+      "id": 94,
+      "start": 117421.97639699999,
+      "end": 118654.20522999999,
+      "title": "Ch27d - \"Always Shuck the Tamale\""
+    },
+    {
+      "id": 95,
+      "start": 118654.20522999999,
+      "end": 119905.396652,
+      "title": "Ch28a - They Yearned to Believe"
+    },
+    {
+      "id": 96,
+      "start": 119905.396652,
+      "end": 121168.560319,
+      "title": "Ch28b - They Yearned to Believe"
+    },
+    {
+      "id": 97,
+      "start": 121168.560319,
+      "end": 122423.742486,
+      "title": "Ch28c - They Yearned to Believe"
+    },
+    {
+      "id": 98,
+      "start": 122423.742486,
+      "end": 123709.88557500001,
+      "title": "Ch28d - They Yearned to Believe"
+    },
+    {
+      "id": 99,
+      "start": 123709.88557500001,
+      "end": 124690.48849700001,
+      "title": "Ch29a - Bicentennial"
+    },
+    {
+      "id": 100,
+      "start": 124690.48849700001,
+      "end": 125689.06283000001,
+      "title": "Ch29b - Bicentennial"
+    },
+    {
+      "id": 101,
+      "start": 125689.06283000001,
+      "end": 126737.56066300001,
+      "title": "Ch29c - Bicentennial"
+    },
+    {
+      "id": 102,
+      "start": 126737.56066300001,
+      "end": 127742.10808500001,
+      "title": "Ch30a - \"You're in the Catbird Seat\""
+    },
+    {
+      "id": 103,
+      "start": 127742.10808500001,
+      "end": 129155.04225200001,
+      "title": "Ch30b - \"You're in the Catbird Seat\""
+    },
+    {
+      "id": 104,
+      "start": 129155.04225200001,
+      "end": 130281.42491900001,
+      "title": "Ch30c - \"You're in the Catbird Seat\""
+    },
+    {
+      "id": 105,
+      "start": 130281.42491900001,
+      "end": 131669.397341,
+      "title": "Ch31a - \"Don't Let Satan Have His Way - Stop the ERA\""
+    },
+    {
+      "id": 106,
+      "start": 131669.397341,
+      "end": 132960.522341,
+      "title": "Ch31b - \"Don't Let Satan Have His Way - Stop the ERA\""
+    },
+    {
+      "id": 107,
+      "start": 132960.522341,
+      "end": 134313.569174,
+      "title": "Ch31c - \"Don't Let Satan Have His Way - Stop the ERA\""
+    },
+    {
+      "id": 108,
+      "start": 134313.569174,
+      "end": 135911.225507,
+      "title": "Ch32a - The End?"
+    },
+    {
+      "id": 109,
+      "start": 135911.225507,
+      "end": 137218.339596,
+      "title": "Ch32b - The End?"
+    },
+    {
+      "id": 110,
+      "start": 137218.339596,
+      "end": 138651.253596,
+      "title": "Ch32c - The End?"
+    },
+    {
+      "id": 111,
+      "start": 138651.253596,
+      "end": 140220.974685,
+      "title": "Ch32d - The End?"
+    }
+  ],
+  "title": "The Invisible Bridge - Performed by David de Vries",
+  "subtitle": null,
+  "authors": [
+    "Rick Perlstein"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2014",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

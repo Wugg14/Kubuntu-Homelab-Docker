@@ -1,0 +1,176 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 255.28,
+      "title": "001",
+      "id": 0
+    },
+    {
+      "start": 255.28,
+      "end": 2968.067,
+      "title": "002",
+      "id": 1
+    },
+    {
+      "start": 2968.067,
+      "end": 5365.295,
+      "title": "003",
+      "id": 2
+    },
+    {
+      "start": 5365.295,
+      "end": 8976.184,
+      "title": "004",
+      "id": 3
+    },
+    {
+      "start": 8976.184,
+      "end": 12576.484,
+      "title": "005",
+      "id": 4
+    },
+    {
+      "start": 12576.484,
+      "end": 14504.623,
+      "title": "006",
+      "id": 5
+    },
+    {
+      "start": 14504.623,
+      "end": 17966.021,
+      "title": "007",
+      "id": 6
+    },
+    {
+      "start": 17966.021,
+      "end": 18806.862,
+      "title": "008",
+      "id": 7
+    },
+    {
+      "start": 18806.862,
+      "end": 21233.116,
+      "title": "009",
+      "id": 8
+    },
+    {
+      "start": 21233.116,
+      "end": 24559.838,
+      "title": "010",
+      "id": 9
+    },
+    {
+      "start": 24559.838,
+      "end": 29255.053,
+      "title": "011",
+      "id": 10
+    },
+    {
+      "start": 29255.053,
+      "end": 33146.392,
+      "title": "012",
+      "id": 11
+    },
+    {
+      "start": 33146.392,
+      "end": 33750.993,
+      "title": "013",
+      "id": 12
+    },
+    {
+      "start": 33750.993,
+      "end": 36873.148,
+      "title": "014",
+      "id": 13
+    },
+    {
+      "start": 36873.148,
+      "end": 41172.787,
+      "title": "015",
+      "id": 14
+    },
+    {
+      "start": 41172.787,
+      "end": 45928.791,
+      "title": "016",
+      "id": 15
+    },
+    {
+      "start": 45928.791,
+      "end": 49851.292,
+      "title": "017",
+      "id": 16
+    },
+    {
+      "start": 49851.292,
+      "end": 53010.645,
+      "title": "018",
+      "id": 17
+    },
+    {
+      "start": 53010.645,
+      "end": 56136.469,
+      "title": "019",
+      "id": 18
+    },
+    {
+      "start": 56136.469,
+      "end": 58623.14,
+      "title": "020",
+      "id": 19
+    },
+    {
+      "start": 58623.14,
+      "end": 62617.901,
+      "title": "021",
+      "id": 20
+    },
+    {
+      "start": 62617.901,
+      "end": 66209.982,
+      "title": "022",
+      "id": 21
+    },
+    {
+      "start": 66209.982,
+      "end": 68438.587,
+      "title": "023",
+      "id": 22
+    },
+    {
+      "start": 68438.587,
+      "end": 72865.796,
+      "title": "024",
+      "id": 23
+    },
+    {
+      "start": 72865.796,
+      "end": 74048.714014,
+      "title": "025",
+      "id": 24
+    }
+  ],
+  "title": "Crazy Horse and Custer (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Stephen E. Ambrose"
+  ],
+  "narrators": [
+    "Richard Ferrone"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "On the sparkling morning of June 25, 1876, 611 men of the US 7th Cavalry rode toward the banks of the Little Bighorn in the Montana Territory, where 3,000 Indians stood waiting for battle. The lives of two great warriors would soon be forever linked throughout history: Crazy Horse, leader of the Oglala Sioux, and General George Armstrong Custer.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

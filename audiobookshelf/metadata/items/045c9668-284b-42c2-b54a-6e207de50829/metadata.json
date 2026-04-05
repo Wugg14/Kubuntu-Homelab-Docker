@@ -1,0 +1,170 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 104.583,
+      "title": "Chapter 1",
+      "id": 0
+    },
+    {
+      "start": 104.629116,
+      "end": 2037.643116,
+      "title": "Chapter 2",
+      "id": 1
+    },
+    {
+      "start": 2037.6434470000002,
+      "end": 5184.040447,
+      "title": "Chapter 3",
+      "id": 2
+    },
+    {
+      "start": 5184.040447,
+      "end": 7886.611447,
+      "title": "Chapter 4",
+      "id": 3
+    },
+    {
+      "start": 7886.657408000001,
+      "end": 10531.920408000002,
+      "title": "Chapter 5",
+      "id": 4
+    },
+    {
+      "start": 10531.920628,
+      "end": 12173.060628,
+      "title": "Chapter 6",
+      "id": 5
+    },
+    {
+      "start": 12173.060628,
+      "end": 14213.630627999999,
+      "title": "Chapter 7",
+      "id": 6
+    },
+    {
+      "start": 14213.676682,
+      "end": 15984.337682,
+      "title": "Chapter 8",
+      "id": 7
+    },
+    {
+      "start": 15984.38353,
+      "end": 18660.20453,
+      "title": "Chapter 9",
+      "id": 8
+    },
+    {
+      "start": 18660.250649999998,
+      "end": 20048.617649999997,
+      "title": "Chapter 10",
+      "id": 9
+    },
+    {
+      "start": 20048.617724,
+      "end": 24965.025724,
+      "title": "Chapter 11",
+      "id": 10
+    },
+    {
+      "start": 24965.071602,
+      "end": 27059.650602,
+      "title": "Chapter 12",
+      "id": 11
+    },
+    {
+      "start": 27059.650602,
+      "end": 27876.853602000003,
+      "title": "Chapter 13",
+      "id": 12
+    },
+    {
+      "start": 27876.853686000002,
+      "end": 29665.068686000002,
+      "title": "Chapter 14",
+      "id": 13
+    },
+    {
+      "start": 29665.068833,
+      "end": 31043.358833000002,
+      "title": "Chapter 15",
+      "id": 14
+    },
+    {
+      "start": 31043.358901,
+      "end": 35463.555901,
+      "title": "Chapter 16",
+      "id": 15
+    },
+    {
+      "start": 35463.555908,
+      "end": 36366.626908000006,
+      "title": "Chapter 17",
+      "id": 16
+    },
+    {
+      "start": 36366.672824,
+      "end": 37306.151824,
+      "title": "Chapter 18",
+      "id": 17
+    },
+    {
+      "start": 37306.151824,
+      "end": 40003.939824,
+      "title": "Chapter 19",
+      "id": 18
+    },
+    {
+      "start": 40003.985475,
+      "end": 42379.850475,
+      "title": "Chapter 20",
+      "id": 19
+    },
+    {
+      "start": 42379.850475,
+      "end": 43120.892475,
+      "title": "Chapter 21",
+      "id": 20
+    },
+    {
+      "start": 43120.938548,
+      "end": 44983.410548,
+      "title": "Chapter 22",
+      "id": 21
+    },
+    {
+      "start": 44983.410656,
+      "end": 47123.594656,
+      "title": "Chapter 23",
+      "id": 22
+    },
+    {
+      "start": 47123.640316,
+      "end": 47927.189315999996,
+      "title": "Chapter 24",
+      "id": 23
+    }
+  ],
+  "title": "Red Plenty (Unabridged)",
+  "subtitle": null,
+  "authors": [
+    "Francis Spufford"
+  ],
+  "narrators": [
+    "Roger Clark"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Strange as it may seem, the gray, oppressive USSR was founded on a fairy tale....",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

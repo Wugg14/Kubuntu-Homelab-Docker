@@ -1,0 +1,84 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 3742.694,
+      "title": "Chapter 001  - 01:02:22",
+      "id": 0
+    },
+    {
+      "start": 3742.694,
+      "end": 6917.225,
+      "title": "Chapter 002  - 00:52:54",
+      "id": 1
+    },
+    {
+      "start": 6917.225,
+      "end": 10147.919,
+      "title": "Chapter 003  - 00:53:50",
+      "id": 2
+    },
+    {
+      "start": 10147.919,
+      "end": 12864.497,
+      "title": "Chapter 004  - 00:45:16",
+      "id": 3
+    },
+    {
+      "start": 12864.497,
+      "end": 15716.102,
+      "title": "Chapter 005  - 00:47:31",
+      "id": 4
+    },
+    {
+      "start": 15716.102,
+      "end": 19377.215,
+      "title": "Chapter 006  - 01:01:01",
+      "id": 5
+    },
+    {
+      "start": 19377.215,
+      "end": 23066.306,
+      "title": "Chapter 007  - 01:01:29",
+      "id": 6
+    },
+    {
+      "start": 23066.306,
+      "end": 26030.002,
+      "title": "Chapter 008  - 00:49:23",
+      "id": 7
+    },
+    {
+      "start": 26030.002,
+      "end": 29500.709,
+      "title": "Chapter 009  - 00:57:50",
+      "id": 8
+    },
+    {
+      "start": 29500.709,
+      "end": 31576.373,
+      "title": "Chapter 010  - 00:34:35",
+      "id": 9
+    }
+  ],
+  "title": "Behind Closed Doors",
+  "subtitle": null,
+  "authors": [
+    "B A Paris"
+  ],
+  "narrators": [
+    "Georgia Maguire"
+  ],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2016",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Narrated by Georgia Maguire",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

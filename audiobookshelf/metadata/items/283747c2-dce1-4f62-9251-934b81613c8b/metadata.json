@@ -1,0 +1,266 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 15.7,
+      "title": "Legacy of Violence - 01 - Opening Credits"
+    },
+    {
+      "id": 1,
+      "start": 15.7,
+      "end": 43.378005,
+      "title": "Legacy of Violence - 02 - Epigraph"
+    },
+    {
+      "id": 2,
+      "start": 43.378005,
+      "end": 76.582994,
+      "title": "Legacy of Violence - 03 Author's Note"
+    },
+    {
+      "id": 3,
+      "start": 76.582994,
+      "end": 2813.2400009999997,
+      "title": "Legacy of Violence - 04 Introduction (1)"
+    },
+    {
+      "id": 4,
+      "start": 2813.2400009999997,
+      "end": 5121.302994,
+      "title": "Legacy of Violence - 05 Introduction (2)"
+    },
+    {
+      "id": 5,
+      "start": 5121.302994,
+      "end": 5540.469978,
+      "title": "Legacy of Violence - 06 Part I An Imperial Nation"
+    },
+    {
+      "id": 6,
+      "start": 5540.469978,
+      "end": 8147.652926000001,
+      "title": "Legacy of Violence - 07 Chapter 1.1 Liberal Imperialism (1)"
+    },
+    {
+      "id": 7,
+      "start": 8147.652926000001,
+      "end": 12590.512926,
+      "title": "Legacy of Violence - 08 Chapter 1.2 Liberal Imperialism (2)"
+    },
+    {
+      "id": 8,
+      "start": 12590.512926,
+      "end": 17013.774921,
+      "title": "Legacy of Violence - 09 Chapter 2.1 Wars Small and Great (1)"
+    },
+    {
+      "id": 9,
+      "start": 17013.774921,
+      "end": 21511.851928,
+      "title": "Legacy of Violence - 10 Chapter 2.2 Wars Small and Great (2)"
+    },
+    {
+      "id": 10,
+      "start": 21511.851928,
+      "end": 24284.546939,
+      "title": "Legacy of Violence - 11 Chapter 3.1 Legalized Lawlessness (1)"
+    },
+    {
+      "id": 11,
+      "start": 24284.546939,
+      "end": 27828.608934,
+      "title": "Legacy of Violence - 12 Chapter 3.2 Legalized Lawlessness (2)"
+    },
+    {
+      "id": 12,
+      "start": 27828.608934,
+      "end": 29496.312925,
+      "title": "Legacy of Violence - 13 Chapter 4.1 'I'm Merely Pro-British' (1)"
+    },
+    {
+      "id": 13,
+      "start": 29496.312925,
+      "end": 33223.718910999996,
+      "title": "Legacy of Violence - 14 Chapter 4.2 'I'm Merely Pro-British' (2)"
+    },
+    {
+      "id": 14,
+      "start": 33223.718910999996,
+      "end": 37561.206892999995,
+      "title": "Legacy of Violence - 15 Chapter 5.1 Imperial Convergence (1)"
+    },
+    {
+      "id": 15,
+      "start": 37561.206892999995,
+      "end": 41528.93990899999,
+      "title": "Legacy of Violence - 16 Chapter 5.2 Imperial Convergence (2)"
+    },
+    {
+      "id": 16,
+      "start": 41528.93990899999,
+      "end": 42174.129931999996,
+      "title": "Legacy of Violence - 17 Part II Empire at War"
+    },
+    {
+      "id": 17,
+      "start": 42174.129931999996,
+      "end": 45289.597914,
+      "title": "Legacy of Violence - 18 Chapter 6.1 An Imperial War (1)"
+    },
+    {
+      "id": 18,
+      "start": 45289.597914,
+      "end": 48843.875919,
+      "title": "Legacy of Violence - 19 Chapter 6.2 An Imperial War (2)"
+    },
+    {
+      "id": 19,
+      "start": 48843.875919,
+      "end": 53438.500908,
+      "title": "Legacy of Violence - 20 Chapter 7 A War of Ideas"
+    },
+    {
+      "id": 20,
+      "start": 53438.500908,
+      "end": 55881.286894000004,
+      "title": "Legacy of Violence - 21 Chapter 8.1 'Partnership' (1)"
+    },
+    {
+      "id": 21,
+      "start": 55881.286894000004,
+      "end": 59514.791883000005,
+      "title": "Legacy of Violence - 22 Chapter 8.2 'Partnership' (2)"
+    },
+    {
+      "id": 22,
+      "start": 59514.791883000005,
+      "end": 62099.265851000004,
+      "title": "Legacy of Violence - 23 Chapter 9.1 Imperial Resurgence (1)"
+    },
+    {
+      "id": 23,
+      "start": 62099.265851000004,
+      "end": 65511.855874,
+      "title": "Legacy of Violence - 24 Chapter 9.2 Imperial Resurgence (2)"
+    },
+    {
+      "id": 24,
+      "start": 65511.855874,
+      "end": 66199.166894,
+      "title": "Legacy of Violence - 25 Part III Trysts with Destiny"
+    },
+    {
+      "id": 25,
+      "start": 66199.166894,
+      "end": 68926.81487599999,
+      "title": "Legacy of Violence - 26 Chapter 10.1 Glass Houses (1)"
+    },
+    {
+      "id": 26,
+      "start": 68926.81487599999,
+      "end": 72400.659865,
+      "title": "Legacy of Violence - 27 Chapter 10.2 Glass Houses (2)"
+    },
+    {
+      "id": 27,
+      "start": 72400.659865,
+      "end": 76626.96988799999,
+      "title": "Legacy of Violence - 28 Chapter 11.1 Exit Palestine, Enter Malaya (1)"
+    },
+    {
+      "id": 28,
+      "start": 76626.96988799999,
+      "end": 80181.61991099999,
+      "title": "Legacy of Violence - 29 Chapter 11.2 Exit Palestine, Enter Malaya (2)"
+    },
+    {
+      "id": 29,
+      "start": 80181.61991099999,
+      "end": 84348.20889099999,
+      "title": "Legacy of Violence - 30 Chapter 12.1 Small Places, Close to Home (1)"
+    },
+    {
+      "id": 30,
+      "start": 84348.20889099999,
+      "end": 86851.45891399999,
+      "title": "Legacy of Violence - 31 Chapter 12.2 Small Places, Close to Home (2)"
+    },
+    {
+      "id": 31,
+      "start": 86851.45891399999,
+      "end": 91145.66489999999,
+      "title": "Legacy of Violence - 32 Chapter 13.1 Systematized Violence (1)"
+    },
+    {
+      "id": 32,
+      "start": 91145.66489999999,
+      "end": 95416.60390199999,
+      "title": "Legacy of Violence - 33 Chapter 13.2 Systematized Violence (2)"
+    },
+    {
+      "id": 33,
+      "start": 95416.60390199999,
+      "end": 97414.91288199999,
+      "title": "Legacy of Violence - 34 Chapter 13.3 Systematized Violence (3)"
+    },
+    {
+      "id": 34,
+      "start": 97414.91288199999,
+      "end": 100719.808891,
+      "title": "Legacy of Violence - 35 Chapter 14.1 Operation Legacy (1)"
+    },
+    {
+      "id": 35,
+      "start": 100719.808891,
+      "end": 104915.09787099999,
+      "title": "Legacy of Violence - 36 Chapter 14.2 Operation Legacy (2)"
+    },
+    {
+      "id": 36,
+      "start": 104915.09787099999,
+      "end": 107154.244855,
+      "title": "Legacy of Violence - 37 Chapter 14.3 Operation Legacy (3)"
+    },
+    {
+      "id": 37,
+      "start": 107154.244855,
+      "end": 110119.061862,
+      "title": "Legacy of Violence - 38 Epilogue Empire Comes Home (1)"
+    },
+    {
+      "id": 38,
+      "start": 110119.061862,
+      "end": 113733.851885,
+      "title": "Legacy of Violence - 39 Epilogue Empire Comes Home (2)"
+    },
+    {
+      "id": 39,
+      "start": 113733.851885,
+      "end": 113804.062905,
+      "title": "Legacy of Violence - 40 End Credits"
+    }
+  ],
+  "title": "Legacy of Violence",
+  "subtitle": "A History of the British Empire",
+  "authors": [
+    "Caroline Elkins"
+  ],
+  "narrators": [
+    "Adam Barr"
+  ],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2022",
+  "publishedDate": null,
+  "publisher": "Random House Audio",
+  "description": "Sprawling across a quarter of the world's land mass and claiming nearly seven hundred million people, Britain's 20th-century empire was the largest empire in human history. For many Britons, it epitomized their nation's cultural superiority, but what legacy did the island nation deliver to the world? Covering more than 200 years of history, Caroline Elkins reveals an evolutionary and racialized doctrine that espoused an unrelenting deployment of violence to secure and preserve the nation's imperial interests.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

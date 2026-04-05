@@ -1,0 +1,1248 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 240.061958,
+      "title": "001 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 1,
+      "start": 240.061958,
+      "end": 480.051916,
+      "title": "002 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 2,
+      "start": 480.051916,
+      "end": 720.041874,
+      "title": "003 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 3,
+      "start": 720.041874,
+      "end": 960.031832,
+      "title": "004 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 4,
+      "start": 960.031832,
+      "end": 1200.06979,
+      "title": "005 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 5,
+      "start": 1200.06979,
+      "end": 1440.0597480000001,
+      "title": "006 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 6,
+      "start": 1440.0597480000001,
+      "end": 1680.097706,
+      "title": "007 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 7,
+      "start": 1680.097706,
+      "end": 1920.0876640000001,
+      "title": "008 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 8,
+      "start": 1920.0876640000001,
+      "end": 2160.125622,
+      "title": "009 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 9,
+      "start": 2160.125622,
+      "end": 2400.11558,
+      "title": "010 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 10,
+      "start": 2400.11558,
+      "end": 2640.153538,
+      "title": "011 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 11,
+      "start": 2640.153538,
+      "end": 2880.1194960000003,
+      "title": "012 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 12,
+      "start": 2880.1194960000003,
+      "end": 3120.1094540000004,
+      "title": "013 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 13,
+      "start": 3120.1094540000004,
+      "end": 3360.0994120000005,
+      "title": "014 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 14,
+      "start": 3360.0994120000005,
+      "end": 3600.1373700000004,
+      "title": "015 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 15,
+      "start": 3600.1373700000004,
+      "end": 3840.1273280000005,
+      "title": "016 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 16,
+      "start": 3840.1273280000005,
+      "end": 4080.1172860000006,
+      "title": "017 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 17,
+      "start": 4080.1172860000006,
+      "end": 4320.107244000001,
+      "title": "018 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 18,
+      "start": 4320.107244000001,
+      "end": 4560.145202000001,
+      "title": "019 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 19,
+      "start": 4560.145202000001,
+      "end": 4800.135160000001,
+      "title": "020 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 20,
+      "start": 4800.135160000001,
+      "end": 5040.197118000001,
+      "title": "021 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 21,
+      "start": 5040.197118000001,
+      "end": 5280.235076000001,
+      "title": "022 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 22,
+      "start": 5280.235076000001,
+      "end": 5520.201034000001,
+      "title": "023 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 23,
+      "start": 5520.201034000001,
+      "end": 5760.2389920000005,
+      "title": "024 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 24,
+      "start": 5760.2389920000005,
+      "end": 6000.228950000001,
+      "title": "025 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 25,
+      "start": 6000.228950000001,
+      "end": 6240.2669080000005,
+      "title": "026 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 26,
+      "start": 6240.2669080000005,
+      "end": 6480.256866000001,
+      "title": "027 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 27,
+      "start": 6480.256866000001,
+      "end": 6720.2948240000005,
+      "title": "028 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 28,
+      "start": 6720.2948240000005,
+      "end": 6960.284782000001,
+      "title": "029 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 29,
+      "start": 6960.284782000001,
+      "end": 7200.3227400000005,
+      "title": "030 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 30,
+      "start": 7200.3227400000005,
+      "end": 7440.312698000001,
+      "title": "031 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 31,
+      "start": 7440.312698000001,
+      "end": 7680.3506560000005,
+      "title": "032 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 32,
+      "start": 7680.3506560000005,
+      "end": 7920.388614,
+      "title": "033 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 33,
+      "start": 7920.388614,
+      "end": 8160.426572,
+      "title": "034 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 34,
+      "start": 8160.426572,
+      "end": 8400.41653,
+      "title": "035 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 35,
+      "start": 8400.41653,
+      "end": 8640.454488000001,
+      "title": "036 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 36,
+      "start": 8640.454488000001,
+      "end": 8880.444446000001,
+      "title": "037 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 37,
+      "start": 8880.444446000001,
+      "end": 9120.482404000002,
+      "title": "038 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 38,
+      "start": 9120.482404000002,
+      "end": 9360.472362000002,
+      "title": "039 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 39,
+      "start": 9360.472362000002,
+      "end": 9600.510320000003,
+      "title": "040 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 40,
+      "start": 9600.510320000003,
+      "end": 9840.548278000004,
+      "title": "041 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 41,
+      "start": 9840.548278000004,
+      "end": 10080.586236000005,
+      "title": "042 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 42,
+      "start": 10080.586236000005,
+      "end": 10320.576194000005,
+      "title": "043 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 43,
+      "start": 10320.576194000005,
+      "end": 10560.614152000006,
+      "title": "044 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 44,
+      "start": 10560.614152000006,
+      "end": 10800.604110000006,
+      "title": "045 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 45,
+      "start": 10800.604110000006,
+      "end": 11040.642068000006,
+      "title": "046 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 46,
+      "start": 11040.642068000006,
+      "end": 11280.608026000007,
+      "title": "047 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 47,
+      "start": 11280.608026000007,
+      "end": 11520.645984000008,
+      "title": "048 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 48,
+      "start": 11520.645984000008,
+      "end": 11760.611942000009,
+      "title": "049 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 49,
+      "start": 11760.611942000009,
+      "end": 12000.64990000001,
+      "title": "050 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 50,
+      "start": 12000.64990000001,
+      "end": 12240.63985800001,
+      "title": "051 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 51,
+      "start": 12240.63985800001,
+      "end": 12480.67781600001,
+      "title": "052 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 52,
+      "start": 12480.67781600001,
+      "end": 12720.66777400001,
+      "title": "053 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 53,
+      "start": 12720.66777400001,
+      "end": 12960.705732000011,
+      "title": "054 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 54,
+      "start": 12960.705732000011,
+      "end": 13200.695690000011,
+      "title": "055 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 55,
+      "start": 13200.695690000011,
+      "end": 13440.733648000012,
+      "title": "056 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 56,
+      "start": 13440.733648000012,
+      "end": 13680.723606000012,
+      "title": "057 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 57,
+      "start": 13680.723606000012,
+      "end": 13920.761564000013,
+      "title": "058 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 58,
+      "start": 13920.761564000013,
+      "end": 14160.751522000013,
+      "title": "059 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 59,
+      "start": 14160.751522000013,
+      "end": 14400.789480000014,
+      "title": "060 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 60,
+      "start": 14400.789480000014,
+      "end": 14640.779438000014,
+      "title": "061 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 61,
+      "start": 14640.779438000014,
+      "end": 14880.817396000015,
+      "title": "062 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 62,
+      "start": 14880.817396000015,
+      "end": 15120.783354000016,
+      "title": "063 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 63,
+      "start": 15120.783354000016,
+      "end": 15360.821312000016,
+      "title": "064 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 64,
+      "start": 15360.821312000016,
+      "end": 15600.811270000017,
+      "title": "065 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 65,
+      "start": 15600.811270000017,
+      "end": 15840.849228000017,
+      "title": "066 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 66,
+      "start": 15840.849228000017,
+      "end": 16080.839186000017,
+      "title": "067 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 67,
+      "start": 16080.839186000017,
+      "end": 16320.877144000018,
+      "title": "068 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 68,
+      "start": 16320.877144000018,
+      "end": 16560.915102000017,
+      "title": "069 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 69,
+      "start": 16560.915102000017,
+      "end": 16800.953060000018,
+      "title": "070 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 70,
+      "start": 16800.953060000018,
+      "end": 17040.943018000016,
+      "title": "071 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 71,
+      "start": 17040.943018000016,
+      "end": 17280.980976000017,
+      "title": "072 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 72,
+      "start": 17280.980976000017,
+      "end": 17520.970934000015,
+      "title": "073 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 73,
+      "start": 17520.970934000015,
+      "end": 17761.008892000016,
+      "title": "074 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 74,
+      "start": 17761.008892000016,
+      "end": 18001.046850000017,
+      "title": "075 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 75,
+      "start": 18001.046850000017,
+      "end": 18241.084808000018,
+      "title": "076 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 76,
+      "start": 18241.084808000018,
+      "end": 18481.074766000016,
+      "title": "077 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 77,
+      "start": 18481.074766000016,
+      "end": 18721.112724000017,
+      "title": "078 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 78,
+      "start": 18721.112724000017,
+      "end": 18961.102682000015,
+      "title": "079 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 79,
+      "start": 18961.102682000015,
+      "end": 19201.140640000016,
+      "title": "080 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 80,
+      "start": 19201.140640000016,
+      "end": 19441.130598000014,
+      "title": "081 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 81,
+      "start": 19441.130598000014,
+      "end": 19681.168556000015,
+      "title": "082 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 82,
+      "start": 19681.168556000015,
+      "end": 19921.158514000013,
+      "title": "083 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 83,
+      "start": 19921.158514000013,
+      "end": 20161.196472000014,
+      "title": "084 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 84,
+      "start": 20161.196472000014,
+      "end": 20401.186430000012,
+      "title": "085 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 85,
+      "start": 20401.186430000012,
+      "end": 20641.224388000013,
+      "title": "086 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 86,
+      "start": 20641.224388000013,
+      "end": 20881.262346000014,
+      "title": "087 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 87,
+      "start": 20881.262346000014,
+      "end": 21121.300304000015,
+      "title": "088 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 88,
+      "start": 21121.300304000015,
+      "end": 21361.290262000013,
+      "title": "089 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 89,
+      "start": 21361.290262000013,
+      "end": 21601.328220000014,
+      "title": "090 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 90,
+      "start": 21601.328220000014,
+      "end": 21841.318178000012,
+      "title": "091 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 91,
+      "start": 21841.318178000012,
+      "end": 22081.356136000013,
+      "title": "092 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 92,
+      "start": 22081.356136000013,
+      "end": 22321.34609400001,
+      "title": "093 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 93,
+      "start": 22321.34609400001,
+      "end": 22561.384052000012,
+      "title": "094 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 94,
+      "start": 22561.384052000012,
+      "end": 22801.37401000001,
+      "title": "095 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 95,
+      "start": 22801.37401000001,
+      "end": 23041.41196800001,
+      "title": "096 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 96,
+      "start": 23041.41196800001,
+      "end": 23281.377926000012,
+      "title": "097 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 97,
+      "start": 23281.377926000012,
+      "end": 23521.415884000013,
+      "title": "098 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 98,
+      "start": 23521.415884000013,
+      "end": 23761.40584200001,
+      "title": "099 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 99,
+      "start": 23761.40584200001,
+      "end": 24001.443800000012,
+      "title": "100 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 100,
+      "start": 24001.443800000012,
+      "end": 24241.43375800001,
+      "title": "101 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 101,
+      "start": 24241.43375800001,
+      "end": 24481.47171600001,
+      "title": "102 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 102,
+      "start": 24481.47171600001,
+      "end": 24721.46167400001,
+      "title": "103 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 103,
+      "start": 24721.46167400001,
+      "end": 24961.49963200001,
+      "title": "104 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 104,
+      "start": 24961.49963200001,
+      "end": 25201.48959000001,
+      "title": "105 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 105,
+      "start": 25201.48959000001,
+      "end": 25441.52754800001,
+      "title": "106 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 106,
+      "start": 25441.52754800001,
+      "end": 25681.517506000007,
+      "title": "107 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 107,
+      "start": 25681.517506000007,
+      "end": 25921.507464000006,
+      "title": "108 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 108,
+      "start": 25921.507464000006,
+      "end": 26161.473422000006,
+      "title": "109 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 109,
+      "start": 26161.473422000006,
+      "end": 26401.511380000007,
+      "title": "110 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 110,
+      "start": 26401.511380000007,
+      "end": 26641.477338000008,
+      "title": "111 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 111,
+      "start": 26641.477338000008,
+      "end": 26881.51529600001,
+      "title": "112 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 112,
+      "start": 26881.51529600001,
+      "end": 27121.505254000007,
+      "title": "113 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 113,
+      "start": 27121.505254000007,
+      "end": 27361.543212000008,
+      "title": "114 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 114,
+      "start": 27361.543212000008,
+      "end": 27601.533170000006,
+      "title": "115 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 115,
+      "start": 27601.533170000006,
+      "end": 27841.571128000007,
+      "title": "116 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 116,
+      "start": 27841.571128000007,
+      "end": 28081.609086000008,
+      "title": "117 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 117,
+      "start": 28081.609086000008,
+      "end": 28321.64704400001,
+      "title": "118 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 118,
+      "start": 28321.64704400001,
+      "end": 28561.637002000007,
+      "title": "119 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 119,
+      "start": 28561.637002000007,
+      "end": 28801.674960000008,
+      "title": "120 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 120,
+      "start": 28801.674960000008,
+      "end": 29041.664918000006,
+      "title": "121 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 121,
+      "start": 29041.664918000006,
+      "end": 29281.702876000007,
+      "title": "122 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 122,
+      "start": 29281.702876000007,
+      "end": 29521.692834000005,
+      "title": "123 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 123,
+      "start": 29521.692834000005,
+      "end": 29761.730792000006,
+      "title": "124 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 124,
+      "start": 29761.730792000006,
+      "end": 30001.720750000004,
+      "title": "125 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 125,
+      "start": 30001.720750000004,
+      "end": 30241.758708000005,
+      "title": "126 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 126,
+      "start": 30241.758708000005,
+      "end": 30481.748666000003,
+      "title": "127 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 127,
+      "start": 30481.748666000003,
+      "end": 30721.738624,
+      "title": "128 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 128,
+      "start": 30721.738624,
+      "end": 30961.728582,
+      "title": "129 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 129,
+      "start": 30961.728582,
+      "end": 31201.76654,
+      "title": "130 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 130,
+      "start": 31201.76654,
+      "end": 31441.756498,
+      "title": "131 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 131,
+      "start": 31441.756498,
+      "end": 31681.794456,
+      "title": "132 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 132,
+      "start": 31681.794456,
+      "end": 31921.784413999998,
+      "title": "133 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 133,
+      "start": 31921.784413999998,
+      "end": 32161.822372,
+      "title": "134 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 134,
+      "start": 32161.822372,
+      "end": 32401.812329999997,
+      "title": "135 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 135,
+      "start": 32401.812329999997,
+      "end": 32641.802287999995,
+      "title": "136 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 136,
+      "start": 32641.802287999995,
+      "end": 32881.792246,
+      "title": "137 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 137,
+      "start": 32881.792246,
+      "end": 33121.830204,
+      "title": "138 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 138,
+      "start": 33121.830204,
+      "end": 33361.820161999996,
+      "title": "139 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 139,
+      "start": 33361.820161999996,
+      "end": 33601.85812,
+      "title": "140 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 140,
+      "start": 33601.85812,
+      "end": 33841.848077999995,
+      "title": "141 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 141,
+      "start": 33841.848077999995,
+      "end": 34081.886035999996,
+      "title": "142 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 142,
+      "start": 34081.886035999996,
+      "end": 34321.875993999995,
+      "title": "143 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 143,
+      "start": 34321.875993999995,
+      "end": 34561.913951999995,
+      "title": "144 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 144,
+      "start": 34561.913951999995,
+      "end": 34801.951909999996,
+      "title": "145 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 145,
+      "start": 34801.951909999996,
+      "end": 35041.989868,
+      "title": "146 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 146,
+      "start": 35041.989868,
+      "end": 35281.979825999995,
+      "title": "147 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 147,
+      "start": 35281.979825999995,
+      "end": 35522.041783999994,
+      "title": "148 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 148,
+      "start": 35522.041783999994,
+      "end": 35762.03174199999,
+      "title": "149 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 149,
+      "start": 35762.03174199999,
+      "end": 36002.06969999999,
+      "title": "150 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 150,
+      "start": 36002.06969999999,
+      "end": 36242.05965799999,
+      "title": "151 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 151,
+      "start": 36242.05965799999,
+      "end": 36482.09761599999,
+      "title": "152 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 152,
+      "start": 36482.09761599999,
+      "end": 36722.08757399999,
+      "title": "153 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 153,
+      "start": 36722.08757399999,
+      "end": 36962.12553199999,
+      "title": "154 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 154,
+      "start": 36962.12553199999,
+      "end": 37202.11548999999,
+      "title": "155 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 155,
+      "start": 37202.11548999999,
+      "end": 37442.10544799999,
+      "title": "156 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 156,
+      "start": 37442.10544799999,
+      "end": 37682.095405999986,
+      "title": "157 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 157,
+      "start": 37682.095405999986,
+      "end": 37922.085363999984,
+      "title": "158 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 158,
+      "start": 37922.085363999984,
+      "end": 38162.07532199998,
+      "title": "159 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 159,
+      "start": 38162.07532199998,
+      "end": 38402.11327999998,
+      "title": "160 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 160,
+      "start": 38402.11327999998,
+      "end": 38642.10323799998,
+      "title": "161 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 161,
+      "start": 38642.10323799998,
+      "end": 38882.14119599998,
+      "title": "162 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 162,
+      "start": 38882.14119599998,
+      "end": 39122.13115399998,
+      "title": "163 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 163,
+      "start": 39122.13115399998,
+      "end": 39362.16911199998,
+      "title": "164 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 164,
+      "start": 39362.16911199998,
+      "end": 39602.20706999998,
+      "title": "165 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 165,
+      "start": 39602.20706999998,
+      "end": 39842.24502799998,
+      "title": "166 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 166,
+      "start": 39842.24502799998,
+      "end": 40082.23498599998,
+      "title": "167 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 167,
+      "start": 40082.23498599998,
+      "end": 40322.27294399998,
+      "title": "168 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 168,
+      "start": 40322.27294399998,
+      "end": 40562.31090199998,
+      "title": "169 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 169,
+      "start": 40562.31090199998,
+      "end": 40802.348859999984,
+      "title": "170 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 170,
+      "start": 40802.348859999984,
+      "end": 41042.33881799998,
+      "title": "171 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 171,
+      "start": 41042.33881799998,
+      "end": 41282.37677599998,
+      "title": "172 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 172,
+      "start": 41282.37677599998,
+      "end": 41522.36673399998,
+      "title": "173 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 173,
+      "start": 41522.36673399998,
+      "end": 41762.40469199998,
+      "title": "174 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 174,
+      "start": 41762.40469199998,
+      "end": 42002.39464999998,
+      "title": "175 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 175,
+      "start": 42002.39464999998,
+      "end": 42242.43260799998,
+      "title": "176 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 176,
+      "start": 42242.43260799998,
+      "end": 42482.47056599998,
+      "title": "177 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 177,
+      "start": 42482.47056599998,
+      "end": 42722.50852399998,
+      "title": "178 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 178,
+      "start": 42722.50852399998,
+      "end": 42962.54648199998,
+      "title": "179 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 179,
+      "start": 42962.54648199998,
+      "end": 43202.584439999984,
+      "title": "180 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 180,
+      "start": 43202.584439999984,
+      "end": 43442.57439799998,
+      "title": "181 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 181,
+      "start": 43442.57439799998,
+      "end": 43682.61235599998,
+      "title": "182 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 182,
+      "start": 43682.61235599998,
+      "end": 43922.60231399998,
+      "title": "183 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 183,
+      "start": 43922.60231399998,
+      "end": 44162.64027199998,
+      "title": "184 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 184,
+      "start": 44162.64027199998,
+      "end": 44167.81422999998,
+      "title": "185 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 185,
+      "start": 44167.81422999998,
+      "end": 44407.85218799998,
+      "title": "186 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 186,
+      "start": 44407.85218799998,
+      "end": 44647.84214599998,
+      "title": "187 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 187,
+      "start": 44647.84214599998,
+      "end": 44887.88010399998,
+      "title": "188 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 188,
+      "start": 44887.88010399998,
+      "end": 45127.87006199998,
+      "title": "189 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 189,
+      "start": 45127.87006199998,
+      "end": 45367.90801999998,
+      "title": "190 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 190,
+      "start": 45367.90801999998,
+      "end": 45607.94597799998,
+      "title": "191 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 191,
+      "start": 45607.94597799998,
+      "end": 45847.98393599998,
+      "title": "192 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 192,
+      "start": 45847.98393599998,
+      "end": 46087.97389399998,
+      "title": "193 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 193,
+      "start": 46087.97389399998,
+      "end": 46328.01185199998,
+      "title": "194 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 194,
+      "start": 46328.01185199998,
+      "end": 46568.04980999998,
+      "title": "195 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 195,
+      "start": 46568.04980999998,
+      "end": 46808.08776799998,
+      "title": "196 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 196,
+      "start": 46808.08776799998,
+      "end": 47048.125725999984,
+      "title": "197 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 197,
+      "start": 47048.125725999984,
+      "end": 47288.163683999985,
+      "title": "198 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 198,
+      "start": 47288.163683999985,
+      "end": 47528.15364199998,
+      "title": "199 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 199,
+      "start": 47528.15364199998,
+      "end": 47768.14359999998,
+      "title": "200 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 200,
+      "start": 47768.14359999998,
+      "end": 48008.18155799998,
+      "title": "201 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 201,
+      "start": 48008.18155799998,
+      "end": 48248.21951599998,
+      "title": "202 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 202,
+      "start": 48248.21951599998,
+      "end": 48488.20947399998,
+      "title": "203 - Michael Crichton - Jurassic Park"
+    },
+    {
+      "id": 203,
+      "start": 48488.20947399998,
+      "end": 48551.87143199998,
+      "title": "204 - Michael Crichton - Jurassic Park"
+    }
+  ],
+  "title": "Jurassic Park",
+  "subtitle": null,
+  "authors": [
+    "Michael Crichton"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Captain Elliot Spencer",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

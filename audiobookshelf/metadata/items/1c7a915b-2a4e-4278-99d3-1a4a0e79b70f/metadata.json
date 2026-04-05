@@ -1,0 +1,234 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 399.140878,
+      "title": "00. Preface"
+    },
+    {
+      "id": 1,
+      "start": 399.140878,
+      "end": 3357.001756,
+      "title": "01. Hell in the City of Angels"
+    },
+    {
+      "id": 2,
+      "start": 3357.001756,
+      "end": 7784.433256,
+      "title": "02. The Orthogonian"
+    },
+    {
+      "id": 3,
+      "start": 7784.433256,
+      "end": 12385.997012,
+      "title": "03. The Stench"
+    },
+    {
+      "id": 4,
+      "start": 12385.997012,
+      "end": 16918.075012,
+      "title": "04. Ronald Reagan"
+    },
+    {
+      "id": 5,
+      "start": 16918.075012,
+      "end": 22669.653512,
+      "title": "05. Long, Hot Summer"
+    },
+    {
+      "id": 6,
+      "start": 22669.653512,
+      "end": 24920.771512,
+      "title": "06. School Was in Session"
+    },
+    {
+      "id": 7,
+      "start": 24920.771512,
+      "end": 29574.972012,
+      "title": "07. Batting Average"
+    },
+    {
+      "id": 8,
+      "start": 29574.972012,
+      "end": 32350.341512,
+      "title": "08. The Bombing"
+    },
+    {
+      "id": 9,
+      "start": 32350.341512,
+      "end": 34989.848137,
+      "title": "09. Summer of Love"
+    },
+    {
+      "id": 10,
+      "start": 34989.848137,
+      "end": 39581.511515,
+      "title": "10. In Which a Cruise Ship Full of Governors Inspires Considerations on the Nature of Old and New Politics"
+    },
+    {
+      "id": 11,
+      "start": 39581.511515,
+      "end": 44383.277771,
+      "title": "11. Fed-up-niks"
+    },
+    {
+      "id": 12,
+      "start": 44383.277771,
+      "end": 47897.050527,
+      "title": "12. The Sky's the Limit"
+    },
+    {
+      "id": 13,
+      "start": 47897.050527,
+      "end": 51710.735152,
+      "title": "13. Violence"
+    },
+    {
+      "id": 14,
+      "start": 51710.735152,
+      "end": 55168.893152000004,
+      "title": "14. From Miami to the Siege of Chicago"
+    },
+    {
+      "id": 15,
+      "start": 55168.893152000004,
+      "end": 57057.614408,
+      "title": "15. Wednesday, August 28, 1968"
+    },
+    {
+      "id": 16,
+      "start": 57057.614408,
+      "end": 61866.616533,
+      "title": "16. Winning"
+    },
+    {
+      "id": 17,
+      "start": 61866.616533,
+      "end": 64729.835789,
+      "title": "17. The First One Hundred Days"
+    },
+    {
+      "id": 18,
+      "start": 64729.835789,
+      "end": 69046.97828899999,
+      "title": "18. Trust"
+    },
+    {
+      "id": 19,
+      "start": 69046.97828899999,
+      "end": 71731.520045,
+      "title": "19. If Gold Rust"
+    },
+    {
+      "id": 20,
+      "start": 71731.520045,
+      "end": 77611.46416999999,
+      "title": "20. The Presidential Offensive"
+    },
+    {
+      "id": 21,
+      "start": 77611.46416999999,
+      "end": 80069.00179499999,
+      "title": "21. The Polarization"
+    },
+    {
+      "id": 22,
+      "start": 80069.00179499999,
+      "end": 83363.00641999999,
+      "title": "22. Tourniquet"
+    },
+    {
+      "id": 23,
+      "start": 83363.00641999999,
+      "end": 87430.31379799999,
+      "title": "23. Mayday"
+    },
+    {
+      "id": 24,
+      "start": 87430.31379799999,
+      "end": 91859.835054,
+      "title": "24. Purity"
+    },
+    {
+      "id": 25,
+      "start": 91859.835054,
+      "end": 94555.79230999999,
+      "title": "25. Agnew's Election"
+    },
+    {
+      "id": 26,
+      "start": 94555.79230999999,
+      "end": 96424.19030999999,
+      "title": "26. How to Survive the Debacle"
+    },
+    {
+      "id": 27,
+      "start": 96424.19030999999,
+      "end": 99511.59243499998,
+      "title": "27. Cruelest Month"
+    },
+    {
+      "id": 28,
+      "start": 99511.59243499998,
+      "end": 102409.34555999999,
+      "title": "28. Ping-Pong"
+    },
+    {
+      "id": 29,
+      "start": 102409.34555999999,
+      "end": 106382.324816,
+      "title": "29. The Coven"
+    },
+    {
+      "id": 30,
+      "start": 106382.324816,
+      "end": 111527.418316,
+      "title": "30. The Party of Jefferson, Jackson, and George Wallace"
+    },
+    {
+      "id": 31,
+      "start": 111527.418316,
+      "end": 116022.402441,
+      "title": "31. The Spring Offensive"
+    },
+    {
+      "id": 32,
+      "start": 116022.402441,
+      "end": 120754.500066,
+      "title": "32. Celebrities"
+    },
+    {
+      "id": 33,
+      "start": 120754.500066,
+      "end": 126963.116944,
+      "title": "33. In Which Playboy Bunnies, and Barbarella, and Tanya, Inspire Theoretical Considerations upon the Nature of Democracy"
+    },
+    {
+      "id": 34,
+      "start": 126963.116944,
+      "end": 132264.73619999998,
+      "title": "34. Not Half Enough"
+    }
+  ],
+  "title": "Nixonland: The Rise of a President and the Fracturing of America",
+  "subtitle": null,
+  "authors": [
+    "Rick Perlstein"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "History Politics Contemporary"
+  ],
+  "publishedYear": "2009",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

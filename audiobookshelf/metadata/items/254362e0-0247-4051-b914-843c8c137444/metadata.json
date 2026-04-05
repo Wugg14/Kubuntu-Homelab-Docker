@@ -1,0 +1,60 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 4439.319429,
+      "title": "Stephen King - The Gunslinger - Revised Edition - 1 of 6"
+    },
+    {
+      "id": 1,
+      "start": 4439.319429,
+      "end": 8880.415143,
+      "title": "Stephen King - The Gunslinger - Revised Edition - 2 of 6"
+    },
+    {
+      "id": 2,
+      "start": 8880.415143,
+      "end": 13236.404,
+      "title": "Stephen King - The Gunslinger - Revised Edition - 3 of 6"
+    },
+    {
+      "id": 3,
+      "start": 13236.404,
+      "end": 17558.224714,
+      "title": "Stephen King - The Gunslinger - Revised Edition - 4 of 6"
+    },
+    {
+      "id": 4,
+      "start": 17558.224714,
+      "end": 21999.320428,
+      "title": "Stephen King - The Gunslinger - Revised Edition - 5 of 6"
+    },
+    {
+      "id": 5,
+      "start": 21999.320428,
+      "end": 26440.572999,
+      "title": "Stephen King - The Gunslinger - Revised Edition - 6 of 6"
+    }
+  ],
+  "title": "The Dark Tower I: The Gunslinger",
+  "subtitle": null,
+  "authors": [
+    "Stephen King"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audio Book"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

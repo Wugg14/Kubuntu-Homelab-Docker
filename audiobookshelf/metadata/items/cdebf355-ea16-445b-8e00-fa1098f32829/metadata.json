@@ -1,0 +1,228 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 9.629,
+      "title": "01 - Napoleon"
+    },
+    {
+      "id": 1,
+      "start": 9.629,
+      "end": 1821.0379799999998,
+      "title": "02 - Introduction"
+    },
+    {
+      "id": 2,
+      "start": 1821.0379799999998,
+      "end": 5984.904102,
+      "title": "03 - Corsica"
+    },
+    {
+      "id": 3,
+      "start": 5984.904102,
+      "end": 9824.538388,
+      "title": "04 - Revolution"
+    },
+    {
+      "id": 4,
+      "start": 9824.538388,
+      "end": 13196.946551,
+      "title": "05 - Desire"
+    },
+    {
+      "id": 5,
+      "start": 13196.946551,
+      "end": 17904.682061,
+      "title": "06 - Traly"
+    },
+    {
+      "id": 6,
+      "start": 17904.682061,
+      "end": 23219.242061,
+      "title": "07 - Victory"
+    },
+    {
+      "id": 7,
+      "start": 23219.242061,
+      "end": 26578.040428,
+      "title": "08 - Peace"
+    },
+    {
+      "id": 8,
+      "start": 26578.040428,
+      "end": 30209.792265,
+      "title": "09 - Egypt"
+    },
+    {
+      "id": 9,
+      "start": 30209.792265,
+      "end": 33396.443694,
+      "title": "10 - Acre"
+    },
+    {
+      "id": 10,
+      "start": 33396.443694,
+      "end": 36885.279612,
+      "title": "11 - Brumaire"
+    },
+    {
+      "id": 11,
+      "start": 36885.279612,
+      "end": 39969.217571,
+      "title": "12 - Consul"
+    },
+    {
+      "id": 12,
+      "start": 39969.217571,
+      "end": 42579.477163,
+      "title": "13 - Marengo"
+    },
+    {
+      "id": 13,
+      "start": 42579.477163,
+      "end": 44850.876347000005,
+      "title": "14 - Lawgiver"
+    },
+    {
+      "id": 14,
+      "start": 44850.876347000005,
+      "end": 47459.098388000006,
+      "title": "15 - Plots"
+    },
+    {
+      "id": 15,
+      "start": 47459.098388000006,
+      "end": 51009.53104100001,
+      "title": "16 - Amiens"
+    },
+    {
+      "id": 16,
+      "start": 51009.53104100001,
+      "end": 55800.57104100001,
+      "title": "17 - Coronation"
+    },
+    {
+      "id": 17,
+      "start": 55800.57104100001,
+      "end": 60196.19553100001,
+      "title": "18 - Austerlitz"
+    },
+    {
+      "id": 18,
+      "start": 60196.19553100001,
+      "end": 64337.38736800001,
+      "title": "19 - Jena"
+    },
+    {
+      "id": 19,
+      "start": 64337.38736800001,
+      "end": 67745.792266,
+      "title": "20 - Blockades"
+    },
+    {
+      "id": 20,
+      "start": 67745.792266,
+      "end": 70241.374307,
+      "title": "21 - Tilsit"
+    },
+    {
+      "id": 21,
+      "start": 70241.374307,
+      "end": 75307.35308300001,
+      "title": "22 - Iberia"
+    },
+    {
+      "id": 22,
+      "start": 75307.35308300001,
+      "end": 79272.32287900001,
+      "title": "23 - Wagram"
+    },
+    {
+      "id": 23,
+      "start": 79272.32287900001,
+      "end": 83057.64859300002,
+      "title": "24 - Zenith"
+    },
+    {
+      "id": 24,
+      "start": 83057.64859300002,
+      "end": 86511.55879700002,
+      "title": "25 - Rusia"
+    },
+    {
+      "id": 25,
+      "start": 86511.55879700002,
+      "end": 90308.83842200002,
+      "title": "26 - Trapped"
+    },
+    {
+      "id": 26,
+      "start": 90308.83842200002,
+      "end": 94287.78372800001,
+      "title": "27 - Retreat"
+    },
+    {
+      "id": 27,
+      "start": 94287.78372800001,
+      "end": 97937.35107500001,
+      "title": "28 - Re Resilience"
+    },
+    {
+      "id": 28,
+      "start": 97937.35107500001,
+      "end": 101236.25066700001,
+      "title": "29 - Leipzig"
+    },
+    {
+      "id": 29,
+      "start": 101236.25066700001,
+      "end": 104669.68087100002,
+      "title": "30 - Defiance"
+    },
+    {
+      "id": 30,
+      "start": 104669.68087100002,
+      "end": 108576.50209500002,
+      "title": "31 - Elba"
+    },
+    {
+      "id": 31,
+      "start": 108576.50209500002,
+      "end": 112436.64250300002,
+      "title": "32 - Waterloo"
+    },
+    {
+      "id": 32,
+      "start": 112436.64250300002,
+      "end": 117506.14780900003,
+      "title": "33 - St. Helena"
+    },
+    {
+      "id": 33,
+      "start": 117506.14780900003,
+      "end": 118558.59515600002,
+      "title": "34 - Epilogue"
+    }
+  ],
+  "title": "Napoleon - A Life",
+  "subtitle": "A Life",
+  "authors": [
+    "Andrew Roberts"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "History"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": "Books On Tape",
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": "XXX",
+  "explicit": false,
+  "abridged": false
+}

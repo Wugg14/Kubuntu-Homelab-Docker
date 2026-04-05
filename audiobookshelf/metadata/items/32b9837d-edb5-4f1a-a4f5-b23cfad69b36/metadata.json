@@ -1,0 +1,72 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 75726.587937,
+      "title": "Dune"
+    },
+    {
+      "id": 1,
+      "start": 75726.587937,
+      "end": 107986.860409,
+      "title": "Dune Messiah"
+    },
+    {
+      "id": 2,
+      "start": 107986.860409,
+      "end": 168663.806259,
+      "title": "Children of Dune"
+    },
+    {
+      "id": 3,
+      "start": 168663.806259,
+      "end": 225564.490885,
+      "title": "God Emperor of Dune"
+    },
+    {
+      "id": 4,
+      "start": 225564.490885,
+      "end": 290615.79755200003,
+      "title": "Heretics of Dune"
+    },
+    {
+      "id": 5,
+      "start": 290615.79755200003,
+      "end": 350757.94140700006,
+      "title": "Chapterhouse: Dune"
+    },
+    {
+      "id": 6,
+      "start": 350757.94140700006,
+      "end": 424082.61079500004,
+      "title": "Hunters of Dune"
+    },
+    {
+      "id": 7,
+      "start": 424082.61079500004,
+      "end": 494617.1704320001,
+      "title": "Sandworms of Dune"
+    }
+  ],
+  "title": "Dune",
+  "subtitle": null,
+  "authors": [
+    "Frank Herbert"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1965",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Read by Scott Brick, Orlagh Cassidy, Euan Morton, Simon Vance, and cast.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

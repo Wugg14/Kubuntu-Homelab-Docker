@@ -1,0 +1,246 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 1617.228,
+      "title": "Chapter 01: The Riddle House"
+    },
+    {
+      "id": 1,
+      "start": 1617.228,
+      "end": 2630.844,
+      "title": "Chapter 02: The Scar"
+    },
+    {
+      "id": 2,
+      "start": 2630.844,
+      "end": 3770.46,
+      "title": "Chapter 03: The Invitation"
+    },
+    {
+      "id": 3,
+      "start": 3770.46,
+      "end": 4892.796,
+      "title": "Chapter 04: Back To The Burrow"
+    },
+    {
+      "id": 4,
+      "start": 4892.796,
+      "end": 6219.684,
+      "title": "Chapter 05: Weasleys' Wizard Wheezes"
+    },
+    {
+      "id": 5,
+      "start": 6219.684,
+      "end": 7106.256,
+      "title": "Chapter 06: The Portkey"
+    },
+    {
+      "id": 6,
+      "start": 7106.256,
+      "end": 9080.496000000001,
+      "title": "Chapter 07: Bagman And Crouch"
+    },
+    {
+      "id": 7,
+      "start": 9080.496000000001,
+      "end": 11281.572,
+      "title": "Chapter 08: The Quidditch World Cup"
+    },
+    {
+      "id": 8,
+      "start": 11281.572,
+      "end": 14023.368,
+      "title": "Chapter 09: The Dark Mark"
+    },
+    {
+      "id": 9,
+      "start": 14023.368,
+      "end": 15223.356,
+      "title": "Chapter 10: Mayhem At The Ministry"
+    },
+    {
+      "id": 10,
+      "start": 15223.356,
+      "end": 16454.556,
+      "title": "Chapter 11: Aboard The Hogwarts Express"
+    },
+    {
+      "id": 11,
+      "start": 16454.556,
+      "end": 18665.244,
+      "title": "Chapter 12: The Triwizard Tournament"
+    },
+    {
+      "id": 12,
+      "start": 18665.244,
+      "end": 20298.744,
+      "title": "Chapter 13: Mad-Eye Moody"
+    },
+    {
+      "id": 13,
+      "start": 20298.744,
+      "end": 22311.072,
+      "title": "Chapter 14: The Unforgivable Curses"
+    },
+    {
+      "id": 14,
+      "start": 22311.072,
+      "end": 24404.04,
+      "title": "Chapter 15: Beauxbatons And Durmstrang"
+    },
+    {
+      "id": 15,
+      "start": 24404.04,
+      "end": 26870.364,
+      "title": "Chapter 16: The Goblet Of Fire"
+    },
+    {
+      "id": 16,
+      "start": 26870.364,
+      "end": 28595.124,
+      "title": "Chapter 17: The Four Champions"
+    },
+    {
+      "id": 17,
+      "start": 28595.124,
+      "end": 31140.576,
+      "title": "Chapter 18: The Weighing Of The Wands"
+    },
+    {
+      "id": 18,
+      "start": 31140.576,
+      "end": 33540.768000000004,
+      "title": "Chapter 19: The Hungarian Horntail"
+    },
+    {
+      "id": 19,
+      "start": 33540.768000000004,
+      "end": 36211.752,
+      "title": "Chapter 20: The First Task"
+    },
+    {
+      "id": 20,
+      "start": 36211.752,
+      "end": 38373.264,
+      "title": "Chapter 21: The House-Elf Liberation Front"
+    },
+    {
+      "id": 21,
+      "start": 38373.264,
+      "end": 40062.204000000005,
+      "title": "Chapter 22: The Unexpected Task"
+    },
+    {
+      "id": 22,
+      "start": 40062.204000000005,
+      "end": 43190.49600000001,
+      "title": "Chapter 23: The Yule Ball"
+    },
+    {
+      "id": 23,
+      "start": 43190.49600000001,
+      "end": 45627.04800000001,
+      "title": "Chapter 24: Rita Skeeter's Scoop"
+    },
+    {
+      "id": 24,
+      "start": 45627.04800000001,
+      "end": 47856.16800000001,
+      "title": "Chapter 25: The Egg And The Eye"
+    },
+    {
+      "id": 25,
+      "start": 47856.16800000001,
+      "end": 50773.428000000014,
+      "title": "Chapter 26: The Second Task"
+    },
+    {
+      "id": 26,
+      "start": 50773.428000000014,
+      "end": 53468.35200000001,
+      "title": "Chapter 27: Padfoot Returns"
+    },
+    {
+      "id": 27,
+      "start": 53468.35200000001,
+      "end": 56382.30000000001,
+      "title": "Chapter 28: The Madness Of Mr. Crouch"
+    },
+    {
+      "id": 28,
+      "start": 56382.30000000001,
+      "end": 58083.30000000001,
+      "title": "Chapter 29: The Dream"
+    },
+    {
+      "id": 29,
+      "start": 58083.30000000001,
+      "end": 60694.70400000001,
+      "title": "Chapter 30: The Pensieve"
+    },
+    {
+      "id": 30,
+      "start": 60694.70400000001,
+      "end": 63741.13200000001,
+      "title": "Chapter 31: The Third Task"
+    },
+    {
+      "id": 31,
+      "start": 63741.13200000001,
+      "end": 64527.44400000001,
+      "title": "Chapter 32: Flesh, Blood And Bone"
+    },
+    {
+      "id": 32,
+      "start": 64527.44400000001,
+      "end": 66431.304,
+      "title": "Chapter 33: The Death Eaters"
+    },
+    {
+      "id": 33,
+      "start": 66431.304,
+      "end": 67588.128,
+      "title": "Chapter 34: Priori Incantatem"
+    },
+    {
+      "id": 34,
+      "start": 67588.128,
+      "end": 69849.576,
+      "title": "Chapter 35: Veritaserum"
+    },
+    {
+      "id": 35,
+      "start": 69849.576,
+      "end": 72264.24,
+      "title": "Chapter 36: The Parting Of The Ways"
+    },
+    {
+      "id": 36,
+      "start": 72264.24,
+      "end": 74201.32800000001,
+      "title": "Chapter 37: The Beginning"
+    }
+  ],
+  "title": "Harry Potter And The Goblet Of Fire",
+  "subtitle": null,
+  "authors": [
+    "J. K. Rowling"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "2000",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

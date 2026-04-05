@@ -1,0 +1,104 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 1849.652,
+      "title": "Prologue",
+      "id": 0
+    },
+    {
+      "start": 1849.652,
+      "end": 5027.265,
+      "title": "State of the Species",
+      "id": 1
+    },
+    {
+      "start": 5027.265,
+      "end": 13106.39,
+      "title": "The Prophet",
+      "id": 2
+    },
+    {
+      "start": 13106.39,
+      "end": 21967.569,
+      "title": "The Wizard",
+      "id": 3
+    },
+    {
+      "start": 21967.569,
+      "end": 30619.481,
+      "title": "Earth: Food",
+      "id": 4
+    },
+    {
+      "start": 30619.481,
+      "end": 35549.205,
+      "title": "Water: Freshwater",
+      "id": 5
+    },
+    {
+      "start": 35549.205,
+      "end": 42005.447,
+      "title": "Fire: Energy",
+      "id": 6
+    },
+    {
+      "start": 42005.447,
+      "end": 52364.565,
+      "title": "Air: Climate Change",
+      "id": 7
+    },
+    {
+      "start": 52364.565,
+      "end": 58754.743,
+      "title": "The Prophet",
+      "id": 8
+    },
+    {
+      "start": 58754.743,
+      "end": 64347.873,
+      "title": "The Wizard",
+      "id": 9
+    },
+    {
+      "start": 64347.873,
+      "end": 66633.352,
+      "title": "The Edge of the Petri Dish",
+      "id": 10
+    },
+    {
+      "start": 66633.352,
+      "end": 67677.309,
+      "title": "Appendix A: Why Believe? (Part One)",
+      "id": 11
+    },
+    {
+      "start": 67677.309,
+      "end": 68230.765,
+      "title": "Appendix B: Why Believe? (Part Two)",
+      "id": 12
+    }
+  ],
+  "title": "The Wizard and the Prophet",
+  "subtitle": null,
+  "authors": [
+    "Charles C. Mann"
+  ],
+  "narrators": [
+    "Bronson Pinchot"
+  ],
+  "series": [],
+  "genres": [
+    "Books & Spoken Word"
+  ],
+  "publishedYear": "2018",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

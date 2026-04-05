@@ -1,0 +1,230 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 31.904989,
+      "title": "Opening Credits",
+      "id": 0
+    },
+    {
+      "start": 31.904989,
+      "end": 48.905986,
+      "title": "Dedication",
+      "id": 1
+    },
+    {
+      "start": 48.905986,
+      "end": 1439.903946,
+      "title": "Foreword",
+      "id": 2
+    },
+    {
+      "start": 1439.903946,
+      "end": 1441.903946,
+      "title": "Part One",
+      "id": 3
+    },
+    {
+      "start": 1441.903946,
+      "end": 5055.261905,
+      "title": "1. “I Am the Sire de Coucy”: The Dynasty",
+      "id": 4
+    },
+    {
+      "start": 5055.261905,
+      "end": 9422.934875,
+      "title": "2. Born to Woe: The Century",
+      "id": 5
+    },
+    {
+      "start": 9422.934875,
+      "end": 13075.107846,
+      "title": "3. Youth and Chivalry",
+      "id": 6
+    },
+    {
+      "start": 13075.107846,
+      "end": 16639.416825,
+      "title": "4. War",
+      "id": 7
+    },
+    {
+      "start": 16639.416825,
+      "end": 22682.548798,
+      "title": "5. “This Is the End of the World”: The Black Death",
+      "id": 8
+    },
+    {
+      "start": 22682.548798,
+      "end": 27766.417778,
+      "title": "6. The Battle of Poitiers",
+      "id": 9
+    },
+    {
+      "start": 27766.417778,
+      "end": 32974.049751,
+      "title": "7. Decapitated France: The Bourgeois Rising and the Jacquerie",
+      "id": 10
+    },
+    {
+      "start": 32974.049751,
+      "end": 36264.084717,
+      "title": "8. Hostage in England",
+      "id": 11
+    },
+    {
+      "start": 36264.084717,
+      "end": 39428.313696,
+      "title": "9. Enguerrand and Isabella",
+      "id": 12
+    },
+    {
+      "start": 39428.313696,
+      "end": 41210.398685,
+      "title": "10. Sons of Iniquity",
+      "id": 13
+    },
+    {
+      "start": 41210.398685,
+      "end": 43776.992653,
+      "title": "11. The Gilded Shroud",
+      "id": 14
+    },
+    {
+      "start": 43776.992653,
+      "end": 47612.092653,
+      "title": "12. Double Allegiance",
+      "id": 15
+    },
+    {
+      "start": 47612.092653,
+      "end": 49854.675646,
+      "title": "13. Coucy’s War",
+      "id": 16
+    },
+    {
+      "start": 49854.675646,
+      "end": 53497.607619,
+      "title": "14. England’s Turmoil",
+      "id": 17
+    },
+    {
+      "start": 53497.607619,
+      "end": 55942.06458,
+      "title": "15. The Emperor in Paris",
+      "id": 18
+    },
+    {
+      "start": 55942.06458,
+      "end": 59438.571565,
+      "title": "16. The Papal Schism",
+      "id": 19
+    },
+    {
+      "start": 59438.571565,
+      "end": 59441.571565,
+      "title": "Part Two",
+      "id": 20
+    },
+    {
+      "start": 59441.571565,
+      "end": 63272.324535,
+      "title": "17. Coucy’s Rise",
+      "id": 21
+    },
+    {
+      "start": 63272.324535,
+      "end": 68792.821497,
+      "title": "18. The Worms of the Earth Against the Lions",
+      "id": 22
+    },
+    {
+      "start": 68792.821497,
+      "end": 71853.443492,
+      "title": "19. The Lure of Italy",
+      "id": 23
+    },
+    {
+      "start": 71853.443492,
+      "end": 75708.74449,
+      "title": "20. A Second Norman Conquest",
+      "id": 24
+    },
+    {
+      "start": 75708.74449,
+      "end": 79184.074467,
+      "title": "21. The Fiction Cracks",
+      "id": 25
+    },
+    {
+      "start": 79184.074467,
+      "end": 82588.862449,
+      "title": "22. The Siege of Barbary",
+      "id": 26
+    },
+    {
+      "start": 82588.862449,
+      "end": 85219.218413,
+      "title": "23. In a Dark Wood",
+      "id": 27
+    },
+    {
+      "start": 85219.218413,
+      "end": 89165.681406,
+      "title": "24. Danse Macabre",
+      "id": 28
+    },
+    {
+      "start": 89165.681406,
+      "end": 92802.204399,
+      "title": "25. Lost Opportunity",
+      "id": 29
+    },
+    {
+      "start": 92802.204399,
+      "end": 97372.587392,
+      "title": "26. Nicopolis",
+      "id": 30
+    },
+    {
+      "start": 97372.587392,
+      "end": 100377.38839,
+      "title": "27. Hung Be the Heavens with Black",
+      "id": 31
+    },
+    {
+      "start": 100377.38839,
+      "end": 103071.38839,
+      "title": "Epilogue",
+      "id": 32
+    },
+    {
+      "start": 103071.38839,
+      "end": 103141.113333,
+      "title": "End Credits",
+      "id": 33
+    }
+  ],
+  "title": "A Distant Mirror",
+  "subtitle": "The Calamitous Fourteenth Century",
+  "authors": [
+    "Barbara W. Tuchman"
+  ],
+  "narrators": [
+    "Wanda McCaddon"
+  ],
+  "series": [],
+  "genres": [
+    "World, Europe, Medieval"
+  ],
+  "publishedYear": "2006",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "The 14th century reflects two contradictory images: on the one hand, a glittering time of crusades and castles, cathedrals and chivalry, and the exquisitely decorated Books of Hours; and on the other, a time of ferocity and spiritual agony, a world of chaos and the plague.",
+  "isbn": null,
+  "asin": "B004FTJIN2",
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

@@ -1,0 +1,600 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 9.093,
+      "title": "Chapter 001  - 00:00:09",
+      "id": 0
+    },
+    {
+      "start": 9.093,
+      "end": 14.711,
+      "title": "Chapter 002  - 00:00:05",
+      "id": 1
+    },
+    {
+      "start": 14.711,
+      "end": 941.825,
+      "title": "Chapter 003  - 00:15:27",
+      "id": 2
+    },
+    {
+      "start": 941.825,
+      "end": 947.809,
+      "title": "Chapter 004  - 00:00:05",
+      "id": 3
+    },
+    {
+      "start": 947.809,
+      "end": 1833.075,
+      "title": "Chapter 005  - 00:14:45",
+      "id": 4
+    },
+    {
+      "start": 1833.075,
+      "end": 3439.242,
+      "title": "Chapter 006  - 00:26:46",
+      "id": 5
+    },
+    {
+      "start": 3439.242,
+      "end": 3765.618,
+      "title": "Chapter 007  - 00:05:26",
+      "id": 6
+    },
+    {
+      "start": 3765.618,
+      "end": 4134.077,
+      "title": "Chapter 008  - 00:06:08",
+      "id": 7
+    },
+    {
+      "start": 4134.077,
+      "end": 4223.392,
+      "title": "Chapter 009  - 00:01:29",
+      "id": 8
+    },
+    {
+      "start": 4223.392,
+      "end": 4421.716,
+      "title": "Chapter 010  - 00:03:18",
+      "id": 9
+    },
+    {
+      "start": 4421.716,
+      "end": 4427.674,
+      "title": "Chapter 011  - 00:00:05",
+      "id": 10
+    },
+    {
+      "start": 4427.674,
+      "end": 5158.347,
+      "title": "Chapter 012  - 00:12:10",
+      "id": 11
+    },
+    {
+      "start": 5158.347,
+      "end": 5581.663,
+      "title": "Chapter 013  - 00:07:03",
+      "id": 12
+    },
+    {
+      "start": 5581.663,
+      "end": 5587.621,
+      "title": "Chapter 014  - 00:00:05",
+      "id": 13
+    },
+    {
+      "start": 5587.621,
+      "end": 6287.861,
+      "title": "Chapter 015  - 00:11:40",
+      "id": 14
+    },
+    {
+      "start": 6287.861,
+      "end": 6470.198,
+      "title": "Chapter 016  - 00:03:02",
+      "id": 15
+    },
+    {
+      "start": 6470.198,
+      "end": 6476.104,
+      "title": "Chapter 017  - 00:00:05",
+      "id": 16
+    },
+    {
+      "start": 6476.104,
+      "end": 6818.389,
+      "title": "Chapter 018  - 00:05:42",
+      "id": 17
+    },
+    {
+      "start": 6818.389,
+      "end": 6959.113,
+      "title": "Chapter 019  - 00:02:20",
+      "id": 18
+    },
+    {
+      "start": 6959.113,
+      "end": 6965.019,
+      "title": "Chapter 020  - 00:00:05",
+      "id": 19
+    },
+    {
+      "start": 6965.019,
+      "end": 7287.529,
+      "title": "Chapter 021  - 00:05:22",
+      "id": 20
+    },
+    {
+      "start": 7287.529,
+      "end": 7495.074,
+      "title": "Chapter 022  - 00:03:27",
+      "id": 21
+    },
+    {
+      "start": 7495.074,
+      "end": 7501.163,
+      "title": "Chapter 023  - 00:00:06",
+      "id": 22
+    },
+    {
+      "start": 7501.163,
+      "end": 7714.507,
+      "title": "Chapter 024  - 00:03:33",
+      "id": 23
+    },
+    {
+      "start": 7714.507,
+      "end": 7858.104,
+      "title": "Chapter 025  - 00:02:23",
+      "id": 24
+    },
+    {
+      "start": 7858.104,
+      "end": 7864.062,
+      "title": "Chapter 026  - 00:00:05",
+      "id": 25
+    },
+    {
+      "start": 7864.062,
+      "end": 8374.157,
+      "title": "Chapter 027  - 00:08:30",
+      "id": 26
+    },
+    {
+      "start": 8374.157,
+      "end": 8379.984,
+      "title": "Chapter 028  - 00:00:05",
+      "id": 27
+    },
+    {
+      "start": 8379.984,
+      "end": 8831.8,
+      "title": "Chapter 029  - 00:07:31",
+      "id": 28
+    },
+    {
+      "start": 8831.8,
+      "end": 8837.68,
+      "title": "Chapter 030  - 00:00:05",
+      "id": 29
+    },
+    {
+      "start": 8837.68,
+      "end": 9197.101,
+      "title": "Chapter 031  - 00:05:59",
+      "id": 30
+    },
+    {
+      "start": 9197.101,
+      "end": 9750.533,
+      "title": "Chapter 032  - 00:09:13",
+      "id": 31
+    },
+    {
+      "start": 9750.533,
+      "end": 10763.955,
+      "title": "Chapter 033  - 00:16:53",
+      "id": 32
+    },
+    {
+      "start": 10763.955,
+      "end": 10769.652,
+      "title": "Chapter 034  - 00:00:05",
+      "id": 33
+    },
+    {
+      "start": 10769.652,
+      "end": 11281.21,
+      "title": "Chapter 035  - 00:08:31",
+      "id": 34
+    },
+    {
+      "start": 11281.21,
+      "end": 11287.063,
+      "title": "Chapter 036  - 00:00:05",
+      "id": 35
+    },
+    {
+      "start": 11287.063,
+      "end": 12061.779,
+      "title": "Chapter 037  - 00:12:54",
+      "id": 36
+    },
+    {
+      "start": 12061.779,
+      "end": 12067.632,
+      "title": "Chapter 038  - 00:00:05",
+      "id": 37
+    },
+    {
+      "start": 12067.632,
+      "end": 12605.391,
+      "title": "Chapter 039  - 00:08:57",
+      "id": 38
+    },
+    {
+      "start": 12605.391,
+      "end": 12679.868,
+      "title": "Chapter 040  - 00:01:14",
+      "id": 39
+    },
+    {
+      "start": 12679.868,
+      "end": 12685.565,
+      "title": "Chapter 041  - 00:00:05",
+      "id": 40
+    },
+    {
+      "start": 12685.565,
+      "end": 13164.705,
+      "title": "Chapter 042  - 00:07:59",
+      "id": 41
+    },
+    {
+      "start": 13164.705,
+      "end": 13170.062,
+      "title": "Chapter 043  - 00:00:05",
+      "id": 42
+    },
+    {
+      "start": 13170.062,
+      "end": 14060.395,
+      "title": "Chapter 044  - 00:14:50",
+      "id": 43
+    },
+    {
+      "start": 14060.395,
+      "end": 14066.04,
+      "title": "Chapter 045  - 00:00:05",
+      "id": 44
+    },
+    {
+      "start": 14066.04,
+      "end": 14778.845,
+      "title": "Chapter 046  - 00:11:52",
+      "id": 45
+    },
+    {
+      "start": 14778.845,
+      "end": 14845.93,
+      "title": "Chapter 047  - 00:01:07",
+      "id": 46
+    },
+    {
+      "start": 14845.93,
+      "end": 14851.914,
+      "title": "Chapter 048  - 00:00:05",
+      "id": 47
+    },
+    {
+      "start": 14851.914,
+      "end": 16331.648,
+      "title": "Chapter 049  - 00:24:39",
+      "id": 48
+    },
+    {
+      "start": 16331.648,
+      "end": 16337.423,
+      "title": "Chapter 050  - 00:00:05",
+      "id": 49
+    },
+    {
+      "start": 16337.423,
+      "end": 17978.803,
+      "title": "Chapter 051  - 00:27:21",
+      "id": 50
+    },
+    {
+      "start": 17978.803,
+      "end": 18120.99,
+      "title": "Chapter 052  - 00:02:22",
+      "id": 51
+    },
+    {
+      "start": 18120.99,
+      "end": 18126.582,
+      "title": "Chapter 053  - 00:00:05",
+      "id": 52
+    },
+    {
+      "start": 18126.582,
+      "end": 18993.484,
+      "title": "Chapter 054  - 00:14:26",
+      "id": 53
+    },
+    {
+      "start": 18993.484,
+      "end": 18999.494,
+      "title": "Chapter 055  - 00:00:06",
+      "id": 54
+    },
+    {
+      "start": 18999.494,
+      "end": 20022.007,
+      "title": "Chapter 056  - 00:17:02",
+      "id": 55
+    },
+    {
+      "start": 20022.007,
+      "end": 20027.86,
+      "title": "Chapter 057  - 00:00:05",
+      "id": 56
+    },
+    {
+      "start": 20027.86,
+      "end": 21246.396,
+      "title": "Chapter 058  - 00:20:18",
+      "id": 57
+    },
+    {
+      "start": 21246.396,
+      "end": 21252.171,
+      "title": "Chapter 059  - 00:00:05",
+      "id": 58
+    },
+    {
+      "start": 21252.171,
+      "end": 21505.587,
+      "title": "Chapter 060  - 00:04:13",
+      "id": 59
+    },
+    {
+      "start": 21505.587,
+      "end": 21910.356,
+      "title": "Chapter 061  - 00:06:44",
+      "id": 60
+    },
+    {
+      "start": 21910.356,
+      "end": 21916.183,
+      "title": "Chapter 062  - 00:00:05",
+      "id": 61
+    },
+    {
+      "start": 21916.183,
+      "end": 23459.316,
+      "title": "Chapter 063  - 00:25:43",
+      "id": 62
+    },
+    {
+      "start": 23459.316,
+      "end": 23465.274,
+      "title": "Chapter 064  - 00:00:05",
+      "id": 63
+    },
+    {
+      "start": 23465.274,
+      "end": 23674.073,
+      "title": "Chapter 065  - 00:03:28",
+      "id": 64
+    },
+    {
+      "start": 23674.073,
+      "end": 23990.444,
+      "title": "Chapter 066  - 00:05:16",
+      "id": 65
+    },
+    {
+      "start": 23990.444,
+      "end": 23996.115,
+      "title": "Chapter 067  - 00:00:05",
+      "id": 66
+    },
+    {
+      "start": 23996.115,
+      "end": 25124.424,
+      "title": "Chapter 068  - 00:18:48",
+      "id": 67
+    },
+    {
+      "start": 25124.424,
+      "end": 25130.33,
+      "title": "Chapter 069  - 00:00:05",
+      "id": 68
+    },
+    {
+      "start": 25130.33,
+      "end": 26933.225,
+      "title": "Chapter 070  - 00:30:02",
+      "id": 69
+    },
+    {
+      "start": 26933.225,
+      "end": 27153.701,
+      "title": "Chapter 071  - 00:03:40",
+      "id": 70
+    },
+    {
+      "start": 27153.701,
+      "end": 27601.808,
+      "title": "Chapter 072  - 00:07:28",
+      "id": 71
+    },
+    {
+      "start": 27601.808,
+      "end": 27990.094,
+      "title": "Chapter 073  - 00:06:28",
+      "id": 72
+    },
+    {
+      "start": 27990.094,
+      "end": 27995.921,
+      "title": "Chapter 074  - 00:00:05",
+      "id": 73
+    },
+    {
+      "start": 27995.921,
+      "end": 28308.661,
+      "title": "Chapter 075  - 00:05:12",
+      "id": 74
+    },
+    {
+      "start": 28308.661,
+      "end": 28349.231,
+      "title": "Chapter 076  - 00:00:40",
+      "id": 75
+    },
+    {
+      "start": 28349.231,
+      "end": 28470.885,
+      "title": "Chapter 077  - 00:02:01",
+      "id": 76
+    },
+    {
+      "start": 28470.885,
+      "end": 28544.213,
+      "title": "Chapter 078  - 00:01:13",
+      "id": 77
+    },
+    {
+      "start": 28544.213,
+      "end": 28605.681,
+      "title": "Chapter 079  - 00:01:01",
+      "id": 78
+    },
+    {
+      "start": 28605.681,
+      "end": 29113.164,
+      "title": "Chapter 080  - 00:08:27",
+      "id": 79
+    },
+    {
+      "start": 29113.164,
+      "end": 29461.796,
+      "title": "Chapter 081  - 00:05:48",
+      "id": 80
+    },
+    {
+      "start": 29461.796,
+      "end": 29512.005,
+      "title": "Chapter 082  - 00:00:50",
+      "id": 81
+    },
+    {
+      "start": 29512.005,
+      "end": 29554.639,
+      "title": "Chapter 083  - 00:00:42",
+      "id": 82
+    },
+    {
+      "start": 29554.639,
+      "end": 29588.6,
+      "title": "Chapter 084  - 00:00:33",
+      "id": 83
+    },
+    {
+      "start": 29588.6,
+      "end": 29647.743,
+      "title": "Chapter 085  - 00:00:59",
+      "id": 84
+    },
+    {
+      "start": 29647.743,
+      "end": 29673.711,
+      "title": "Chapter 086  - 00:00:25",
+      "id": 85
+    },
+    {
+      "start": 29673.711,
+      "end": 30374.108,
+      "title": "Chapter 087  - 00:11:40",
+      "id": 86
+    },
+    {
+      "start": 30374.108,
+      "end": 30655.214,
+      "title": "Chapter 088  - 00:04:41",
+      "id": 87
+    },
+    {
+      "start": 30655.214,
+      "end": 30691.735,
+      "title": "Chapter 089  - 00:00:36",
+      "id": 88
+    },
+    {
+      "start": 30691.735,
+      "end": 30753.282,
+      "title": "Chapter 090  - 00:01:01",
+      "id": 89
+    },
+    {
+      "start": 30753.282,
+      "end": 32686.737,
+      "title": "Chapter 091  - 00:32:13",
+      "id": 90
+    },
+    {
+      "start": 32686.737,
+      "end": 32692.303,
+      "title": "Chapter 092  - 00:00:05",
+      "id": 91
+    },
+    {
+      "start": 32692.303,
+      "end": 33861.337,
+      "title": "Chapter 093  - 00:19:29",
+      "id": 92
+    },
+    {
+      "start": 33861.337,
+      "end": 33901.672,
+      "title": "Chapter 094  - 00:00:40",
+      "id": 93
+    },
+    {
+      "start": 33901.672,
+      "end": 33906.089,
+      "title": "Chapter 095  - 00:00:04",
+      "id": 94
+    },
+    {
+      "start": 33906.089,
+      "end": 33951.544,
+      "title": "Chapter 096  - 00:00:45",
+      "id": 95
+    }
+  ],
+  "title": "The Breakdown",
+  "subtitle": null,
+  "authors": [
+    "B.A. Paris"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Psychological Thriller & Crime & Contemporary"
+  ],
+  "publishedYear": "2017",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "THE NEW CHILLING, PROPULSIVE NOVEL FROM THE AUTHOR OF THE INSTANT NEW YORK TIMES AND USA TODAY BESTSELLING BEHIND CLOSED DOORS.If you can’t trust yourself, who can you trust?Cass is having a hard time since the night she saw the car in the woods, on the winding rural road, in the middle of a downpour, with the woman sitting inside―the woman who was killed. She’s been trying to put the crime out of her mind; what could she have done, really? It’s a dangerous road to be on in the middle of a storm. Her husband would be furious if he knew she’d broken her promise not to take that shortcut home. And she probably would only have been hurt herself if she’d stopped.But since then, she’s been forgetting every little thing: where she left the car, if she took her pills, the alarm code, why she ordered a pram when she doesn’t have a baby.The only thing she can’t forget is that woman, the woman she might have saved, and the terrible nagging guilt.Or the silent calls she’s receiving, or the feeling that someone’s watching her…",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

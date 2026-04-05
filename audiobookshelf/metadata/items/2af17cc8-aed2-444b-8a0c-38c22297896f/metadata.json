@@ -1,0 +1,130 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 2348.964762,
+      "title": "Chapter 01 - The Childhood of Túrin"
+    },
+    {
+      "id": 1,
+      "start": 2348.964762,
+      "end": 3443.87288,
+      "title": "Chapter 02 - The Battle of Unnumbered Tears"
+    },
+    {
+      "id": 2,
+      "start": 3443.87288,
+      "end": 4120.411724,
+      "title": "Chapter 03 - The Words of Húrin and Morgoth"
+    },
+    {
+      "id": 3,
+      "start": 4120.411724,
+      "end": 5757.938480999999,
+      "title": "Chapter 04 - The Departure of Túrin"
+    },
+    {
+      "id": 4,
+      "start": 5757.938480999999,
+      "end": 7889.939886999999,
+      "title": "Chapter 05 - Túrin in Doriath"
+    },
+    {
+      "id": 5,
+      "start": 7889.939886999999,
+      "end": 10558.252857999998,
+      "title": "Chapter 06 - Túrin Among the Outlaws"
+    },
+    {
+      "id": 6,
+      "start": 10558.252857999998,
+      "end": 13126.073106999998,
+      "title": "Chapter 07 - Of Mîm the Dwarf"
+    },
+    {
+      "id": 7,
+      "start": 13126.073106999998,
+      "end": 14346.702244999999,
+      "title": "Chapter 08 - The Land of Bow and Helm"
+    },
+    {
+      "id": 8,
+      "start": 14346.702244999999,
+      "end": 15235.579273999998,
+      "title": "Chapter 09 - The Death of Beleg"
+    },
+    {
+      "id": 9,
+      "start": 15235.579273999998,
+      "end": 16692.092993,
+      "title": "Chapter 10 - Túrin in Nargothrond"
+    },
+    {
+      "id": 10,
+      "start": 16692.092993,
+      "end": 18023.516417,
+      "title": "Chapter 11 - The Fall of Nargothrond"
+    },
+    {
+      "id": 11,
+      "start": 18023.516417,
+      "end": 19221.229864,
+      "title": "Chapter 12 - The Return of Túrin to Dor-Lómin"
+    },
+    {
+      "id": 12,
+      "start": 19221.229864,
+      "end": 19954.111905,
+      "title": "Chapter 13 - The Coming of Túrin into Brethil"
+    },
+    {
+      "id": 13,
+      "start": 19954.111905,
+      "end": 22008.746531,
+      "title": "Chapter 14 - The Journey of Morwen and Niënor to Nargothrond"
+    },
+    {
+      "id": 14,
+      "start": 22008.746531,
+      "end": 22992.43991,
+      "title": "Chapter 15 - Niënor in Brethil"
+    },
+    {
+      "id": 15,
+      "start": 22992.43991,
+      "end": 24735.925534,
+      "title": "Chapter 16 - The Coming of Glaurung"
+    },
+    {
+      "id": 16,
+      "start": 24735.925534,
+      "end": 26671.776917000003,
+      "title": "Chapter 17 - The Death of Glaurung"
+    },
+    {
+      "id": 17,
+      "start": 26671.776917000003,
+      "end": 28285.201996000003,
+      "title": "Chapter 18 - The Death of Túrin"
+    }
+  ],
+  "title": "The Children of Húrin",
+  "subtitle": null,
+  "authors": [
+    "J. R. R. Tolkien"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2007",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

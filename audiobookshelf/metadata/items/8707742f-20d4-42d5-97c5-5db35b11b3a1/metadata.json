@@ -1,0 +1,166 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 697.838617,
+      "title": "0_ Foreword"
+    },
+    {
+      "id": 1,
+      "start": 697.838617,
+      "end": 3623.014989,
+      "title": "0_ Prologue"
+    },
+    {
+      "id": 2,
+      "start": 3623.014989,
+      "end": 7751.459078,
+      "title": "1_ Book I - Chapter 01 - A Long-Expected Party"
+    },
+    {
+      "id": 3,
+      "start": 7751.459078,
+      "end": 11864.113182000001,
+      "title": "1_ Book I - Chapter 02 - The Shadow of the Past"
+    },
+    {
+      "id": 4,
+      "start": 11864.113182000001,
+      "end": 15374.576379000002,
+      "title": "1_ Book I - Chapter 03 - Three is Company"
+    },
+    {
+      "id": 5,
+      "start": 15374.576379000002,
+      "end": 17465.781232,
+      "title": "1_ Book I - Chapter 04 - A Shortcut to Mushrooms"
+    },
+    {
+      "id": 6,
+      "start": 17465.781232,
+      "end": 19363.816720000003,
+      "title": "1_ Book I - Chapter 05 - A Conspiracy Unmasked"
+    },
+    {
+      "id": 7,
+      "start": 19363.816720000003,
+      "end": 21791.360688,
+      "title": "1_ Book I - Chapter 06 - The Old Forest"
+    },
+    {
+      "id": 8,
+      "start": 21791.360688,
+      "end": 23875.492434,
+      "title": "1_ Book I - Chapter 07 - In the House of Tom Bombadil"
+    },
+    {
+      "id": 9,
+      "start": 23875.492434,
+      "end": 26409.377105,
+      "title": "1_ Book I - Chapter 08 - Fog on the Barrow Downs"
+    },
+    {
+      "id": 10,
+      "start": 26409.377105,
+      "end": 28692.775744,
+      "title": "1_ Book I - Chapter 09 - At the Sign of The Prancing Pony"
+    },
+    {
+      "id": 11,
+      "start": 28692.775744,
+      "end": 30774.468464999998,
+      "title": "1_ Book I - Chapter 10 - Strider"
+    },
+    {
+      "id": 12,
+      "start": 30774.468464999998,
+      "end": 34286.151162999995,
+      "title": "1_ Book I - Chapter 11 - A Knife in the Dark"
+    },
+    {
+      "id": 13,
+      "start": 34286.151162999995,
+      "end": 37516.128532999996,
+      "title": "1_ Book I - Chapter 12 - Flight to the Ford"
+    },
+    {
+      "id": 14,
+      "start": 37516.128532999996,
+      "end": 40952.350868999994,
+      "title": "2_ Book II - Chapter 01 - Many Meetings"
+    },
+    {
+      "id": 15,
+      "start": 40952.350868999994,
+      "end": 47266.239621999994,
+      "title": "2_ Book II - Chapter 02 - The Council of Elrond"
+    },
+    {
+      "id": 16,
+      "start": 47266.239621999994,
+      "end": 51373.91744499999,
+      "title": "2_ Book II - Chapter 03 - The Ring Goes South"
+    },
+    {
+      "id": 17,
+      "start": 51373.91744499999,
+      "end": 55777.00173099999,
+      "title": "2_ Book II - Chapter 04 - A Journey in the Dark"
+    },
+    {
+      "id": 18,
+      "start": 55777.00173099999,
+      "end": 57870.31306899999,
+      "title": "2_ Book II - Chapter 05 - The Bridge of Khazad-dûm"
+    },
+    {
+      "id": 19,
+      "start": 57870.31306899999,
+      "end": 61567.13821599999,
+      "title": "2_ Book II - Chapter 06 - Lothlórien"
+    },
+    {
+      "id": 20,
+      "start": 61567.13821599999,
+      "end": 64231.172569999995,
+      "title": "2_ Book II - Chapter 07 - The Mirror of Galadriel"
+    },
+    {
+      "id": 21,
+      "start": 64231.172569999995,
+      "end": 66674.783908,
+      "title": "2_ Book II - Chapter 08 - Farewell to Lórien"
+    },
+    {
+      "id": 22,
+      "start": 66674.783908,
+      "end": 69347.872865,
+      "title": "2_ Book II - Chapter 09 - The Great River"
+    },
+    {
+      "id": 23,
+      "start": 69347.872865,
+      "end": 71703.50590399999,
+      "title": "2_ Book II - Chapter 10 - The Breaking of the Fellowship"
+    }
+  ],
+  "title": "The Fellowship of the Ring",
+  "subtitle": null,
+  "authors": [
+    "J. R. R. Tolkien"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "1954",
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

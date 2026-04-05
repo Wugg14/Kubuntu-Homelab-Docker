@@ -1,0 +1,393 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "title": "Legendborn",
+      "end": 24
+    },
+    {
+      "id": 1,
+      "start": 24,
+      "title": "Prologue",
+      "end": 443
+    },
+    {
+      "id": 2,
+      "start": 443,
+      "title": "Part 1 - Chapter 1",
+      "end": 2398
+    },
+    {
+      "id": 3,
+      "start": 2398,
+      "title": "Part 1 - Chapter 2",
+      "end": 3236
+    },
+    {
+      "id": 4,
+      "start": 3236,
+      "title": "Part 1 - Chapter 3",
+      "end": 3988.94
+    },
+    {
+      "id": 5,
+      "start": 3988.94,
+      "title": "Part 1 - Chapter 4",
+      "end": 5073.9400000000005
+    },
+    {
+      "id": 6,
+      "start": 5073.9400000000005,
+      "title": "Part 1 - Chapter 5",
+      "end": 5821.9400000000005
+    },
+    {
+      "id": 7,
+      "start": 5821.9400000000005,
+      "title": "Part 1 - Chapter 6",
+      "end": 7026.9400000000005
+    },
+    {
+      "id": 8,
+      "start": 7026.9400000000005,
+      "title": "Part 1 - Chapter 7",
+      "end": 8701.34125
+    },
+    {
+      "id": 9,
+      "start": 8701.34125,
+      "title": "Part 1 - Chapter 8",
+      "end": 10070.34125
+    },
+    {
+      "id": 10,
+      "start": 10070.34125,
+      "title": "Part 1 - Chapter 9",
+      "end": 11218.34125
+    },
+    {
+      "id": 11,
+      "start": 11218.34125,
+      "title": "Part 2 - Chapter 10",
+      "end": 12814.807
+    },
+    {
+      "id": 12,
+      "start": 12814.807,
+      "title": "Part 2 - Chapter 11",
+      "end": 14064.807
+    },
+    {
+      "id": 13,
+      "start": 14064.807,
+      "title": "Part 2 - Chapter 12",
+      "end": 15663.807
+    },
+    {
+      "id": 14,
+      "start": 15663.807,
+      "title": "Part 2 - Chapter 13",
+      "end": 16561.807
+    },
+    {
+      "id": 15,
+      "start": 16561.807,
+      "title": "Part 2 - Chapter 14",
+      "end": 17356.916
+    },
+    {
+      "id": 16,
+      "start": 17356.916,
+      "title": "Part 2 - Chapter 15",
+      "end": 19421.916
+    },
+    {
+      "id": 17,
+      "start": 19421.916,
+      "title": "Part 2 - Chapter 16",
+      "end": 20417.916
+    },
+    {
+      "id": 18,
+      "start": 20417.916,
+      "title": "Part 2 - Chapter 17",
+      "end": 21139.958875
+    },
+    {
+      "id": 19,
+      "start": 21139.958875,
+      "title": "Part 2 - Chapter 18",
+      "end": 22606.958875
+    },
+    {
+      "id": 20,
+      "start": 22606.958875,
+      "title": "Part 2 - Chapter 19",
+      "end": 23700.958875
+    },
+    {
+      "id": 21,
+      "start": 23700.958875,
+      "title": "Part 2 - Chapter 20",
+      "end": 24736.592
+    },
+    {
+      "id": 22,
+      "start": 24736.592,
+      "title": "Part 2 - Chapter 21",
+      "end": 26073.592
+    },
+    {
+      "id": 23,
+      "start": 26073.592,
+      "title": "Part 2 - Chapter 22",
+      "end": 27675.592
+    },
+    {
+      "id": 24,
+      "start": 27675.592,
+      "title": "Part 2 - Chapter 23",
+      "end": 28439.047125
+    },
+    {
+      "id": 25,
+      "start": 28439.047125,
+      "title": "Part 2 - Chapter 24",
+      "end": 30297.047125
+    },
+    {
+      "id": 26,
+      "start": 30297.047125,
+      "title": "Part 2 - Chapter 25",
+      "end": 31380.712
+    },
+    {
+      "id": 27,
+      "start": 31380.712,
+      "title": "Part 3 - Chapter 26",
+      "end": 33750.712
+    },
+    {
+      "id": 28,
+      "start": 33750.712,
+      "title": "Part 3 - Chapter 27",
+      "end": 35715.82675
+    },
+    {
+      "id": 29,
+      "start": 35715.82675,
+      "title": "Part 3 - Chapter 28",
+      "end": 37211.82675
+    },
+    {
+      "id": 30,
+      "start": 37211.82675,
+      "title": "Part 3 - Chapter 29",
+      "end": 38199.303875
+    },
+    {
+      "id": 31,
+      "start": 38199.303875,
+      "title": "Part 3 - Chapter 30",
+      "end": 40479.303875
+    },
+    {
+      "id": 32,
+      "start": 40479.303875,
+      "title": "Part 3 - Chapter 31",
+      "end": 41748.446375
+    },
+    {
+      "id": 33,
+      "start": 41748.446375,
+      "title": "Part 3 - Chapter 32",
+      "end": 43180.446375
+    },
+    {
+      "id": 34,
+      "start": 43180.446375,
+      "title": "Part 3 - Chapter 33",
+      "end": 44676.446375
+    },
+    {
+      "id": 35,
+      "start": 44676.446375,
+      "title": "Part 3 - Chapter 34",
+      "end": 45461.272125
+    },
+    {
+      "id": 36,
+      "start": 45461.272125,
+      "title": "Part 3 - Chapter 35",
+      "end": 46639.272125
+    },
+    {
+      "id": 37,
+      "start": 46639.272125,
+      "title": "Part 3 - Chapter 36",
+      "end": 48122.272125
+    },
+    {
+      "id": 38,
+      "start": 48122.272125,
+      "title": "Part 3 - Chapter 37",
+      "end": 48987.76637500001
+    },
+    {
+      "id": 39,
+      "start": 48987.76637500001,
+      "title": "Part 3 - Chapter 38",
+      "end": 50676.76637500001
+    },
+    {
+      "id": 40,
+      "start": 50676.76637500001,
+      "title": "Part 3 - Chapter 39",
+      "end": 51831.76637500001
+    },
+    {
+      "id": 41,
+      "start": 51831.76637500001,
+      "title": "Part 3 - Chapter 40",
+      "end": 52179.24025000001
+    },
+    {
+      "id": 42,
+      "start": 52179.24025000001,
+      "title": "Part 4 - Chapter 41",
+      "end": 53836.24025000001
+    },
+    {
+      "id": 43,
+      "start": 53836.24025000001,
+      "title": "Part 4 - Chapter 42",
+      "end": 54760.24025000001
+    },
+    {
+      "id": 44,
+      "start": 54760.24025000001,
+      "title": "Part 4 - Chapter 43",
+      "end": 55634.24025000001
+    },
+    {
+      "id": 45,
+      "start": 55634.24025000001,
+      "title": "Part 4 - Chapter 44",
+      "end": 56661.71175000001
+    },
+    {
+      "id": 46,
+      "start": 56661.71175000001,
+      "title": "Part 4 - Chapter 45",
+      "end": 58122.71175000001
+    },
+    {
+      "id": 47,
+      "start": 58122.71175000001,
+      "title": "Part 4 - Chapter 46",
+      "end": 58765.71175000001
+    },
+    {
+      "id": 48,
+      "start": 58765.71175000001,
+      "title": "Part 4 - Chapter 47",
+      "end": 60034.71175000001
+    },
+    {
+      "id": 49,
+      "start": 60034.71175000001,
+      "title": "Part 4 - Chapter 48",
+      "end": 60423.12525000001
+    },
+    {
+      "id": 50,
+      "start": 60423.12525000001,
+      "title": "Part 4 - Chapter 49",
+      "end": 61962.12525000001
+    },
+    {
+      "id": 51,
+      "start": 61962.12525000001,
+      "title": "Part 4 - Chapter 50",
+      "end": 62480.12525000001
+    },
+    {
+      "id": 52,
+      "start": 62480.12525000001,
+      "title": "Part 4 - Chapter 51",
+      "end": 63235.12525000001
+    },
+    {
+      "id": 53,
+      "start": 63235.12525000001,
+      "title": "Part 4 - Chapter 52",
+      "end": 63958.89300000001
+    },
+    {
+      "id": 54,
+      "start": 63958.89300000001,
+      "title": "Part 4 - Chapter 53",
+      "end": 64655.89300000001
+    },
+    {
+      "id": 55,
+      "start": 64655.89300000001,
+      "title": "Part 4 - Chapter 54",
+      "end": 65281.89300000001
+    },
+    {
+      "id": 56,
+      "start": 65281.89300000001,
+      "title": "Part 4 - Chapter 55",
+      "end": 65358.89300000001
+    },
+    {
+      "id": 57,
+      "start": 65358.89300000001,
+      "title": "Part 4 - Chapter 56",
+      "end": 66228.89300000001
+    },
+    {
+      "id": 58,
+      "start": 66228.89300000001,
+      "title": "Part 4 - Chapter 57",
+      "end": 67817.89300000001
+    },
+    {
+      "id": 59,
+      "start": 67817.89300000001,
+      "title": "Part 4 - Chapter 58",
+      "end": 68055.89300000001
+    },
+    {
+      "id": 60,
+      "start": 68055.89300000001,
+      "title": "Closing",
+      "end": 68089.44287500001
+    }
+  ],
+  "title": "Legendborn",
+  "subtitle": null,
+  "authors": [
+    "Tracy Deonn"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Fantasy",
+    "Mythology",
+    "Romance",
+    "Young Adult Fiction"
+  ],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": "Simon & Schuster - Audiobooks",
+  "description": "<b>Filled with mystery and an intriguingly rich magic system, Tracy Deonn's YA contemporary fantasy <i>Legendborn</i> offers the dark allure of <i>City of Bones</i> with a modern-day twist on a classic legend and a lot of Southern Black Girl Magic.</b><BR>After her mother dies in an accident, sixteen-year-old Bree Matthews wants nothing to do with her previous life, family memories, or her childhood home. A residential program for bright high schoolers at a local university seems like the perfect escape&#8212;until Bree witnesses a magical attack her very first night on campus.<BR> <BR>A flying demon feeding on human energies.<BR> <BR>A secret society of so called \"Legendborn\" students that hunt the creatures down.<BR> <BR>And a teenage mage who calls himself a \"Merlin\" and who attempts&#8212;and fails&#8212;to wipe Bree's memory of everything she saw.<BR> <BR>The mage's failure reveals Bree's own, unique magic and unlocks a buried memory with a hidden connection: the night her...",
+  "isbn": null,
+  "asin": null,
+  "language": "English",
+  "explicit": false,
+  "abridged": false
+}

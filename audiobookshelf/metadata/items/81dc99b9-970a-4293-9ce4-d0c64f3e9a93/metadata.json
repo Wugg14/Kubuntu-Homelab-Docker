@@ -1,0 +1,532 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "start": 0,
+      "end": 8.987,
+      "title": "01-85 The Teacher",
+      "id": 0
+    },
+    {
+      "start": 8.987,
+      "end": 320.995,
+      "title": "02-85 The Teacher",
+      "id": 1
+    },
+    {
+      "start": 320.995,
+      "end": 821.999,
+      "title": "03-85 The Teacher",
+      "id": 2
+    },
+    {
+      "start": 821.999,
+      "end": 1433.004,
+      "title": "04-85 The Teacher",
+      "id": 3
+    },
+    {
+      "start": 1433.004,
+      "end": 1799.007,
+      "title": "05-85 The Teacher",
+      "id": 4
+    },
+    {
+      "start": 1799.007,
+      "end": 2443.997,
+      "title": "06-85 The Teacher",
+      "id": 5
+    },
+    {
+      "start": 2443.997,
+      "end": 2982.016,
+      "title": "07-85 The Teacher",
+      "id": 6
+    },
+    {
+      "start": 2982.016,
+      "end": 3540.019,
+      "title": "08-85 The Teacher",
+      "id": 7
+    },
+    {
+      "start": 3540.019,
+      "end": 4121.323,
+      "title": "09-85 The Teacher",
+      "id": 8
+    },
+    {
+      "start": 4121.323,
+      "end": 4399.293,
+      "title": "10-85 The Teacher",
+      "id": 9
+    },
+    {
+      "start": 4399.293,
+      "end": 4776.293,
+      "title": "11-85 The Teacher",
+      "id": 10
+    },
+    {
+      "start": 4776.293,
+      "end": 5180.278,
+      "title": "12-85 The Teacher",
+      "id": 11
+    },
+    {
+      "start": 5180.278,
+      "end": 5651.293,
+      "title": "13-85 The Teacher",
+      "id": 12
+    },
+    {
+      "start": 5651.293,
+      "end": 5994.282,
+      "title": "14-85 The Teacher",
+      "id": 13
+    },
+    {
+      "start": 5994.282,
+      "end": 6169.303,
+      "title": "15-85 The Teacher",
+      "id": 14
+    },
+    {
+      "start": 6169.303,
+      "end": 6524.282,
+      "title": "16-85 The Teacher",
+      "id": 15
+    },
+    {
+      "start": 6524.282,
+      "end": 7050.285,
+      "title": "17-85 The Teacher",
+      "id": 16
+    },
+    {
+      "start": 7050.285,
+      "end": 7508.291,
+      "title": "18-85 The Teacher",
+      "id": 17
+    },
+    {
+      "start": 7508.291,
+      "end": 7888.4,
+      "title": "19-85 The Teacher",
+      "id": 18
+    },
+    {
+      "start": 7888.4,
+      "end": 8555.333,
+      "title": "20-85 The Teacher",
+      "id": 19
+    },
+    {
+      "start": 8555.333,
+      "end": 8935.337,
+      "title": "21-85 The Teacher",
+      "id": 20
+    },
+    {
+      "start": 8935.337,
+      "end": 9418.316,
+      "title": "22-85 The Teacher",
+      "id": 21
+    },
+    {
+      "start": 9418.316,
+      "end": 9588.322,
+      "title": "23-85 The Teacher",
+      "id": 22
+    },
+    {
+      "start": 9588.322,
+      "end": 9818.331,
+      "title": "24-85 The Teacher",
+      "id": 23
+    },
+    {
+      "start": 9818.331,
+      "end": 10118.322,
+      "title": "25-85 The Teacher",
+      "id": 24
+    },
+    {
+      "start": 10118.322,
+      "end": 10864.328,
+      "title": "26-85 The Teacher",
+      "id": 25
+    },
+    {
+      "start": 10864.328,
+      "end": 11485.338,
+      "title": "27-85 The Teacher",
+      "id": 26
+    },
+    {
+      "start": 11485.338,
+      "end": 11716.34,
+      "title": "28-85 The Teacher",
+      "id": 27
+    },
+    {
+      "start": 11716.34,
+      "end": 12333.092,
+      "title": "29-85 The Teacher",
+      "id": 28
+    },
+    {
+      "start": 12333.092,
+      "end": 12907.003,
+      "title": "30-85 The Teacher",
+      "id": 29
+    },
+    {
+      "start": 12907.003,
+      "end": 13399.02,
+      "title": "31-85 The Teacher",
+      "id": 30
+    },
+    {
+      "start": 13399.02,
+      "end": 13657.006,
+      "title": "32-85 The Teacher",
+      "id": 31
+    },
+    {
+      "start": 13657.006,
+      "end": 14112.008,
+      "title": "33-85 The Teacher",
+      "id": 32
+    },
+    {
+      "start": 14112.008,
+      "end": 14523.02,
+      "title": "34-85 The Teacher",
+      "id": 33
+    },
+    {
+      "start": 14523.02,
+      "end": 15095.024,
+      "title": "35-85 The Teacher",
+      "id": 34
+    },
+    {
+      "start": 15095.024,
+      "end": 15692.001,
+      "title": "36-85 The Teacher",
+      "id": 35
+    },
+    {
+      "start": 15692.001,
+      "end": 15891.003,
+      "title": "37-85 The Teacher",
+      "id": 36
+    },
+    {
+      "start": 15891.003,
+      "end": 16024.02,
+      "title": "38-85 The Teacher",
+      "id": 37
+    },
+    {
+      "start": 16024.02,
+      "end": 16869.344,
+      "title": "39-85 The Teacher",
+      "id": 38
+    },
+    {
+      "start": 16869.344,
+      "end": 17164.268,
+      "title": "40-85 The Teacher",
+      "id": 39
+    },
+    {
+      "start": 17164.268,
+      "end": 17334.274,
+      "title": "41-85 The Teacher",
+      "id": 40
+    },
+    {
+      "start": 17334.274,
+      "end": 17961.292,
+      "title": "42-85 The Teacher",
+      "id": 41
+    },
+    {
+      "start": 17961.292,
+      "end": 18514.279,
+      "title": "43-85 The Teacher",
+      "id": 42
+    },
+    {
+      "start": 18514.279,
+      "end": 19118.283,
+      "title": "44-85 The Teacher",
+      "id": 43
+    },
+    {
+      "start": 19118.283,
+      "end": 19509.285,
+      "title": "45-85 The Teacher",
+      "id": 44
+    },
+    {
+      "start": 19509.285,
+      "end": 19850.289,
+      "title": "46-85 The Teacher",
+      "id": 45
+    },
+    {
+      "start": 19850.289,
+      "end": 20493.294,
+      "title": "47-85 The Teacher",
+      "id": 46
+    },
+    {
+      "start": 20493.294,
+      "end": 21020.76,
+      "title": "48-85 The Teacher",
+      "id": 47
+    },
+    {
+      "start": 21020.76,
+      "end": 21463.693,
+      "title": "49-85 The Teacher",
+      "id": 48
+    },
+    {
+      "start": 21463.693,
+      "end": 21737.692,
+      "title": "50-85 The Teacher",
+      "id": 49
+    },
+    {
+      "start": 21737.692,
+      "end": 22000.694,
+      "title": "51-85 The Teacher",
+      "id": 50
+    },
+    {
+      "start": 22000.694,
+      "end": 22788.679,
+      "title": "52-85 The Teacher",
+      "id": 51
+    },
+    {
+      "start": 22788.679,
+      "end": 23252.693,
+      "title": "53-85 The Teacher",
+      "id": 52
+    },
+    {
+      "start": 23252.693,
+      "end": 23436.674,
+      "title": "54-85 The Teacher",
+      "id": 53
+    },
+    {
+      "start": 23436.674,
+      "end": 23701.687,
+      "title": "55-85 The Teacher",
+      "id": 54
+    },
+    {
+      "start": 23701.687,
+      "end": 24118.681,
+      "title": "56-85 The Teacher",
+      "id": 55
+    },
+    {
+      "start": 24118.681,
+      "end": 24399.681,
+      "title": "57-85 The Teacher",
+      "id": 56
+    },
+    {
+      "start": 24399.681,
+      "end": 24762.68,
+      "title": "58-85 The Teacher",
+      "id": 57
+    },
+    {
+      "start": 24762.68,
+      "end": 25185.682,
+      "title": "59-85 The Teacher",
+      "id": 58
+    },
+    {
+      "start": 25185.682,
+      "end": 25617.931,
+      "title": "60-85 The Teacher",
+      "id": 59
+    },
+    {
+      "start": 25617.931,
+      "end": 25985.841,
+      "title": "61-85 The Teacher",
+      "id": 60
+    },
+    {
+      "start": 25985.841,
+      "end": 26605.832,
+      "title": "62-85 The Teacher",
+      "id": 61
+    },
+    {
+      "start": 26605.832,
+      "end": 27181.833,
+      "title": "63-85 The Teacher",
+      "id": 62
+    },
+    {
+      "start": 27181.833,
+      "end": 27450.843,
+      "title": "64-85 The Teacher",
+      "id": 63
+    },
+    {
+      "start": 27450.843,
+      "end": 27780.849,
+      "title": "65-85 The Teacher",
+      "id": 64
+    },
+    {
+      "start": 27780.849,
+      "end": 27979.851,
+      "title": "66-85 The Teacher",
+      "id": 65
+    },
+    {
+      "start": 27979.851,
+      "end": 28485.844,
+      "title": "67-85 The Teacher",
+      "id": 66
+    },
+    {
+      "start": 28485.844,
+      "end": 28793.855,
+      "title": "68-85 The Teacher",
+      "id": 67
+    },
+    {
+      "start": 28793.855,
+      "end": 29365.859,
+      "title": "69-85 The Teacher",
+      "id": 68
+    },
+    {
+      "start": 29365.859,
+      "end": 29599.865,
+      "title": "70-85 The Teacher",
+      "id": 69
+    },
+    {
+      "start": 29599.865,
+      "end": 29981.541,
+      "title": "71-85 The Teacher",
+      "id": 70
+    },
+    {
+      "start": 29981.541,
+      "end": 30280.461,
+      "title": "72-85 The Teacher",
+      "id": 71
+    },
+    {
+      "start": 30280.461,
+      "end": 30717.465,
+      "title": "73-85 The Teacher",
+      "id": 72
+    },
+    {
+      "start": 30717.465,
+      "end": 30876.473,
+      "title": "74-85 The Teacher",
+      "id": 73
+    },
+    {
+      "start": 30876.473,
+      "end": 31249.477,
+      "title": "75-85 The Teacher",
+      "id": 74
+    },
+    {
+      "start": 31249.477,
+      "end": 31660.463,
+      "title": "76-85 The Teacher",
+      "id": 75
+    },
+    {
+      "start": 31660.463,
+      "end": 32015.468,
+      "title": "77-85 The Teacher",
+      "id": 76
+    },
+    {
+      "start": 32015.468,
+      "end": 32317.471,
+      "title": "78-85 The Teacher",
+      "id": 77
+    },
+    {
+      "start": 32317.471,
+      "end": 32590.478,
+      "title": "79-85 The Teacher",
+      "id": 78
+    },
+    {
+      "start": 32590.478,
+      "end": 33042.476,
+      "title": "80-85 The Teacher",
+      "id": 79
+    },
+    {
+      "start": 33042.476,
+      "end": 33401.478,
+      "title": "81-85 The Teacher",
+      "id": 80
+    },
+    {
+      "start": 33401.478,
+      "end": 33910.475,
+      "title": "82-85 The Teacher",
+      "id": 81
+    },
+    {
+      "start": 33910.475,
+      "end": 34361.48,
+      "title": "83-85 The Teacher",
+      "id": 82
+    },
+    {
+      "start": 34361.48,
+      "end": 34490.474,
+      "title": "84-85 The Teacher",
+      "id": 83
+    },
+    {
+      "start": 34490.474,
+      "end": 34531.54,
+      "title": "85-85 The Teacher",
+      "id": 84
+    }
+  ],
+  "title": "The Teacher",
+  "subtitle": null,
+  "authors": [
+    "Freida McFadden"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": "2024",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "Lesson #1: Trust no one. Eve",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

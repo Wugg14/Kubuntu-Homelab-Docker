@@ -1,0 +1,34 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 23586.690612,
+      "title": "BandofBrothersPart1_mp3"
+    },
+    {
+      "id": 1,
+      "start": 23586.690612,
+      "end": 45518.445714,
+      "title": "BandofBrothersPart2_mp3"
+    }
+  ],
+  "title": "Band of Brothers",
+  "subtitle": null,
+  "authors": [
+    "Stephen Ambrose"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [],
+  "publishedYear": null,
+  "publishedDate": null,
+  "publisher": null,
+  "description": null,
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}

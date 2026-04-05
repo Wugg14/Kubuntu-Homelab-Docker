@@ -1,0 +1,270 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 130.150067,
+      "title": "01 - Preface to the New Edition"
+    },
+    {
+      "id": 1,
+      "start": 130.150067,
+      "end": 803.0462560000001,
+      "title": "02 - Chap 1 - A Telegram Waylaid"
+    },
+    {
+      "id": 2,
+      "start": 803.0462560000001,
+      "end": 1508.2820120000001,
+      "title": "03 - Chap 1 - A Telegram Waylaid"
+    },
+    {
+      "id": 3,
+      "start": 1508.2820120000001,
+      "end": 2290.4745120000002,
+      "title": "04 - Chap 1 - A Telegram Waylaid"
+    },
+    {
+      "id": 4,
+      "start": 2290.4745120000002,
+      "end": 3036.59189,
+      "title": "05 - Chap 1 - A Telegram Waylaid"
+    },
+    {
+      "id": 5,
+      "start": 3036.59189,
+      "end": 3698.647268,
+      "title": "06 - Chap 2 - The Clever Kaiser and the Yellow Peril"
+    },
+    {
+      "id": 6,
+      "start": 3698.647268,
+      "end": 4258.041393,
+      "title": "07 - Chap 2 - The Clever Kaiser and the Yellow Peril"
+    },
+    {
+      "id": 7,
+      "start": 4258.041393,
+      "end": 4802.38896,
+      "title": "08 - Chap 2 - The Clever Kaiser and the Yellow Peril"
+    },
+    {
+      "id": 8,
+      "start": 4802.38896,
+      "end": 5462.850838,
+      "title": "09 - Chap 3 - Seize the Customs House at Once!"
+    },
+    {
+      "id": 9,
+      "start": 5462.850838,
+      "end": 6198.675963000001,
+      "title": "10 - Chap 3 - Seize the Customs House at Once!"
+    },
+    {
+      "id": 10,
+      "start": 6198.675963000001,
+      "end": 6858.719901,
+      "title": "11 - Chap 3 - Seize the Customs House at Once!"
+    },
+    {
+      "id": 11,
+      "start": 6858.719901,
+      "end": 7594.179339,
+      "title": "12 - Chap 4 - The Third Partner - Japan"
+    },
+    {
+      "id": 12,
+      "start": 7594.179339,
+      "end": 8358.765277,
+      "title": "13 - Chap 4 - The Third Partner - Japan"
+    },
+    {
+      "id": 13,
+      "start": 8358.765277,
+      "end": 9091.142277,
+      "title": "14 - Chap 5 - Von Rintelen Came Here, Backed by Millions..."
+    },
+    {
+      "id": 14,
+      "start": 9091.142277,
+      "end": 9758.578844000001,
+      "title": "15 - Chap 5 - Von Rintelen Came Here, Backed by Millions..."
+    },
+    {
+      "id": 15,
+      "start": 9758.578844000001,
+      "end": 10473.506033000001,
+      "title": "16 - Chap 5 - Von Rintelen Came Here, Backed by Millions..."
+    },
+    {
+      "id": 16,
+      "start": 10473.506033000001,
+      "end": 10930.865846,
+      "title": "17 - Chap 5 - Von Rintelen Came Here, Backed by Millions..."
+    },
+    {
+      "id": 17,
+      "start": 10930.865846,
+      "end": 11316.179971000001,
+      "title": "18 - Chap 5 - Von Rintelen Came Here, Backed by Millions..."
+    },
+    {
+      "id": 18,
+      "start": 11316.179971000001,
+      "end": 12001.693284,
+      "title": "19 - Chap 6 - Viva Villa! - Made in Germany"
+    },
+    {
+      "id": 19,
+      "start": 12001.693284,
+      "end": 12545.884162,
+      "title": "20 - Chap 6 - Viva Villa! - Made in Germany"
+    },
+    {
+      "id": 20,
+      "start": 12545.884162,
+      "end": 13140.7526,
+      "title": "21 - Chap 6 - Viva Villa! - Made in Germany"
+    },
+    {
+      "id": 21,
+      "start": 13140.7526,
+      "end": 13751.921413,
+      "title": "22 - Chap 6 - Viva Villa! - Made in Germany"
+    },
+    {
+      "id": 22,
+      "start": 13751.921413,
+      "end": 14429.336791,
+      "title": "23 - Chap 7 - Our Friend Zimmermann"
+    },
+    {
+      "id": 23,
+      "start": 14429.336791,
+      "end": 15217.641916,
+      "title": "24 - Chap 7 - Our Friend Zimmermann"
+    },
+    {
+      "id": 24,
+      "start": 15217.641916,
+      "end": 15880.062983,
+      "title": "25 - Chap 8 - The Trap"
+    },
+    {
+      "id": 25,
+      "start": 15880.062983,
+      "end": 16507.088108,
+      "title": "26 - Chap 8 - The Trap"
+    },
+    {
+      "id": 26,
+      "start": 16507.088108,
+      "end": 17116.402233,
+      "title": "27 - Chap 8 - The Trap"
+    },
+    {
+      "id": 27,
+      "start": 17116.402233,
+      "end": 17688.726989000003,
+      "title": "28 - Chap 8 - The Trap"
+    },
+    {
+      "id": 28,
+      "start": 17688.726989000003,
+      "end": 18340.202745000002,
+      "title": "29 - Chap 9 - The Telegram is Sent"
+    },
+    {
+      "id": 29,
+      "start": 18340.202745000002,
+      "end": 19121.794434000003,
+      "title": "30 - Chap 9 - The Telegram is Sent"
+    },
+    {
+      "id": 30,
+      "start": 19121.794434000003,
+      "end": 19918.824501000003,
+      "title": "31 - Chap 9 - The Telegram is Sent"
+    },
+    {
+      "id": 31,
+      "start": 19918.824501000003,
+      "end": 20460.742690000003,
+      "title": "32 - Chap 10 - The Most Dramatic Moment in All My Life"
+    },
+    {
+      "id": 32,
+      "start": 20460.742690000003,
+      "end": 21095.160503000003,
+      "title": "33 - Chap 10 - The Most Dramatic Moment in All My Life"
+    },
+    {
+      "id": 33,
+      "start": 21095.160503000003,
+      "end": 21503.854192000003,
+      "title": "34 - Chap 10 - The Most Dramatic Moment in All My Life"
+    },
+    {
+      "id": 34,
+      "start": 21503.854192000003,
+      "end": 22114.657317,
+      "title": "35 - Chap 11 - The Telegram in Washington"
+    },
+    {
+      "id": 35,
+      "start": 22114.657317,
+      "end": 22830.942884,
+      "title": "36 - Chap 11 - The Telegram in Washington"
+    },
+    {
+      "id": 36,
+      "start": 22830.942884,
+      "end": 23586.124762,
+      "title": "37 - Chap 11 - The Telegram in Washington"
+    },
+    {
+      "id": 37,
+      "start": 23586.124762,
+      "end": 24133.136829,
+      "title": "38 - Chap 12 - Obliged to Believe It"
+    },
+    {
+      "id": 38,
+      "start": 24133.136829,
+      "end": 24578.898329,
+      "title": "39 - Chap 12 - Obliged to Believe It"
+    },
+    {
+      "id": 39,
+      "start": 24578.898329,
+      "end": 25161.750396,
+      "title": "40 - Chap 12 - Obliged to Believe It"
+    },
+    {
+      "id": 40,
+      "start": 25161.750396,
+      "end": 25957.239209,
+      "title": "41 - Chap 12 - Obliged to Believe It"
+    }
+  ],
+  "title": "Blackstone Audio, Inc.",
+  "subtitle": null,
+  "authors": [
+    "Barbara W. Tuchman"
+  ],
+  "narrators": [],
+  "series": [],
+  "genres": [
+    "Audiobook"
+  ],
+  "publishedYear": "1985",
+  "publishedDate": null,
+  "publisher": null,
+  "description": "In the dark winter of 1917, as World War I was deadlocked, Britain knew that Europe could be saved only if the United States joined the war. But President Wilson remained unshakable in his neutrality. Then, with a single stroke, the tool to propel America into the war came into a quiet British office. One of countless messages intercepted by the crack team of British decoders, the Zimmermann telegram was a top-secret message from Berlin inviting Mexico to join Japan in an invasion of the United States: Mexico would recover her lost American territories while keeping the U.S. occupied on her side of the Atlantic. How Britain managed to inform America of Germany's plan without revealing that the German codes had been broken makes for an incredible, true story of espionage, intrigue, and international politics as only Barbara W. Tuchman could tell it.",
+  "isbn": null,
+  "asin": null,
+  "language": null,
+  "explicit": false,
+  "abridged": false
+}
